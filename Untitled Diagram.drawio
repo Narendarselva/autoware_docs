@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:51:04.727Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TWKaHMvgxKdQSJJiZn2y" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:53:45.142Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JCwTeuvZANC8h_ky0o-0" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -808,7 +808,10 @@
             <mxGeometry x="-570" y="1039" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="localization_error_monitor.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/localization.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-291">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-291" target="z-h-IKz81wdwOY6-5DcS-341">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="localization_error_monitor.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/localization_error_monitor/localization_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-291">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
             <mxGeometry x="-570" y="1119" width="120" height="40" as="geometry" />
           </mxCell>
@@ -906,9 +909,22 @@
             <mxGeometry x="-250" y="1018" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="twist2accel" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/twist2accel/launch/twist2accel.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-337">
+        <UserObject label="twist2accel" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-337">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
             <mxGeometry x="-250" y="1079" width="120" height="21" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-341" target="z-h-IKz81wdwOY6-5DcS-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="localization_error_monitor.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/localization_error_monitor/launch/localization_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-341">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="-410" y="1128.5" width="120" height="21" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="localization_error_monitor" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-342">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="-250" y="1128.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
