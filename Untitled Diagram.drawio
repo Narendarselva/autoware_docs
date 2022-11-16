@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T11:53:33.080Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I8xT7CXxQYhBeqfQq6iM" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T12:03:52.977Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ok1yCfcEM1osKjOwQN0F" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1152,7 +1152,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="1920" />
-              <mxPoint x="290" y="2040" />
+              <mxPoint x="290" y="2130" />
+              <mxPoint x="410" y="2130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1166,29 +1167,61 @@
             <mxGeometry x="140" y="1900" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="camera_lidar_radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-417">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-428" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-417" target="z-h-IKz81wdwOY6-5DcS-427">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-430" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-417" target="z-h-IKz81wdwOY6-5DcS-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-432" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-417" target="z-h-IKz81wdwOY6-5DcS-431">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="camera_lidar_radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/camera_lidar_radar_fusion_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-417">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
             <mxGeometry x="410" y="1900" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="camera_lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-420">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-434" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-420" target="z-h-IKz81wdwOY6-5DcS-433">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="camera_lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/camera_lidar_fusion_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-420">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="410" y="2020" width="120" height="40" as="geometry" />
+            <mxGeometry x="410" y="2112" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="lidar_radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-424">
+        <UserObject label="lidar_radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/lidar_radar_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-424">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="410" y="2110" width="120" height="40" as="geometry" />
+            <mxGeometry x="410" y="2202" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-425">
+        <UserObject label="lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/lidar_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-425">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="410" y="2190" width="120" height="40" as="geometry" />
+            <mxGeometry x="410" y="2282" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-426">
+        <UserObject label="radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/radar_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-426">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="410" y="2270" width="120" height="40" as="geometry" />
+            <mxGeometry x="410" y="2362" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="camera_lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/camera_lidar_fusion_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-427">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="600" y="1900" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/radar_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-429">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="600" y="1970" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="radar_object_fusion_to_detected_object" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/radar_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-431">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="600" y="2030" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="pointclouid_map_filter.launch.py" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/camera_lidar_fusion_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-433">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="600" y="2112" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
