@@ -1,24 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T05:11:18.985Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a-zHxlBBwH2q-9WEhfvM" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T05:50:13.903Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TGnsOuwlWlvX2hbjdbPg" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
-    <mxGraphModel dx="2009" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="3-MmgMnse_00YxakQFqG-1" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;e2e_simulator.lau&lt;a href=&quot;https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/e2e_simulator.launch.xml&quot;&gt;https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/e2e_simulator.launch.xml&lt;/a&gt;nch.xml&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MmgMnse_00YxakQFqG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3-MmgMnse_00YxakQFqG-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3-MmgMnse_00YxakQFqG-1" target="3-MmgMnse_00YxakQFqG-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="400" as="sourcePoint" />
-            <mxPoint x="120" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
+        <object label="mine" c="" id="1">
+          <mxCell parent="0" />
+        </object>
+        <UserObject label="e2e_simulator_launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/e2e_simulator.launch.xml" id="z-h-IKz81wdwOY6-5DcS-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;" vertex="1" parent="1">
+            <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
