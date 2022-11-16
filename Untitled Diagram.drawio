@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T07:13:59.004Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="w36jKAC77GG1sIeuT8fg" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T07:20:44.835Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AgSC1GUfNtzsbNM79642" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2009" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,55 +56,6 @@
             <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-10" target="z-h-IKz81wdwOY6-5DcS-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="global_params.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/common/global_parameter_loader/launch/global_params.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-15" target="z-h-IKz81wdwOY6-5DcS-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-15" target="z-h-IKz81wdwOY6-5DcS-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-74" value="if simulation then &quot;NO&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-69">
-          <mxGeometry x="-0.658" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="vehicle.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_vehicle_launch/launch/vehicle.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-15">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="320" y="430" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="700" />
-              <mxPoint x="470" y="800" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-94">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="1030" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="system.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-16">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="320" y="680" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="map.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_map_launch/launch/map.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="-50" y="910" width="120" height="40" as="geometry" />
@@ -140,77 +91,116 @@
             <mxGeometry x="90" y="980" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="315" width="220" height="40" as="geometry" />
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-99" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="400" width="570" height="240" as="geometry" />
         </mxCell>
-        <UserObject label="pointcloud_container.launch.py" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/pointcloud_container.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-14">
-          <mxCell style="rounded=1;html=1;glass=0;sketch=0;whiteSpace=wrap;fillOpacity=100;overflow=width;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-34">
-            <mxGeometry x="100" width="120" height="40" as="geometry" />
+        <UserObject label="vehicle.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_vehicle_launch/launch/vehicle.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+            <mxGeometry y="40" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px; color: rgb(36, 41, 47);&quot;&gt;This package is to set common ROS parameters to each node.&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;The vehicle model parameter is read from&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; padding: 0.2em 0.4em; margin: 0px; background-color: var(--color-neutral-muted); border-radius: 6px; color: rgb(36, 41, 47);&quot;&gt;config/vehicle_info.param.yaml&lt;/code&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&amp;nbsp;in&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; padding: 0.2em 0.4em; margin: 0px; background-color: var(--color-neutral-muted); border-radius: 6px; color: rgb(36, 41, 47);&quot;&gt;vehicle_model&lt;/code&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;_description package&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/common/global_parameter_loader" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-50">
-          <mxCell style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=12;dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="500" y="185" width="190" height="70" as="geometry" />
+        <UserObject label="robot_state_publisher" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_vehicle_launch/launch/vehicle.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-57">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+            <mxGeometry x="190" y="40" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 47);&quot;&gt;This package creates pointcloud containers based on &quot;use_multithread&quot; flag either as multithread or single thread. This groups agnostic ros2 nodes in a single process.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/common/global_parameter_loader" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-55">
-          <mxCell style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=12;dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="500" y="300" width="190" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-14" target="z-h-IKz81wdwOY6-5DcS-55">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-99" source="z-h-IKz81wdwOY6-5DcS-15" target="z-h-IKz81wdwOY6-5DcS-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="robot_state_publisher" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_vehicle_launch/launch/vehicle.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-57">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="510" y="430" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-59" target="z-h-IKz81wdwOY6-5DcS-57">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-99" source="z-h-IKz81wdwOY6-5DcS-59" target="z-h-IKz81wdwOY6-5DcS-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="vehicle.xacro" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_vehicle_launch/urdf/vehicle.xacro" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-59">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;dashed=1;" vertex="1" parent="1">
-            <mxGeometry x="700" y="430" width="120" height="40" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;dashed=1;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+            <mxGeometry x="380" y="40" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-62" target="z-h-IKz81wdwOY6-5DcS-59">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-99" source="z-h-IKz81wdwOY6-5DcS-62" target="z-h-IKz81wdwOY6-5DcS-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="vehicle.xacro" link="https://github.com/autowarefoundation/sample_vehicle_launch/blob/main/sample_vehicle_description/urdf/vehicle.xacro" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-62">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="830" y="390" width="60" height="20" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+            <mxGeometry x="510" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-63" target="z-h-IKz81wdwOY6-5DcS-59">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-99" source="z-h-IKz81wdwOY6-5DcS-63" target="z-h-IKz81wdwOY6-5DcS-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="sensor.xacro" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/awsim_sensor_kit_description/urdf/sensors.xacro" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-63">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="830" y="480" width="60" height="20" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+            <mxGeometry x="510" y="90" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-68" target="z-h-IKz81wdwOY6-5DcS-71">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-68" value="launch_vehicle_interface" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=default;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+          <mxGeometry x="170" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-68" value="launch_vehicle_interface" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=default;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-          <mxGeometry x="490" y="550" width="80" height="80" as="geometry" />
-        </mxCell>
-        <UserObject label="vehicle_interface.launch" link="https://github.com/autowarefoundation/sample_vehicle_launch/blob/main/sample_vehicle_launch/launch/vehicle_interface.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-71">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="610" y="570" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="system.monitor.py" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-75">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="500" y="680" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-79">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-99" source="z-h-IKz81wdwOY6-5DcS-15" target="z-h-IKz81wdwOY6-5DcS-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="800" />
-              <mxPoint x="610" y="800" />
+              <mxPoint x="60" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-74" value="if simulation then &quot;NO&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-69">
+          <mxGeometry x="-0.658" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="vehicle_interface.launch" link="https://github.com/autowarefoundation/sample_vehicle_launch/blob/main/sample_vehicle_launch/launch/vehicle_interface.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-71">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-99">
+            <mxGeometry x="290" y="180" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-99" source="z-h-IKz81wdwOY6-5DcS-68" target="z-h-IKz81wdwOY6-5DcS-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="680" width="450" height="380" as="geometry" />
+        </mxCell>
+        <UserObject label="system.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="system.monitor.py" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/system_monitor/launch/system_monitor.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-75">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry x="180" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="emergency_handler.launch.xml" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/emergency_handler/launch/emergency_handler.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-94">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry x="180" y="340" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="20" />
+              <mxPoint x="150" y="153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-77" value="run_mode" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=default;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+          <mxGeometry x="190" y="113" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="ad_service_monitor.launch&lt;br&gt;conf:&amp;nbsp;ad_service_state_monitor.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/ad_service_state_monitor/launch/ad_service_state_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-79">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry x="330" y="133" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="153" />
+              <mxPoint x="290" y="153" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -219,7 +209,12 @@
             <mxPoint x="-4" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-83">
+        <UserObject label="ad_service_monitor.launch&lt;br&gt;conf:&amp;nbsp;ad_service_state_monitor.planning_simulation.param.yaml" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/ad_service_state_monitor/launch/ad_service_state_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-83">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry x="330" y="223" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-86" value="planning simulator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-84">
@@ -227,44 +222,58 @@
             <mxPoint x="-66" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-87">
+        <UserObject label="system_error_monitor.launch&lt;br&gt;conf: system_error_monitor.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/system_error_monitor/launch/system_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-87">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry x="330" y="83" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-88">
+        <UserObject label="system_error_monitor.launch&lt;br&gt;conf: system_error_monitor.planning_simulation.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/system_error_monitor/launch/system_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-88">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-101">
+            <mxGeometry x="330" y="283" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-101" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="950" />
+              <mxPoint x="230" y="303" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-77" value="run_mode" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=default;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="510" y="760" width="80" height="80" as="geometry" />
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="300" width="370" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="ad_service_monitor.launch&lt;br&gt;conf:&amp;nbsp;ad_service_state_monitor.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-79">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="650" y="780" width="120" height="40" as="geometry" />
+        <UserObject label="&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 47);&quot;&gt;This package creates pointcloud containers based on &quot;use_multithread&quot; flag either as multithread or single thread. This groups agnostic ros2 nodes in a single process.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/common/global_parameter_loader" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-55">
+          <mxCell style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=12;dashed=1;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-106">
+            <mxGeometry x="180" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="ad_service_monitor.launch&lt;br&gt;conf:&amp;nbsp;ad_service_state_monitor.planning_simulation.param.yaml" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-83">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="650" y="870" width="120" height="40" as="geometry" />
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-106" source="z-h-IKz81wdwOY6-5DcS-14" target="z-h-IKz81wdwOY6-5DcS-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="pointcloud_container.launch.py" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/pointcloud_container.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-14">
+          <mxCell style="rounded=1;html=1;glass=0;sketch=0;whiteSpace=wrap;fillOpacity=100;overflow=width;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-106">
+            <mxGeometry y="15" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="system_error_monitor.launch&lt;br&gt;conf: system_error_monitor.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-87">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="650" y="730" width="120" height="40" as="geometry" />
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="185" width="370" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="global_params.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/common/global_parameter_loader/launch/global_params.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-107">
+            <mxGeometry y="15" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="system_error_monitor.launch&lt;br&gt;conf: system_error_monitor.planning_simulation.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-88">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
-            <mxGeometry x="650" y="930" width="120" height="40" as="geometry" />
+        <UserObject label="&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px; color: rgb(36, 41, 47);&quot;&gt;This package is to set common ROS parameters to each node.&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;The vehicle model parameter is read from&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; padding: 0.2em 0.4em; margin: 0px; background-color: var(--color-neutral-muted); border-radius: 6px; color: rgb(36, 41, 47);&quot;&gt;config/vehicle_info.param.yaml&lt;/code&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&amp;nbsp;in&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; padding: 0.2em 0.4em; margin: 0px; background-color: var(--color-neutral-muted); border-radius: 6px; color: rgb(36, 41, 47);&quot;&gt;vehicle_model&lt;/code&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;_description package&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/common/global_parameter_loader" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-50">
+          <mxCell style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=12;dashed=1;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-107">
+            <mxGeometry x="180" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="emergency_handler.launch.xml" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/launch/system.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-94">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="500" y="1020" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-107" source="z-h-IKz81wdwOY6-5DcS-10" target="z-h-IKz81wdwOY6-5DcS-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
       </root>
     </mxGraphModel>
