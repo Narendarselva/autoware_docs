@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T07:35:58.048Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J_X9qkItSzQD1l2z8Zeq" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T07:36:48.441Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Plp8b6DHyiTV4SxXs-IB" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2009" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-110" value="Nodes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-110" value="Nodes launched into system_monitor_container" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="670" y="650" width="140" height="190" as="geometry" />
         </mxCell>
         <UserObject label="cpu_monitor" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_system_launch/config/system_monitor/cpu_monitor.param.yaml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-115">
