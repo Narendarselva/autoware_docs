@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T05:50:13.903Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TGnsOuwlWlvX2hbjdbPg" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T06:03:15.632Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eZV9SjTrjFX0KzCEsFAp" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="1159" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,9 +6,113 @@
         <object label="mine" c="" id="1">
           <mxCell parent="0" />
         </object>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-1" target="z-h-IKz81wdwOY6-5DcS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="e2e_simulator_launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/e2e_simulator.launch.xml" id="z-h-IKz81wdwOY6-5DcS-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="autoware.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="global_params.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="pointcloud_container.launch.py" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-14">
+          <mxCell style="rounded=1;html=1;glass=0;sketch=0;whiteSpace=wrap;fillOpacity=100;overflow=width;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="320" y="270" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="vehicle.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="system.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="410" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="map.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="480" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="sensing.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-18">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="550" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="perception.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-19">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="620" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="planning.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="690" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="control.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="760" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="api.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="320" y="830" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="rviz2" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="320" y="900" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
