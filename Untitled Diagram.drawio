@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:37:37.903Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Nw2DtWcWfkkk_CYo31E6" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:28:26.814Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JOLoUZzlp2iyTE_IuhFi" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2009" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,14 +17,16 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1890" y="210" />
+              <mxPoint x="2430" y="210" />
+              <mxPoint x="2430" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1460" y="210" />
+              <mxPoint x="1980" y="210" />
+              <mxPoint x="1980" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -90,24 +92,32 @@
             <mxGeometry x="940" y="295" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-18" target="z-h-IKz81wdwOY6-5DcS-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-18" target="z-h-IKz81wdwOY6-5DcS-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1534" y="335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="sensing.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_sensing_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="1280" y="295" width="120" height="40" as="geometry" />
+            <mxGeometry x="1442" y="295" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="perception.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/perception.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="1890" y="590" width="120" height="40" as="geometry" />
+            <mxGeometry x="2530" y="460" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="planning.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_planning_launch/launch/planning.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="1700" y="270" width="120" height="40" as="geometry" />
+            <mxGeometry x="2080" y="270" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="control.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_control_launch/launch/control.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-21">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="2240" y="340" width="120" height="40" as="geometry" />
+            <mxGeometry x="2560" y="180" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="api.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_autoware_api_launch/launch/autoware_api.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-22">
@@ -433,6 +443,126 @@
             <mxGeometry y="50" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-183" target="z-h-IKz81wdwOY6-5DcS-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-183" target="z-h-IKz81wdwOY6-5DcS-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-183" target="z-h-IKz81wdwOY6-5DcS-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-183" target="z-h-IKz81wdwOY6-5DcS-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="awsim - sensing.launch" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/awsim_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-183">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="390" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-187" target="z-h-IKz81wdwOY6-5DcS-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-187" target="z-h-IKz81wdwOY6-5DcS-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-187" target="z-h-IKz81wdwOY6-5DcS-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="sample - sensing.launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-187">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1604" y="390" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-189" target="z-h-IKz81wdwOY6-5DcS-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-189" target="z-h-IKz81wdwOY6-5DcS-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="lidar.launch" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/awsim_sensor_kit_launch/launch/lidar.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-189">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1684" y="460" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="imu.launch" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/awsim_sensor_kit_launch/launch/imu.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-191">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1684" y="607" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="vehicle_velocity_converter.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/vehicle_velocity_converter/launch/vehicle_velocity_converter.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-194">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1684" y="687" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="lidar.launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-196">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1310" y="460" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="imu.launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-197">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1310" y="540" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="vehicle_velocity_converter.launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-198">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1310" y="620" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="vehicle_velocity_converter.launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-202">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1310" y="690" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-204" target="z-h-IKz81wdwOY6-5DcS-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="velodyne_lidar.launch" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/common_awsim_sensor_launch/launch/velodyne_lidar.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-204">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="1850" y="410" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-206" target="z-h-IKz81wdwOY6-5DcS-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;velodyne_node_container.launch&lt;/font&gt;&lt;/span&gt;" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/common_awsim_sensor_launch/launch/velodyne_node_container.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-206">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="1970" y="410" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-210" target="z-h-IKz81wdwOY6-5DcS-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="pointcloud_preprocessor.launch" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/awsim_sensor_kit_launch/launch/pointcloud_preprocessor.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-210">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="1850" y="520" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-213" value="nodes are launched inside &quot;velodyne_node_container&quot; for top / left / right individually" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="370" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-214" value="cross_box_filter_self" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-213">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-218" value="crop_box_filter_mirror" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-213">
+          <mxGeometry y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-217" value="ring_outlier_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-213">
+          <mxGeometry y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-220" value="distortion_corrector_node" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-213">
+          <mxGeometry y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-219" value="pointclound_distortion_relay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-213">
+          <mxGeometry y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-222" value="nodes are launched inside &quot;point_cloud_preprocessor_container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="515" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-223" value="concatenate_data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-222">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
       </root>
     </mxGraphModel>
