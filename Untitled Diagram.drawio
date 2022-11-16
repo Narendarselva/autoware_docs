@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T11:43:27.567Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dspjDCB7PTX9etlom28t" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T11:53:33.080Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I8xT7CXxQYhBeqfQq6iM" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,6 +119,16 @@
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-19" target="z-h-IKz81wdwOY6-5DcS-365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-19" target="z-h-IKz81wdwOY6-5DcS-410">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-19" target="z-h-IKz81wdwOY6-5DcS-415">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="perception.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/perception.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-19">
@@ -1116,6 +1126,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-414" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-410" target="z-h-IKz81wdwOY6-5DcS-412">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="pointcloud_based_occupancy_grid_map.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/occupancy_grid_map/pointcloud_based_occupancy_grid_map.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-410">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1790" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-412" value="nodes are launched inside &quot;occupancy_grid_map_container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1785" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-413" value="occupancy_grid_map_node" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-412">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-415" target="z-h-IKz81wdwOY6-5DcS-417">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-419" value="if mode = camera_lidar_radar_fusion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-418">
+          <mxGeometry x="-0.1524" y="1" relative="1" as="geometry">
+            <mxPoint x="36" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-415" target="z-h-IKz81wdwOY6-5DcS-420">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="1920" />
+              <mxPoint x="290" y="2040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-423" value="if mode = camera_lidar_fusion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-422">
+          <mxGeometry x="0.3654" y="-1" relative="1" as="geometry">
+            <mxPoint x="26" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-415">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1900" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="camera_lidar_radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-417">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="410" y="1900" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="camera_lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-420">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="410" y="2020" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="lidar_radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-424">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="410" y="2110" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="lidar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-425">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="410" y="2190" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="radar_fusion_based_detection.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-426">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="410" y="2270" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
       </root>
     </mxGraphModel>
