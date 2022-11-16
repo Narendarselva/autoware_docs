@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:00:42.728Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WpXz6V-hnmaHXhpLsNaV" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T08:03:59.816Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7Hm3ZtAULynsQYCGdyh6" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2009" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,14 +158,14 @@
         </mxCell>
         <UserObject label="emergency_handler.launch.xml" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/emergency_handler/launch/emergency_handler.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-94">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="400" y="840" width="120" height="40" as="geometry" />
+            <mxGeometry x="400" y="910" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-16" target="z-h-IKz81wdwOY6-5DcS-94">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="860" />
+              <mxPoint x="340" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-108" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="600" width="270" height="220" as="geometry" />
+          <mxGeometry x="380" y="600" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-77" value="run_mode" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#9673a6;fontFamily=Times New Roman;fontSize=8;fillColor=#e1d5e7;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
           <mxGeometry y="30" width="80" height="80" as="geometry" />
@@ -203,7 +203,7 @@
         </mxCell>
         <UserObject label="ad_service_monitor.launch&lt;br&gt;conf:&amp;nbsp;ad_service_state_monitor.planning_simulation.param.yaml" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/ad_service_state_monitor/launch/ad_service_state_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-83">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
-            <mxGeometry x="150" y="180" width="120" height="40" as="geometry" />
+            <mxGeometry x="140" y="180" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-108" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-83">
@@ -228,7 +228,7 @@
         </mxCell>
         <UserObject label="system_error_monitor.launch&lt;br&gt;conf: system_error_monitor.planning_simulation.param.yam" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/system_error_monitor/launch/system_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-88">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
-            <mxGeometry x="150" y="130" width="120" height="40" as="geometry" />
+            <mxGeometry x="140" y="130" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="z-h-IKz81wdwOY6-5DcS-108" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-88">
@@ -357,7 +357,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-133" value="Nodes&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="710" y="590" width="140" height="70" as="geometry" />
+          <mxGeometry x="710" y="570" width="140" height="70" as="geometry" />
         </mxCell>
         <UserObject label="aggregator_node" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/system_error_monitor/config/diagnostic_aggregator" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-134">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-133">
@@ -369,6 +369,26 @@
             <mxGeometry y="50" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-143" value="Nodes&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="710" y="770" width="140" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="ad_service_state_monitor" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/system_error_monitor/config/diagnostic_aggregator" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-144">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-143">
+            <mxGeometry y="30" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;dashed=1;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-87" target="z-h-IKz81wdwOY6-5DcS-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;dashed=1;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-88" target="z-h-IKz81wdwOY6-5DcS-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-79" target="z-h-IKz81wdwOY6-5DcS-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;dashed=1;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-83" target="z-h-IKz81wdwOY6-5DcS-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
       </root>
     </mxGraphModel>
