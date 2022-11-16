@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:54:05.795Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xvCTUViTwZZCTbOdAEGJ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T11:29:33.262Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KzsTgnwXILKSwF2UEqLN" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,15 +14,6 @@
             <mxGeometry x="-990" y="30" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2430" y="210" />
-              <mxPoint x="2430" y="80" />
-              <mxPoint x="2670" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -70,8 +61,21 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-281">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-281">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-930" y="1100" />
+              <mxPoint x="-640" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-930" y="1100" />
+              <mxPoint x="120" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="autoware.launch" link="https://github.com/autowarefoundation/autoware_launch/blob/main/autoware_launch/launch/autoware.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -114,9 +118,12 @@
             <mxGeometry x="1580" y="295" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-19" target="z-h-IKz81wdwOY6-5DcS-365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="perception.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/perception.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="2670" y="90" width="120" height="40" as="geometry" />
+            <mxGeometry x="60" y="1135" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="planning.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_planning_launch/launch/planning.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-20">
@@ -764,7 +771,7 @@
         </mxCell>
         <UserObject label="localization.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/localization.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-281">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="-700" y="600" width="120" height="40" as="geometry" />
+            <mxGeometry x="-700" y="1135" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-285" target="z-h-IKz81wdwOY6-5DcS-299">
@@ -778,7 +785,7 @@
         </mxCell>
         <UserObject label="util.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/util/util.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-285">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-570" y="680" width="120" height="40" as="geometry" />
+            <mxGeometry x="-570" y="1215" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-287" target="z-h-IKz81wdwOY6-5DcS-323">
@@ -786,7 +793,7 @@
         </mxCell>
         <UserObject label="psoe_estimator.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/pose_estimator/pose_estimator.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-287">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-570" y="879" width="120" height="40" as="geometry" />
+            <mxGeometry x="-570" y="1414" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-289" target="z-h-IKz81wdwOY6-5DcS-327">
@@ -794,7 +801,7 @@
         </mxCell>
         <UserObject label="twist_estimator.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/twist_estimator/twist_estimator.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-289">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-570" y="959" width="120" height="40" as="geometry" />
+            <mxGeometry x="-570" y="1494" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-290" target="z-h-IKz81wdwOY6-5DcS-331">
@@ -805,7 +812,7 @@
         </mxCell>
         <UserObject label="pose_twist_fusion_filter.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/pose_twist_fusion_filter/pose_twist_fusion_filter.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-290">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-570" y="1039" width="120" height="40" as="geometry" />
+            <mxGeometry x="-570" y="1574" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-291" target="z-h-IKz81wdwOY6-5DcS-341">
@@ -813,7 +820,7 @@
         </mxCell>
         <UserObject label="localization_error_monitor.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/localization_error_monitor/localization_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-291">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-570" y="1119" width="120" height="40" as="geometry" />
+            <mxGeometry x="-570" y="1654" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-299" target="z-h-IKz81wdwOY6-5DcS-319">
@@ -821,7 +828,7 @@
         </mxCell>
         <UserObject label="pose_initializer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/util/util.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-299">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-400" y="630" width="120" height="20" as="geometry" />
+            <mxGeometry x="-400" y="1165" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-301" target="z-h-IKz81wdwOY6-5DcS-321">
@@ -829,7 +836,7 @@
         </mxCell>
         <UserObject label="automatic_pose_initializer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/pose_initializer/launch/pose_initializer.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-301">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-400" y="690" width="120" height="20" as="geometry" />
+            <mxGeometry x="-400" y="1225" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.002;entryY=-0.167;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryPerimeter=0;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-303" target="z-h-IKz81wdwOY6-5DcS-312">
@@ -837,11 +844,11 @@
         </mxCell>
         <UserObject label="util.launch.py" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/util/util.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-303">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-400" y="753" width="120" height="20" as="geometry" />
+            <mxGeometry x="-400" y="1288" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-310" value="nodes are launched inside &quot;/pointcloud_container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="763" width="140" height="90" as="geometry" />
+          <mxGeometry x="-240" y="1298" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-311" value="crop_box_filter_measurement_range" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-310">
           <mxGeometry y="30" width="140" height="20" as="geometry" />
@@ -854,12 +861,12 @@
         </mxCell>
         <UserObject label="pose_initializer_node" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-319">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="630" width="120" height="20" as="geometry" />
+            <mxGeometry x="-240" y="1165" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="automatic_pose_initializer" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-321">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="690" width="120" height="20" as="geometry" />
+            <mxGeometry x="-240" y="1225" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-323" target="z-h-IKz81wdwOY6-5DcS-325">
@@ -867,12 +874,12 @@
         </mxCell>
         <UserObject label="ndt_scan_matcher.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/ndt_scan_matcher/launch/ndt_scan_matcher.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-323">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-410" y="888.5" width="120" height="21" as="geometry" />
+            <mxGeometry x="-410" y="1423.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ndt_scan_matcher." linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-325">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="888.5" width="120" height="21" as="geometry" />
+            <mxGeometry x="-240" y="1423.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-327" target="z-h-IKz81wdwOY6-5DcS-328">
@@ -880,12 +887,12 @@
         </mxCell>
         <UserObject label="gyro_odometer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/gyro_odometer/launch/gyro_odometer.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-327">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-410" y="968.5" width="120" height="21" as="geometry" />
+            <mxGeometry x="-410" y="1503.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="gyro_odometer" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-328">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="968.5" width="120" height="21" as="geometry" />
+            <mxGeometry x="-240" y="1503.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-331" target="z-h-IKz81wdwOY6-5DcS-333">
@@ -893,7 +900,7 @@
         </mxCell>
         <UserObject label="stop_filter.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/stop_filter/launch/stop_filter.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-331">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-410" y="1018" width="120" height="21" as="geometry" />
+            <mxGeometry x="-410" y="1553" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-332" target="z-h-IKz81wdwOY6-5DcS-337">
@@ -901,17 +908,17 @@
         </mxCell>
         <UserObject label="twist2accel.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/twist2accel/launch/twist2accel.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-332">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-410" y="1079" width="120" height="21" as="geometry" />
+            <mxGeometry x="-410" y="1614" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="stop_filter" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-333">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="1018" width="120" height="21" as="geometry" />
+            <mxGeometry x="-240" y="1553" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="twist2accel" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-337">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="1079" width="120" height="21" as="geometry" />
+            <mxGeometry x="-240" y="1614" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-341" target="z-h-IKz81wdwOY6-5DcS-342">
@@ -919,14 +926,160 @@
         </mxCell>
         <UserObject label="localization_error_monitor.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/localization_error_monitor/launch/localization_error_monitor.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-341">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-410" y="1128.5" width="120" height="21" as="geometry" />
+            <mxGeometry x="-410" y="1663.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="localization_error_monitor" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-342">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
-            <mxGeometry x="-240" y="1128.5" width="120" height="21" as="geometry" />
+            <mxGeometry x="-240" y="1663.5" width="120" height="21" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-347" target="z-h-IKz81wdwOY6-5DcS-350">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1210" />
+              <mxPoint x="440" y="1175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=-0.183;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;entryPerimeter=0;" edge="1" parent="1" target="z-h-IKz81wdwOY6-5DcS-356">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261" y="1210" as="sourcePoint" />
+            <mxPoint x="371" y="1285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1210" />
+              <mxPoint x="320" y="1291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-358" value="if use_additional" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-357">
+          <mxGeometry x="0.5423" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-347" target="z-h-IKz81wdwOY6-5DcS-355">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1210" />
+              <mxPoint x="440" y="1285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-360" value="if use_additional" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-359">
+          <mxGeometry x="0.4991" y="3" relative="1" as="geometry">
+            <mxPoint x="6" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-347" target="z-h-IKz81wdwOY6-5DcS-361">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1210" />
+              <mxPoint x="440" y="1375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-364" value="if use ransac" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-363">
+          <mxGeometry x="0.6485" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="create_single_frame_obstacle_segmentation_components" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-347">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="305" y="1190" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-349" value="nodes are launched inside &quot;perception_pipeline_container&quot;&amp;nbsp; -- create_common_pipeline" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1135" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-350" value="crop_box_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-349">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-352" value="common_ground_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-349">
+          <mxGeometry y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-354" value="nodes are launched inside &quot;perception_pipeline_container&quot;&amp;nbsp; -- get_additional_lidars_concatenated_pipeline" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1245" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-355" value="concatenate_data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-354">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-361" value="nodes are launched inside &quot;perception_pipeline_container&quot;&amp;nbsp; -- create_single_frame_obstacle_segmentation_concantenated_component" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-362" value="concatenate_no_ground_data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-361">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-365" target="z-h-IKz81wdwOY6-5DcS-347">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-365" target="z-h-IKz81wdwOY6-5DcS-368">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1210" />
+              <mxPoint x="280" y="1454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-371" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;if use_single_frame_filter&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-369">
+          <mxGeometry x="0.6511" y="-3" relative="1" as="geometry">
+            <mxPoint x="24" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-365" target="z-h-IKz81wdwOY6-5DcS-385">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1210" />
+              <mxPoint x="280" y="1614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-392" value="if use_time_series_filter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="z-h-IKz81wdwOY6-5DcS-391">
+          <mxGeometry x="0.7328" y="-3" relative="1" as="geometry">
+            <mxPoint x="20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="ground_segmentation.launch.py" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/obstacle_segmentation/ground_segmentation/ground_segmentation.launch.py" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-365">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1190" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-368" target="z-h-IKz81wdwOY6-5DcS-373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="create_single_frame_outilner_filter_components" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-368">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="380" y="1433.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-372" value="nodes are launched inside &quot;perception_pipeline_container&quot;&amp;nbsp; -- create_single_frame_outliner_filter_components" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1413.5" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-373" value="elevation_map_loader" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-372">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-380" value="compare_elevation_map_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-372">
+          <mxGeometry y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-379" value="voxel_grid_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-372">
+          <mxGeometry y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-384" value="voxwl_grid_outlier_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-372">
+          <mxGeometry y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" edge="1" parent="1" source="z-h-IKz81wdwOY6-5DcS-385" target="z-h-IKz81wdwOY6-5DcS-387">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="create_time_series_outlier_filter_components" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-385">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="380" y="1594" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-386" value="nodes are launched inside &quot;perception_pipeline_container&quot;&amp;nbsp; -- create_time_series_outlier_filter_components" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1574" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h-IKz81wdwOY6-5DcS-387" value="occupancy_grid_map_outlier_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-386">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
       </root>
     </mxGraphModel>
