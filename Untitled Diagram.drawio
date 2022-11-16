@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T15:54:47.442Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kM8nT0onSLA4Xu5jAvj2" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T16:11:07.055Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ynwmCDShzCXDGcF2ag2x" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2175,6 +2175,75 @@
         <UserObject label="dummy_perception_publisher" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/perception.launch.xml" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=8;" vertex="1" parent="1">
             <mxGeometry x="300" y="2035" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="n2iUzxIKONtJqbguk0WD-17" target="n2iUzxIKONtJqbguk0WD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="n2iUzxIKONtJqbguk0WD-17" target="n2iUzxIKONtJqbguk0WD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="n2iUzxIKONtJqbguk0WD-17" target="n2iUzxIKONtJqbguk0WD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="traffic_light.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/traffic_light_recognition/traffic_light.launch.xml" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="140" y="2089" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="n2iUzxIKONtJqbguk0WD-18" target="n2iUzxIKONtJqbguk0WD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;traffic_light_map_based_detector.launch&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/perception/traffic_light_map_based_detector/launch/traffic_light_map_based_detector.launch.xml" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-18">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="280" y="2168" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="n2iUzxIKONtJqbguk0WD-20" target="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;traffic_light_node_container.launch.p&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/traffic_light_recognition/traffic_light_node_container.launch.py" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="280" y="2257" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="n2iUzxIKONtJqbguk0WD-22" target="n2iUzxIKONtJqbguk0WD-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;traffic_light_map_visualizer.launch&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/traffic_light_recognition/traffic_light.launch.xml" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="280" y="2407" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;traffic_light_map_based_detector_node&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/perception/traffic_light_map_based_detector/launch/traffic_light_map_based_detector.launch.xml" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="450" y="2168" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-28" value="nodes are launched inside &quot;traffic_light_node_container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2239" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-29" value="traffic_light_classifier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-32" value="traffic_light_roi_visualizer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-31" value="crosswalk_traffic_light_estimator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-30" value="classifier_signals_relay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-34" value="traffic_light_image_decompressor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2iUzxIKONtJqbguk0WD-33" value="traffic_light_ssd_fine_detector" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="n2iUzxIKONtJqbguk0WD-28">
+          <mxGeometry y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;traffic_light_map_visualizer_node&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_perception_launch/launch/traffic_light_recognition/traffic_light.launch.xml" linkTarget="_blank" id="n2iUzxIKONtJqbguk0WD-36">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="450" y="2407" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="LNO5tRBR7EnDj_uGghlc-3" value="Untitled Layer" parent="0" />
