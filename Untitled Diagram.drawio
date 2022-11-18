@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:41:47.091Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="y815huEXd683LDwsN9JO" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:42:14.307Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8T9V3qXFk9JADo1jus0C" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3329,9 +3329,9 @@
             <mxGeometry x="370" y="1730" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-9">
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/image_projection_based_fusion" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-9">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="380" y="1740" width="20" height="20" as="geometry" />
+            <mxGeometry x="970" y="1720" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/detected_object_feature_remover" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-10">
