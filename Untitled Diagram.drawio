@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T05:43:54.692Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oI6npwxOIY5qa7CmR3qW" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T05:48:41.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eFmYai81hFfnuglBqyu4" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1022,7 +1022,7 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="z-h-IKz81wdwOY6-5DcS-299" target="z-h-IKz81wdwOY6-5DcS-319" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="pose_initializer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_localization_launch/launch/util/util.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-299">
+        <UserObject label="pose_initializer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/pose_initializer/launch/pose_initializer.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-299">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="2750" y="325" width="120" height="20" as="geometry" />
           </mxCell>
@@ -1030,7 +1030,7 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="z-h-IKz81wdwOY6-5DcS-301" target="z-h-IKz81wdwOY6-5DcS-321" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="automatic_pose_initializer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/pose_initializer/launch/pose_initializer.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-301">
+        <UserObject label="automatic_pose_initializer.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/default_ad_api_helpers/automatic_pose_initializer/launch/automatic_pose_initializer.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-301">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="2750" y="385" width="120" height="20" as="geometry" />
           </mxCell>
@@ -3121,19 +3121,19 @@
             <mxGeometry x="1630" y="800" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-37">
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_localization_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-37">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="1860" y="810" width="20" height="20" as="geometry" />
+            <mxGeometry x="2550" y="280" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-38">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="1990" y="910" width="20" height="20" as="geometry" />
+            <mxGeometry x="2370" y="890" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-39">
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/pose_initializer/docs/pose_initializer.md" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-39">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="1860" y="880" width="20" height="20" as="geometry" />
+            <mxGeometry x="2850" y="310" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/vehicle_velocity_converter" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-40">
@@ -3144,6 +3144,11 @@
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/imu_corrector" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-41">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="2125" y="600" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/default_ad_api_helpers/automatic_pose_initializer" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-42">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="2850" y="370" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
