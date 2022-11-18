@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T10:51:40.564Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="G_WK4aWQoYyFOf2c4Stw" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T10:53:45.736Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LW4THv1joH8bt596CnLT" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="3245" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,6 +22,11 @@
         <UserObject label="system" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-2&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-19">
           <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#ae4132;whiteSpace=wrap;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
             <mxGeometry x="-300" y="70" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="map" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-3&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-21">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#4D4D4D;whiteSpace=wrap;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-120" y="70" width="100" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Core-blocks" c="" id="1">
@@ -3096,7 +3101,9 @@
             <mxGeometry x="1470" y="1018" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AWE4FITdyTHj-2MECXtD-3" value="map" parent="0" />
+        <object label="map" id="AWE4FITdyTHj-2MECXtD-3">
+          <mxCell parent="0" />
+        </object>
         <UserObject label="map.launch" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_map_launch/launch/map.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="AWE4FITdyTHj-2MECXtD-3" vertex="1">
             <mxGeometry x="940" y="295" width="120" height="40" as="geometry" />
@@ -3133,6 +3140,11 @@
         <UserObject label="vector_map_tf_generator" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/map/map_tf_generator" id="z-h-IKz81wdwOY6-5DcS-168">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="AWE4FITdyTHj-2MECXtD-3" vertex="1">
             <mxGeometry x="1040" y="680" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="map" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-3&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-20">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#b1ddf0;strokeColor=#10739e;whiteSpace=wrap;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-3">
+            <mxGeometry x="-120" y="70" width="100" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="AWE4FITdyTHj-2MECXtD-2" value="system" parent="0" />
