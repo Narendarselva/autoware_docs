@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T05:28:03.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xL0pVhI7jcv9nmUzOQow" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T05:30:44.148Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4MmuYJST5doSwkMhOeA8" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -440,6 +440,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/system_error_monitor" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-24">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
+            <mxGeometry x="240" y="-20" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/system_error_monitor" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-25">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
+            <mxGeometry x="240" y="120" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/ad_service_state_monitor" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-26">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
+            <mxGeometry x="240" y="170" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/ad_service_state_monitor" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-27">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="z-h-IKz81wdwOY6-5DcS-108">
+            <mxGeometry x="240" y="40" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-110" value="Nodes launched into system_monitor_container" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="590" y="350" width="140" height="190" as="geometry" />
         </mxCell>
