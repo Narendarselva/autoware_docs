@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T10:53:45.736Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LW4THv1joH8bt596CnLT" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T11:12:30.160Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CkjAYR3N2WCYuvZgc7mY" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="3245" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,27 +6,52 @@
         <mxCell id="4xb4pdzudIjATDrCBTRk-16" value="Toggles" parent="0" />
         <UserObject label="Description" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;4xb4pdzudIjATDrCBTRk-9&quot;]}}]}" id="4xb4pdzudIjATDrCBTRk-15">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" parent="4xb4pdzudIjATDrCBTRk-16" vertex="1">
-            <mxGeometry x="-1275" y="410" width="38" height="38" as="geometry" />
+            <mxGeometry x="-1260" y="480" width="38" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Description" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;4xb4pdzudIjATDrCBTRk-9&quot;]}}]}" id="4xb4pdzudIjATDrCBTRk-17">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" parent="4xb4pdzudIjATDrCBTRk-16" vertex="1">
-            <mxGeometry x="-1275" y="410" width="38" height="38" as="geometry" />
+            <mxGeometry x="-1260" y="480" width="38" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="vehicle" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-1&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-15">
-          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#9673a6;whiteSpace=wrap;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
-            <mxGeometry x="-510" y="70" width="100" height="60" as="geometry" />
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#9673a6;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1275" y="560" width="65" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="system" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-2&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-19">
-          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#ae4132;whiteSpace=wrap;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
-            <mxGeometry x="-300" y="70" width="100" height="60" as="geometry" />
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#ae4132;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="640" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="map" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-3&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-21">
-          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#4D4D4D;whiteSpace=wrap;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
-            <mxGeometry x="-120" y="70" width="100" height="60" as="geometry" />
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#4D4D4D;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="720" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="sensing" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-4&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-23">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#10739e;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="800" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="localization" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-5&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-25">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#d6b656;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="880" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="perception" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-6&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-27">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="960" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="planning" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-9&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-29">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#d79b00;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="1040" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CUserObject%20label%3D%22planning%22%20link%3D%22data%3Aaction%2Fjson%2C%7B%26quot%3Bactions%26quot%3B%3A%5B%7B%26quot%3Btoggle%26quot%3B%3A%7B%26quot%3Bcells%26quot%3B%3A%5B%26quot%3BAWE4FITdyTHj-2MECXtD-9%26quot%3B%5D%7D%7D%5D%7D%22%20id%3D%222%22%3E%3CmxCell%20style%3D%22labelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3Balign%3Dcenter%3Bhtml%3D1%3Bshape%3Dmxgraph.basic.shaded_button%3Bdx%3D10%3BfillColor%3D%23ffe6cc%3BstrokeColor%3D%23d79b00%3BwhiteSpace%3Dwrap%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22520%22%20y%3D%2273%22%20width%3D%22100%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FUserObject%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;control" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-11&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-31">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#4D4D4D;strokeColor=#d79b00;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="-1280" y="1120" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Core-blocks" c="" id="1">
@@ -442,27 +467,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-222" value="XML - launch&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="30" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1280" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oIYKKuKqp56S4BTwwh6z-223" value="LEGENDS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="-1280" width="60" height="30" as="geometry" />
+        <mxCell id="oIYKKuKqp56S4BTwwh6z-223" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;LEGENDS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=6;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-224" value="py launch" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="80" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1280" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-225" value="ROS2 Nodes" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1280" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-228" value="Decision" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1280" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-229" value="Categories" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1280" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-230" value="" style="endArrow=classic;html=1;rounded=0;fontSize=6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1285" y="344" as="sourcePoint" />
-            <mxPoint x="-1220" y="344" as="targetPoint" />
+            <mxPoint x="-1280" y="344" as="sourcePoint" />
+            <mxPoint x="-1200" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-231" value="Direct Connection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" parent="oIYKKuKqp56S4BTwwh6z-230" vertex="1" connectable="0">
@@ -472,8 +497,8 @@
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-232" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1285" y="384" as="sourcePoint" />
-            <mxPoint x="-1220" y="384" as="targetPoint" />
+            <mxPoint x="-1280" y="384" as="sourcePoint" />
+            <mxPoint x="-1200" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-233" value="Indirect Connection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" parent="oIYKKuKqp56S4BTwwh6z-232" vertex="1" connectable="0">
@@ -482,7 +507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-234" value="Unkonow" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="280" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1280" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="z-h-IKz81wdwOY6-5DcS-77" target="z-h-IKz81wdwOY6-5DcS-79" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -877,7 +902,9 @@
             <mxGeometry x="3775" y="2123" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AWE4FITdyTHj-2MECXtD-11" value="control" parent="0" />
+        <object label="control" id="AWE4FITdyTHj-2MECXtD-11">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" parent="AWE4FITdyTHj-2MECXtD-11" source="z-h-IKz81wdwOY6-5DcS-21" target="oIYKKuKqp56S4BTwwh6z-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -919,7 +946,17 @@
             <mxGeometry y="130" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AWE4FITdyTHj-2MECXtD-9" value="planning" parent="0" />
+        <UserObject label="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CUserObject%20label%3D%22planning%22%20link%3D%22data%3Aaction%2Fjson%2C%7B%26quot%3Bactions%26quot%3B%3A%5B%7B%26quot%3Btoggle%26quot%3B%3A%7B%26quot%3Bcells%26quot%3B%3A%5B%26quot%3BAWE4FITdyTHj-2MECXtD-9%26quot%3B%5D%7D%7D%5D%7D%22%20id%3D%222%22%3E%3CmxCell%20style%3D%22labelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3Balign%3Dcenter%3Bhtml%3D1%3Bshape%3Dmxgraph.basic.shaded_button%3Bdx%3D10%3BfillColor%3D%23ffe6cc%3BstrokeColor%3D%23d79b00%3BwhiteSpace%3Dwrap%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22520%22%20y%3D%2273%22%20width%3D%22100%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FUserObject%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;control" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-11&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-30">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-11">
+            <mxGeometry x="-1280" y="1118" width="80" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="AWE4FITdyTHj-2MECXtD-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;TOGGLES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-11">
+          <mxGeometry x="-1415" y="770" width="140" height="30" as="geometry" />
+        </mxCell>
+        <object label="planning" id="AWE4FITdyTHj-2MECXtD-9">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="AWE4FITdyTHj-2MECXtD-9" source="oIYKKuKqp56S4BTwwh6z-4" target="oIYKKuKqp56S4BTwwh6z-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1200,7 +1237,14 @@
             <mxGeometry x="2710" y="2040" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AWE4FITdyTHj-2MECXtD-8" value="perception" parent="0" />
+        <UserObject label="planning" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-9&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-28">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-9">
+            <mxGeometry x="-1280" y="1037" width="80" height="43" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="perception" id="AWE4FITdyTHj-2MECXtD-8">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="AWE4FITdyTHj-2MECXtD-8" source="z-h-IKz81wdwOY6-5DcS-19" target="z-h-IKz81wdwOY6-5DcS-365" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2574,7 +2618,9 @@
             <mxGeometry x="790" y="1320" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AWE4FITdyTHj-2MECXtD-5" value="localization" parent="0" />
+        <object label="localization" id="AWE4FITdyTHj-2MECXtD-5">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="AWE4FITdyTHj-2MECXtD-5" source="z-h-IKz81wdwOY6-5DcS-281" target="z-h-IKz81wdwOY6-5DcS-285" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2759,6 +2805,11 @@
         <UserObject label="localization_error_monitor" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" id="z-h-IKz81wdwOY6-5DcS-342">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="AWE4FITdyTHj-2MECXtD-5" vertex="1">
             <mxGeometry x="2910" y="823.5" width="120" height="21" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="localization" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-5&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-24">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-5">
+            <mxGeometry x="-1280" y="880" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="AWE4FITdyTHj-2MECXtD-4" value="sensing" parent="0" />
@@ -3101,6 +3152,11 @@
             <mxGeometry x="1470" y="1018" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="sensing" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-3&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-22">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-4">
+            <mxGeometry x="-1280" y="800" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <object label="map" id="AWE4FITdyTHj-2MECXtD-3">
           <mxCell parent="0" />
         </object>
@@ -3143,8 +3199,13 @@
           </mxCell>
         </UserObject>
         <UserObject label="map" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-3&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-20">
-          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#b1ddf0;strokeColor=#10739e;whiteSpace=wrap;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-3">
-            <mxGeometry x="-120" y="70" width="100" height="60" as="geometry" />
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-3">
+            <mxGeometry x="-1280" y="720" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="perception" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-8&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-26">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-3">
+            <mxGeometry x="-1280" y="960" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="AWE4FITdyTHj-2MECXtD-2" value="system" parent="0" />
@@ -3251,8 +3312,8 @@
           </mxCell>
         </UserObject>
         <UserObject label="system" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-2&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-17">
-          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#fad9d5;strokeColor=#ae4132;whiteSpace=wrap;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-2">
-            <mxGeometry x="-300" y="70" width="100" height="60" as="geometry" />
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-2">
+            <mxGeometry x="-1280" y="640" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="AWE4FITdyTHj-2MECXtD-1" value="vehicle" parent="0" />
@@ -3295,8 +3356,8 @@
           </mxCell>
         </UserObject>
         <UserObject label="vehicle" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-1&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-12">
-          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#e1d5e7;strokeColor=#9673a6;whiteSpace=wrap;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-1">
-            <mxGeometry x="-510" y="70" width="100" height="60" as="geometry" />
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;direction=east;flipV=0;flipH=0;" vertex="1" parent="AWE4FITdyTHj-2MECXtD-1">
+            <mxGeometry x="-1280" y="560" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="4xb4pdzudIjATDrCBTRk-9" value="Description" style="" parent="0" />
