@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:24:12.491Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mr_gv6waqkB8SjFwbuPW" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:24:37.165Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tEBvL91YVHr-NZhTQJMj" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-212" value="if launch_planning" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" parent="oIYKKuKqp56S4BTwwh6z-3" vertex="1" connectable="0">
           <mxGeometry x="0.9843" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-47" as="offset" />
+            <mxPoint x="1" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="z-h-IKz81wdwOY6-5DcS-6" target="z-h-IKz81wdwOY6-5DcS-21" edge="1">
@@ -2497,7 +2497,7 @@
         <mxCell id="oIYKKuKqp56S4BTwwh6z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="oIYKKuKqp56S4BTwwh6z-4" target="oIYKKuKqp56S4BTwwh6z-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2350" y="1150" />
+              <mxPoint x="2350" y="1170" />
               <mxPoint x="2350" y="1392" />
             </Array>
           </mxGeometry>
@@ -2505,14 +2505,14 @@
         <mxCell id="oIYKKuKqp56S4BTwwh6z-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="oIYKKuKqp56S4BTwwh6z-4" target="oIYKKuKqp56S4BTwwh6z-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2350" y="1150" />
+              <mxPoint x="2350" y="1170" />
               <mxPoint x="2350" y="2060" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;planning.launch&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/launch/tier4_planning_launch/launch/planning.launch.xml" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="2210" y="1130" width="120" height="40" as="geometry" />
+            <mxGeometry x="2210" y="1150" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="oIYKKuKqp56S4BTwwh6z-7" target="oIYKKuKqp56S4BTwwh6z-9" edge="1">
