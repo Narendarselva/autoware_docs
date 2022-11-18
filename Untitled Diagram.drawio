@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:07:35.669Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rT04NNoQC7-2rCVTLMhQ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:08:53.861Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UnQSEXipMNN5XF0lj-Se" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1067,12 +1067,12 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-313" value="random_downsample_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-310" vertex="1">
           <mxGeometry y="70" width="140" height="20" as="geometry" />
         </mxCell>
-        <UserObject label="pose_initializer_node" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-319">
+        <UserObject label="pose_initializer_node" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/blob/main/localization/pose_initializer/docs/pose_initializer.md" id="z-h-IKz81wdwOY6-5DcS-319">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="2910" y="325" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="automatic_pose_initializer" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-321">
+        <UserObject label="automatic_pose_initializer" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/default_ad_api_helpers/automatic_pose_initializer" id="z-h-IKz81wdwOY6-5DcS-321">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="2910" y="385" width="120" height="20" as="geometry" />
           </mxCell>
