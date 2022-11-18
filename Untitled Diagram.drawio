@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:04:07.083Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EuDFGOfySZaJTiSdFqgu" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:04:26.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="arBHBdCAS-d1dOkbN96c" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -857,7 +857,7 @@
             <mxGeometry x="1590" y="936" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="vehicle_velocity_converter" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-239">
+        <UserObject label="vehicle_velocity_converter" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/vehicle_velocity_converter" id="z-h-IKz81wdwOY6-5DcS-239">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="1470" y="1018" width="90" height="40" as="geometry" />
           </mxCell>
