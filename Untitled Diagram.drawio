@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:46:19.814Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p1OlT6l6q2sUy4CTJJYC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:47:08.379Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wOKSAYaFoGZfARkpTgLc" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1895,7 +1895,7 @@
             <mxGeometry x="980" y="2213" width="120" height="22" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="shape_estimator" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-532">
+        <UserObject label="shape_estimator" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/shape_estimation" id="z-h-IKz81wdwOY6-5DcS-532">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" parent="1" vertex="1">
             <mxGeometry x="980" y="2270" width="120" height="18" as="geometry" />
           </mxCell>
@@ -3412,6 +3412,16 @@
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-8">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="425" y="2090" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/shape_estimation" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-26">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="900" y="2250" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/detected_object_feature_remover" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-27">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="900" y="2310" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
