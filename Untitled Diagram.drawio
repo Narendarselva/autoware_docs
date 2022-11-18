@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T05:24:16.962Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JGAVJfOMnENSRW9nGsmu" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T05:25:50.519Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Eh_niovxF74zX-IyJ2J4" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3034,6 +3034,11 @@
         <UserObject label="" link="https://github.com/ros/robot_state_publisher/tree/humble" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-19">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="30" y="380" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_vehicle_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-20">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="170" y="380" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
