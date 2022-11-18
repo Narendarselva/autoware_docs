@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T05:18:07.949Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zULM6tV98-HL4IiqPe0Y" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T05:24:16.962Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JGAVJfOMnENSRW9nGsmu" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3020,10 +3020,20 @@
         <mxCell id="oIYKKuKqp56S4BTwwh6z-234" value="Unkonow" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=6;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1300" y="280" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xb4pdzudIjATDrCBTRk-9" value="Description" parent="0" />
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/common/global_parameter_loader" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-14">
+        <mxCell id="4xb4pdzudIjATDrCBTRk-9" value="Description" style="" parent="0" />
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/common/global_parameter_loader" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-18">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="-600" y="280" width="20" height="20" as="geometry" />
+            <mxGeometry x="-590" y="280" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_vehicle_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-14">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="-50" y="280" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/ros/robot_state_publisher/tree/humble" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-19">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="30" y="380" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
