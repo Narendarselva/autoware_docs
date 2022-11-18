@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:47:49.890Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7QsmNuGzWd3GDISRXnYX" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:54:30.728Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KLRJ3koA-FrEfLniHDil" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2719,7 +2719,7 @@
             <mxGeometry y="110" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;obstacle_cruise_planner_relay&lt;/font&gt;&lt;/span&gt;" link="https://github.com/ros-tooling/topic_tools" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-58">
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;obstacle_cruise_planner_relay&lt;/font&gt;&lt;/span&gt;" link="https://github.com/ros-tooling/topic_tools#relay" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-58">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="oIYKKuKqp56S4BTwwh6z-50" vertex="1">
             <mxGeometry y="130" width="140" height="20" as="geometry" />
           </mxCell>
@@ -2884,9 +2884,11 @@
             <mxGeometry x="3610" y="2203" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="oIYKKuKqp56S4BTwwh6z-101" value="nodes are launched inside &quot;default_ad_api/container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="3765" y="1118" width="140" height="150" as="geometry" />
-        </mxCell>
+        <UserObject label="nodes are launched inside &quot;default_ad_api/container&quot;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/default_ad_api" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-101">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;arcSize=0;" parent="1" vertex="1">
+            <mxGeometry x="3765" y="1118" width="140" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-102" value="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;interfaceNode&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="oIYKKuKqp56S4BTwwh6z-101" vertex="1">
           <mxGeometry y="30" width="140" height="20" as="geometry" />
         </mxCell>
@@ -2905,17 +2907,17 @@
         <mxCell id="oIYKKuKqp56S4BTwwh6z-107" value="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;obstacle_collision_checker&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="oIYKKuKqp56S4BTwwh6z-101" vertex="1">
           <mxGeometry y="130" width="140" height="20" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;initial_pose_adaptor&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/blob/main/system/default_ad_api_helpers/ad_api_adaptors/launch/rviz_adaptors.launch.xml" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-111">
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;initial_pose_adaptor&lt;/font&gt;&lt;/span&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/default_ad_api_helpers/ad_api_adaptors#initial_pose_adaptor" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-111">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="3785" y="1281" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;routing_adaptor&lt;/font&gt;&lt;/span&gt;" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-113">
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;routing_adaptor&lt;/font&gt;&lt;/span&gt;" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/default_ad_api_helpers/ad_api_adaptors#routing_adaptor" id="oIYKKuKqp56S4BTwwh6z-113">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="3785" y="1351" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;awapi_awiv_adapter&lt;/font&gt;&lt;/span&gt;" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-115">
+        <UserObject label="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;awapi_awiv_adapter&lt;/font&gt;&lt;/span&gt;" linkTarget="_blank" link="https://github.com/tier4/tier4_ad_api_adaptor/tree/tier4/universe/awapi_awiv_adapter" id="oIYKKuKqp56S4BTwwh6z-115">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="3785" y="1441" width="120" height="40" as="geometry" />
           </mxCell>
@@ -2928,9 +2930,11 @@
             <mxGeometry x="3785" y="1531" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="oIYKKuKqp56S4BTwwh6z-119" value="nodes are launched inside &quot;awapi_relay_conatiner&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="3945" y="1261" width="140" height="450" as="geometry" />
-        </mxCell>
+        <UserObject label="nodes are launched inside &quot;awapi_relay_conatiner&quot;" link="https://github.com/ros-tooling/topic_tools#relay" linkTarget="_blank" id="oIYKKuKqp56S4BTwwh6z-119">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;arcSize=0;" parent="1" vertex="1">
+            <mxGeometry x="3945" y="1261" width="140" height="450" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="oIYKKuKqp56S4BTwwh6z-120" value="&lt;span style=&quot;color: rgb(10, 48, 105); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;predict_object_relay&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="oIYKKuKqp56S4BTwwh6z-119" vertex="1">
           <mxGeometry y="30" width="140" height="20" as="geometry" />
         </mxCell>
@@ -3541,11 +3545,6 @@
             <mxGeometry x="2990" y="1590" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--11">
-          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="3280" y="1530" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/rtc_auto_mode_manager" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--12">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="2820" y="1630" width="20" height="20" as="geometry" />
@@ -3564,6 +3563,26 @@
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/planning_error_monitor" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--14">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="2660" y="2030" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--15">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="3430" y="1390" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/tier4/tier4_ad_api_adaptor/tree/tier4/universe/awapi_awiv_adapter" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--16">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="3710" y="1430" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/default_ad_api_helpers/ad_api_adaptors" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--17">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="3710" y="1300" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--11">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="3420" y="1380" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
