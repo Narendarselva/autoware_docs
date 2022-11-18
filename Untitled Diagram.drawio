@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T05:37:09.735Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9HdzmbKLyxBi-7g1nZrB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T05:41:33.392Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XgdMD0OhSGkBt0nUw_Ai" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -878,7 +878,7 @@
             <mxGeometry x="1530" y="660" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="septentrio - mosaic_x5_rover..launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/gnss.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-248">
+        <UserObject label="septentrio - mosaic_x5_rover..launch" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-248">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="1530" y="730" width="120" height="40" as="geometry" />
           </mxCell>
@@ -3096,19 +3096,44 @@
             <mxGeometry x="1140" y="600" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_map_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-32">
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-32">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="910" y="560" width="20" height="20" as="geometry" />
+            <mxGeometry x="1680" y="280" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_map_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-33">
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/imu_corrector" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-33">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="930" y="670" width="20" height="20" as="geometry" />
+            <mxGeometry x="1540" y="920" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/map/map_loader" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-34">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="1170" y="460" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-35">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1160" y="830" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/gnss_poser" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-36">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1630" y="800" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-37">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1050" y="800" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-38">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1180" y="900" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-39">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1050" y="870" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
