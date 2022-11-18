@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T10:37:31.902Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U4isg8cxJElz-hII1lUz" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T10:41:43.728Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nE1FqPO4FV6dKVVktwis" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
-    <mxGraphModel dx="4018" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3245" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="4xb4pdzudIjATDrCBTRk-16" value="Toggles" parent="0" />
@@ -14,6 +14,9 @@
             <mxGeometry x="-1275" y="410" width="38" height="38" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="AWE4FITdyTHj-2MECXtD-14" value="vehicle" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#808080;strokeColor=#9673a6;whiteSpace=wrap;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+          <mxGeometry x="-560" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
         <object label="Core-blocks" c="" id="1">
           <mxCell style="" parent="0" />
         </object>
@@ -504,6 +507,14 @@
               <mxPoint x="420" y="750" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <UserObject label="vehicle" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AWE4FITdyTHj-2MECXtD-1&quot;]}}]}" id="AWE4FITdyTHj-2MECXtD-12">
+          <mxCell style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#e1d5e7;strokeColor=#9673a6;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="-560" y="70" width="100" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="AWE4FITdyTHj-2MECXtD-13" value="vehicle" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#e1d5e7;strokeColor=#9673a6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="70" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWE4FITdyTHj-2MECXtD-10" value="api" parent="0" />
         <mxCell id="oIYKKuKqp56S4BTwwh6z-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" parent="AWE4FITdyTHj-2MECXtD-10" source="z-h-IKz81wdwOY6-5DcS-22" target="oIYKKuKqp56S4BTwwh6z-89" edge="1">
