@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T05:42:28.971Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bB4UO_6tpT59slX-UOw-" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T05:43:54.692Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oI6npwxOIY5qa7CmR3qW" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="z-h-IKz81wdwOY6-5DcS-187" target="z-h-IKz81wdwOY6-5DcS-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="awsim - sensing.launch" link="https://github.com/autowarefoundation/sample_sensor_kit_launch/blob/main/sample_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-187">
+        <UserObject label="awsim - sensing.launch" link="https://github.com/RobotecAI/awsim_sensor_kit_launch/blob/main/awsim_sensor_kit_launch/launch/sensing.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-187">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="1803" y="390" width="120" height="40" as="geometry" />
           </mxCell>
@@ -3134,6 +3134,16 @@
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/launch/tier4_sensing_launch" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-39">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="1860" y="880" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/vehicle_velocity_converter" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-40">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1990" y="680" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/imu_corrector" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-41">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="2125" y="600" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
