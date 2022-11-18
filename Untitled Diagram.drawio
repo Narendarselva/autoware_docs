@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:04:26.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="arBHBdCAS-d1dOkbN96c" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:07:35.669Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rT04NNoQC7-2rCVTLMhQ" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -805,21 +805,31 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-213" value="nodes are launched inside &quot;velodyne_node_container&quot; for top / left / right / rear individually" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="2289" y="370" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-214" value="cross_box_filter_self" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
-          <mxGeometry y="30" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-218" value="crop_box_filter_mirror" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
-          <mxGeometry y="50" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-217" value="ring_outlier_filter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
-          <mxGeometry y="70" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-220" value="distortion_corrector_node" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
-          <mxGeometry y="90" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-219" value="pointclound_distortion_relay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
-          <mxGeometry y="110" width="140" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="cross_box_filter_self" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-214">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
+            <mxGeometry y="30" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="crop_box_filter_mirror" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-218">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
+            <mxGeometry y="50" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ring_outlier_filter" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/outlier-filter.md" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-217">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
+            <mxGeometry y="70" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="distortion_corrector_node" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/distortion-corrector.md" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-220">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
+            <mxGeometry y="90" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="pointclound_distortion_relay" link="https://github.com/ros-tooling/topic_tools" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-219">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-213" vertex="1">
+            <mxGeometry y="110" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-222" value="nodes are launched inside &quot;point_cloud_preprocessor_container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="2202" y="515" width="140" height="50" as="geometry" />
         </mxCell>
@@ -834,12 +844,12 @@
             <mxGeometry x="2049" y="607" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="imu_corrector" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-231">
+        <UserObject label="imu_corrector" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/imu_corrector" id="z-h-IKz81wdwOY6-5DcS-231">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="2184" y="607" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="vehicle_velocity_converter" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-233">
+        <UserObject label="vehicle_velocity_converter" linkTarget="_blank" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/vehicle_velocity_converter" id="z-h-IKz81wdwOY6-5DcS-233">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="2049" y="687" width="90" height="40" as="geometry" />
           </mxCell>
