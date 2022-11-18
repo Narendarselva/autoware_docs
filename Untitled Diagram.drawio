@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T10:05:36.959Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Kp81YTETsX8d2M5B15vI" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T10:11:26.196Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yE-46o8DnkSWUx7i74tp" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,6 +26,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4-KpZgC8NpGKa26GbQN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="4xb4pdzudIjATDrCBTRk-16" source="z-h-IKz81wdwOY6-5DcS-270" target="h4-KpZgC8NpGKa26GbQN-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeIzfEB9raI0a0nYuvH--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="4xb4pdzudIjATDrCBTRk-16" source="z-h-IKz81wdwOY6-5DcS-429" target="z-h-IKz81wdwOY6-5DcS-797">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="radar_object_fusion_to_detected_object" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/radar_fusion_to_detected_object" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--24">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-16">
+            <mxGeometry x="830" y="1310" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GeIzfEB9raI0a0nYuvH--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4xb4pdzudIjATDrCBTRk-16" source="z-h-IKz81wdwOY6-5DcS-431" target="GeIzfEB9raI0a0nYuvH--24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Core-blocks" c="" id="1">
@@ -1555,7 +1566,7 @@
             <mxGeometry x="690" y="1275" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="radar_object_fusion_to_detected_object" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/launch/tier4_perception_launch/launch/object_recognition/detection/radar_based_detection.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-431">
+        <UserObject label="radar_object_fusion_to_detected_object" link="https://github.com/autowarefoundation/autoware.universe/blob/257239801233fba5cb61dfdb3042b637784df3a4/perception/radar_fusion_to_detected_object/launch/radar_object_fusion_to_detected_object.launch.xml" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-431">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=#FFFFFF;fontFamily=Times New Roman;fontSize=8;overflow=width;" parent="1" vertex="1">
             <mxGeometry x="690" y="1335" width="120" height="40" as="geometry" />
           </mxCell>
@@ -3609,6 +3620,11 @@
         <UserObject label="" link="https://github.com/ros2/rviz/tree/humble" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--15">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="4200" y="1130" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/radar_fusion_to_detected_object" linkTarget="_blank" id="GeIzfEB9raI0a0nYuvH--26">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="790" y="1320" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
