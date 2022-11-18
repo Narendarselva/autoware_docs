@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T06:13:25.406Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JzRK6N6eMw3XX7CsXXOD" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T06:14:43.305Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Pg3TtMlIb-Ij1cwyIMhi" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1288,9 +1288,11 @@
         <mxCell id="z-h-IKz81wdwOY6-5DcS-412" value="nodes are launched inside &quot;occupancy_grid_map_container&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;overflow=width;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1790" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z-h-IKz81wdwOY6-5DcS-413" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;occupancy_grid_map_node&lt;/blockquote&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-412" vertex="1">
-          <mxGeometry y="30" width="140" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;occupancy_grid_map_node&lt;/blockquote&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/probabilistic_occupancy_grid_map" linkTarget="_blank" id="z-h-IKz81wdwOY6-5DcS-413">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Times New Roman;fontSize=8;" parent="z-h-IKz81wdwOY6-5DcS-412" vertex="1">
+            <mxGeometry y="30" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="z-h-IKz81wdwOY6-5DcS-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="z-h-IKz81wdwOY6-5DcS-415" target="z-h-IKz81wdwOY6-5DcS-417" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3195,7 +3197,7 @@
         </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-50">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
-            <mxGeometry x="-930" y="1900" width="20" height="20" as="geometry" />
+            <mxGeometry x="30" y="1730" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/simulator/dummy_perception_publisher" linkTarget="_blank" id="4xb4pdzudIjATDrCBTRk-51">
