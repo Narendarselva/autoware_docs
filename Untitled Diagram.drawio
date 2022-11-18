@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:14:31.918Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dgb6cGydP5xMH7vzEwfK" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:15:18.219Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EBCUnZ5V0vj3NQmIiGRI" version="20.5.3" type="github">
   <diagram id="JUfGVZ4YZZ3eZMazUjR8" name="Page-1">
     <mxGraphModel dx="2859" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3468,6 +3468,21 @@
         <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/lidar_centerpoint" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-33">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
             <mxGeometry x="900" y="2060" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/lidar_apollo_instance_segmentation" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-34">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1740" y="2010" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/shape_estimation" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-35">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1740" y="2070" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/autowarefoundation/autoware.universe/tree/257239801233fba5cb61dfdb3042b637784df3a4/perception/detected_object_feature_remover" linkTarget="_blank" id="h4-KpZgC8NpGKa26GbQN-36">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.help;" vertex="1" parent="4xb4pdzudIjATDrCBTRk-9">
+            <mxGeometry x="1740" y="2130" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
