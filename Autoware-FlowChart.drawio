@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:56:35.444Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4dPm2G2skPlzvuGnxWry" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:57:13.699Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gHg80Kegr3KxOVtgEssY" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -693,7 +693,7 @@
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-133" value="&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/control: [tier4_external_api_msgs/msg/ControlCommandStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/heartbeat: [tier4_external_api_msgs/msg/Heartbeat]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/shift: [tier4_external_api_msgs/msg/GearShiftStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/turn_signal: [tier4_external_api_msgs/msg/TurnSignalStamped]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=default;rotation=0;" parent="T4uXMFoD5u3B1nQVuzlc-132" vertex="1" connectable="0">
           <mxGeometry x="-0.2571" y="-1" relative="1" as="geometry">
-            <mxPoint x="-146" y="-69" as="offset" />
+            <mxPoint x="-219" y="119" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-154" target="T4uXMFoD5u3B1nQVuzlc-164" edge="1">
@@ -1043,7 +1043,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-38" value="/planning/scenario_planning/max_velocity_candidates&lt;br&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="dgDgLwtVGSBD31zoPSUn-40">
-          <mxGeometry x="-0.1111" relative="1" as="geometry">
+          <mxGeometry x="0.3939" y="-10" relative="1" as="geometry">
             <mxPoint x="192.5" y="-530" as="targetPoint" />
             <mxPoint x="670" y="-670" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -1053,7 +1053,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-39" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-780" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="-900" width="120" height="40" as="geometry" />
         </mxCell>
         <UserObject label="external_velocity_&lt;br&gt;limit_selector" tooltip="apiとautoware.iv内部から送られてくる制約付き減速指示を受け取り、整合性をとる" link="https://github.com/tier4/autoware.iv/tree/develop/planning/scenario_planning/common/external_velocity_limit_selector" id="dgDgLwtVGSBD31zoPSUn-40">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
