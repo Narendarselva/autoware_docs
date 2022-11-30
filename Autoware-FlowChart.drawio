@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:46:11.944Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="awNRYMd3Dfdgjg7chUvQ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:54:14.628Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wTYcY3oU8qqf6a5FkAA1" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -668,31 +668,30 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-129" value="&lt;div style=&quot;text-align: left&quot;&gt;/autoware/engage&amp;nbsp;[Engage]&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;/current_gate_mode [GateMode]&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;sketch=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="T4uXMFoD5u3B1nQVuzlc-131" edge="1">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-129" value="&lt;div style=&quot;text-align: left&quot;&gt;/autoware/engage&amp;nbsp;[Engage]&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;/current_gate_mode [GateMode]&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;sketch=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="dgDgLwtVGSBD31zoPSUn-39" edge="1">
           <mxGeometry x="0.2201" y="15" relative="1" as="geometry">
             <mxPoint x="690" y="475" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="580" y="475" />
-              <mxPoint x="580" y="475" />
+              <mxPoint x="470" y="475" />
+              <mxPoint x="470" y="-160" />
+              <mxPoint x="780" y="-160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-131" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="720" y="455" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-134" target="T4uXMFoD5u3B1nQVuzlc-171" edge="1">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="T4uXMFoD5u3B1nQVuzlc-171" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="-160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="750" y="-270" />
+              <mxPoint x="330" y="-270" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-133" value="&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/control: [tier4_external_api_msgs/msg/ControlCommandStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/heartbeat: [tier4_external_api_msgs/msg/Heartbeat]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/shift: [tier4_external_api_msgs/msg/GearShiftStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/turn_signal: [tier4_external_api_msgs/msg/TurnSignalStamped]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=default;rotation=90;" parent="T4uXMFoD5u3B1nQVuzlc-132" vertex="1" connectable="0">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-133" value="&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/control: [tier4_external_api_msgs/msg/ControlCommandStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/heartbeat: [tier4_external_api_msgs/msg/Heartbeat]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/shift: [tier4_external_api_msgs/msg/GearShiftStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/turn_signal: [tier4_external_api_msgs/msg/TurnSignalStamped]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=default;rotation=0;" parent="T4uXMFoD5u3B1nQVuzlc-132" vertex="1" connectable="0">
           <mxGeometry x="-0.2571" y="-1" relative="1" as="geometry">
-            <mxPoint x="76" y="41" as="offset" />
+            <mxPoint x="-146" y="-69" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-134" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="720" y="-190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-154" target="T4uXMFoD5u3B1nQVuzlc-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1050,7 +1049,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-39" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-530" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="-780" width="120" height="40" as="geometry" />
         </mxCell>
         <UserObject label="external_velocity_&lt;br&gt;limit_selector" tooltip="apiとautoware.iv内部から送られてくる制約付き減速指示を受け取り、整合性をとる" link="https://github.com/tier4/autoware.iv/tree/develop/planning/scenario_planning/common/external_velocity_limit_selector" id="dgDgLwtVGSBD31zoPSUn-40">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
@@ -1067,13 +1066,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-42" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="530" width="580" height="455" as="geometry" />
+          <mxGeometry x="320" y="523.5" width="580" height="746.5" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;SYSTEM&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-47" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;strokeWidth=3;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-198" y="1120" width="98" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-58" value="/autoware/state" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1255.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-59" value="/autoware/engage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-62">
+          <mxGeometry x="0.365" y="-10" relative="1" as="geometry">
+            <mxPoint x="380" y="1255.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1160" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1255.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-61" value="/diagnostics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dgDgLwtVGSBD31zoPSUn-60">
+          <mxGeometry x="-0.0048" relative="1" as="geometry">
+            <mxPoint y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="component_state_monitor" link="https://github.com/tier4/autoware.iv/tree/master/system/autoware_state_monitor" tooltip="なにかしてます" id="dgDgLwtVGSBD31zoPSUn-62">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;overflow=width;" vertex="1" parent="1">
+            <mxGeometry x="410" y="1140" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-63" value="&amp;nbsp; &amp;nbsp; /control/command/control_cmd&lt;br&gt;&amp;nbsp; &amp;nbsp; /control/trajectory_follower/control_cmd&lt;br&gt;&amp;nbsp; &amp;nbsp; /initialpose3d&lt;br&gt;&amp;nbsp; &amp;nbsp; /localization/kinematic_state&lt;br&gt;&amp;nbsp; &amp;nbsp; /map/pointcloud_map&lt;br&gt;&amp;nbsp; &amp;nbsp; /map/vector_map&lt;br&gt;&amp;nbsp; &amp;nbsp; /perception/object_recognition/objects&lt;br&gt;&amp;nbsp; &amp;nbsp; /planning/mission_planning/route&lt;br&gt;&amp;nbsp; &amp;nbsp; /planning/scenario_planning/trajectory&lt;br&gt;&amp;nbsp; &amp;nbsp; /system/emergency/control_cmd&lt;br&gt;&amp;nbsp; &amp;nbsp; /vehicle/status/control_mode&lt;br&gt;&amp;nbsp; &amp;nbsp; /vehicle/status/steering_status&lt;br&gt;&amp;nbsp; &amp;nbsp; /vehicle/status/velocity_status" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;jumpStyle=arc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dgDgLwtVGSBD31zoPSUn-62">
+          <mxGeometry x="-0.3023" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="1080" as="sourcePoint" />
+            <mxPoint x="260" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="1080" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
