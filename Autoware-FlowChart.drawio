@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:22:00.813Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QAUlVcxVzAdruasNtxcM" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:28:41.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tdcjaTXGU7wBoqxkVD-l" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="-250" y="-660" width="230" height="250" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="-405" y="-798.75" width="480" height="527.5" as="geometry" />
+          <mxGeometry x="-405" y="-798.75" width="575" height="527.5" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-210" value="trajectory_follower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-450" y="-210" width="570" height="440" as="geometry" />
@@ -1047,6 +1047,33 @@
             </Array>
             <mxPoint x="-997.55" y="910" as="sourcePoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-38" value="/planning/scenario_planning/max_velocity_candidates&lt;br&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="dgDgLwtVGSBD31zoPSUn-40">
+          <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint x="192.5" y="-530" as="targetPoint" />
+            <mxPoint x="670" y="-670" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="720" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-39" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="external_velocity_&lt;br&gt;limit_selector" tooltip="apiとautoware.iv内部から送られてくる制約付き減速指示を受け取り、整合性をとる" link="https://github.com/tier4/autoware.iv/tree/develop/planning/scenario_planning/common/external_velocity_limit_selector" id="dgDgLwtVGSBD31zoPSUn-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+            <mxGeometry x="30" y="-530" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-41" value="/planning/scenario_planning/max_velocity&lt;br&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-40" target="T4uXMFoD5u3B1nQVuzlc-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522.5" y="-600" as="targetPoint" />
+            <mxPoint x="100" y="-480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="-310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
