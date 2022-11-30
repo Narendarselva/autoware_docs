@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:43:47.892Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="y20vQ17S7R_1n4pi86-5" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:44:17.861Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Mr7uqax2IP39Vt6RYsvO" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -618,7 +618,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-119" value="/planning/mission_planning/route&lt;br&gt;[autoware_auto_planning_msgs/HADMapRoute]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;jumpStyle=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-120" target="T4uXMFoD5u3B1nQVuzlc-121" edge="1">
-          <mxGeometry x="-0.8417" relative="1" as="geometry">
+          <mxGeometry x="-0.3791" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-179" y="-590" />
             </Array>
