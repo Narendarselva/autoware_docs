@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:40:51.193Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PnQc3Do9K8REZN-8i-j7" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:42:52.134Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NQ8OK1o-PcY0SQfjpIVy" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dgDgLwtVGSBD31zoPSUn-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-2310" y="110" width="830" height="780" as="geometry" />
+          <mxGeometry x="-2330" y="20" width="830" height="780" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-2320" y="-820" width="810" height="757.5" as="geometry" />
@@ -40,9 +40,9 @@
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-2" value="/vehicle/status/velocity_report" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-55" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1570" y="130" as="targetPoint" />
+            <mxPoint x="-1570" y="148" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1590" y="130" />
+              <mxPoint x="-1590" y="148" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,12 +57,12 @@
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-4" value="vehicle_velocity_converter/&lt;br&gt;twist_with_covariance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-52" target="T4uXMFoD5u3B1nQVuzlc-55" edge="1">
           <mxGeometry x="-0.1852" y="-20" relative="1" as="geometry">
-            <mxPoint x="-1630" y="40" as="targetPoint" />
+            <mxPoint x="-1630" y="58" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1640" y="310" />
+              <mxPoint x="-1640" y="328" />
             </Array>
             <mxPoint x="21" y="-20" as="offset" />
-            <mxPoint x="-1630" y="180" as="sourcePoint" />
+            <mxPoint x="-1630" y="198" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-5" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -293,19 +293,15 @@
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-51" value="twist_estimator/twist_with_covariance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.853;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-52" edge="1">
-          <mxGeometry x="0.3811" y="1" relative="1" as="geometry">
+          <mxGeometry x="-0.2899" y="7" relative="1" as="geometry">
             <mxPoint x="-1775.5700000000002" y="577.5599999999995" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1777" y="280" />
-              <mxPoint x="-1776" y="280" />
-              <mxPoint x="-1776" y="500" />
-            </Array>
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="gyro_odometer" tooltip="車両速度とimuを統合する。いまは確か、ただ単にvx=vehicle, wz=imuだった気がする。" link="https://github.com/tier4/autoware.iv/tree/master/localization/twist_estimator/gyro_odometer" id="T4uXMFoD5u3B1nQVuzlc-52">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="-1837" y="290" width="120" height="40" as="geometry" />
+            <mxGeometry x="-1837" y="308" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-53" value="measurement_range/pointcloud" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-54" target="T4uXMFoD5u3B1nQVuzlc-42" edge="1">
@@ -318,7 +314,7 @@
         </UserObject>
         <UserObject label="vehicle_velocity_converter" tooltip="車両速度とimuを統合する。いまは確か、ただ単にvx=vehicle, wz=imuだった気がする。" id="T4uXMFoD5u3B1nQVuzlc-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="-1670" y="208" width="160" height="40" as="geometry" />
+            <mxGeometry x="-1670" y="226" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-56" value="/tf&lt;br&gt;(map to base_link)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" edge="1">
@@ -871,8 +867,8 @@
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-172" value="/current_gate_mode&amp;nbsp;[GateMode]&lt;div&gt;/gear_cmd [GearCommand]&lt;/div&gt;&lt;div&gt;/turn_indicators_cmd&amp;nbsp; [TurnIndicatorCommand]&lt;/div&gt;&lt;div&gt;&lt;div&gt;/hazard_lights_cmd&amp;nbsp; [HazardLightsCommand]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;/vehicle_emergency_cmd [VehicleEmergencyStamped]&lt;/div&gt;" style="rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.716;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;align=left;labelBackgroundColor=default;" parent="1" edge="1">
-          <mxGeometry x="-0.3878" y="-55" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="0.4258" y="-46" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
             <mxPoint x="25.920000000000073" y="849.02" as="targetPoint" />
             <mxPoint x="27.83316400192416" y="505" as="sourcePoint" />
           </mxGeometry>
@@ -1007,7 +1003,7 @@
           <mxGeometry x="-1710" y="-810" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;LOCALIZATION&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-1900" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1660" y="60" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-9" target="T4uXMFoD5u3B1nQVuzlc-78">
           <mxGeometry relative="1" as="geometry">
@@ -1028,7 +1024,7 @@
           <mxGeometry x="-746" y="-798.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;VEHICLE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="724" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="600" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-28" value="/perception/object_recognition/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;labelBackgroundColor=none;entryX=0.652;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-79" target="T4uXMFoD5u3B1nQVuzlc-122">
           <mxGeometry x="0.2769" relative="1" as="geometry">
@@ -1074,7 +1070,7 @@
           <mxGeometry x="330" y="530" width="580" height="455" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;SYSTEM&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="550" width="80" height="20" as="geometry" />
+          <mxGeometry x="790" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-47" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;strokeWidth=3;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-198" y="1120" width="98" height="86" as="geometry" />
