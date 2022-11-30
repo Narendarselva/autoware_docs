@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:12:42.156Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NjA1MTC99XkSN0YotvnB" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:22:00.813Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QAUlVcxVzAdruasNtxcM" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="570" width="810" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-206" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-530" y="-237.5" width="950" height="757.5" as="geometry" />
+        </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-1407" y="-820" width="830" height="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-122" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="-660" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="-798.75" width="480" height="527.5" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-210" value="trajectory_follower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-450" y="-210" width="570" height="440" as="geometry" />
@@ -570,16 +582,24 @@
             <mxGeometry x="-1201" y="-463.03" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-105" target="T4uXMFoD5u3B1nQVuzlc-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-911" y="-260" />
+              <mxPoint x="-70" y="-260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="occupancy_grid_&lt;br&gt;map_based_outlier_filter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/occupancy_grid_map_outlier_filter" tooltip="occupancy gridで与えられる障害物存在確率マップの情報をもとに、障害物点群をフィルタリングします。" id="T4uXMFoD5u3B1nQVuzlc-105">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-981" y="-393" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-106" value="/perception/obstacle_segmentation/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-105" edge="1" target="T4uXMFoD5u3B1nQVuzlc-67">
-          <mxGeometry x="-0.3889" relative="1" as="geometry">
-            <mxPoint x="-911" y="-233" as="targetPoint" />
-            <mxPoint x="-901" y="-497" as="sourcePoint" />
-            <mxPoint as="offset" />
+          <mxGeometry x="-0.3763" y="-9" relative="1" as="geometry">
+            <mxPoint x="-909" y="-233" as="targetPoint" />
+            <mxPoint x="-919" y="-497" as="sourcePoint" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-107" value="crop_box_filter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -614,9 +634,6 @@
             <mxGeometry x="-240" y="-580" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-122" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="-660" width="230" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-123" value="costmap_generator/occupancy_grid" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;orthogonal=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-111" target="T4uXMFoD5u3B1nQVuzlc-121" edge="1">
           <mxGeometry x="-0.3333" relative="1" as="geometry">
             <mxPoint x="-130" y="-485" as="sourcePoint" />
@@ -957,9 +974,6 @@
             <mxGeometry x="360" y="656" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="-800" width="480" height="527.5" as="geometry" />
-        </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-199" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;PLANNING&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-30" y="-775" width="80" height="30" as="geometry" />
         </mxCell>
@@ -978,9 +992,6 @@
               <mxPoint x="-20" y="-160" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-206" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="-237.5" width="950" height="757.5" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-207" value="&amp;lt;CAN&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-182" target="T4uXMFoD5u3B1nQVuzlc-181" edge="1">
           <mxGeometry x="0.1429" relative="1" as="geometry">
@@ -1010,7 +1021,7 @@
               <mxPoint x="-1630" y="-395" />
               <mxPoint x="-1630" y="-20" />
               <mxPoint x="-1280" y="-20" />
-              <mxPoint x="-1280" y="460" />
+              <mxPoint x="-1280" y="496" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1022,11 +1033,21 @@
         <mxCell id="dgDgLwtVGSBD31zoPSUn-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;PERCEPTION&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-720" y="-740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dgDgLwtVGSBD31zoPSUn-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="570" width="810" height="380" as="geometry" />
-        </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;VEHICLE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="724" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-28" value="/perception/object_recognition/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;labelBackgroundColor=none;entryX=0.652;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-79" target="T4uXMFoD5u3B1nQVuzlc-122">
+          <mxGeometry x="0.2769" relative="1" as="geometry">
+            <mxPoint x="-460" y="-390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1002" y="959" />
+              <mxPoint x="-660" y="959" />
+              <mxPoint x="-660" y="-420" />
+              <mxPoint x="-100" y="-420" />
+            </Array>
+            <mxPoint x="-997.55" y="910" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
