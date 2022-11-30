@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T05:05:02.606Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Th_wY9yYZDCzmmYVRVUd" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T05:05:47.283Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7rKwTUo-TD6QK6l9otSI" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -586,7 +586,7 @@
           <mxGeometry x="-130" y="-640" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-110" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="53" y="-970" width="120" height="40" as="geometry" />
+          <mxGeometry x="-240" y="-900" width="120" height="40" as="geometry" />
         </mxCell>
         <UserObject label="costmap_generator" tooltip="障害物点群や地図の走行可能エリアの情報から、駐車プランナー用のコストマップを生成する。" link="https://github.com/tier4/autoware.iv/tree/master/planning/scenario_planning/parking/costmap_generator" id="T4uXMFoD5u3B1nQVuzlc-111">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
@@ -620,7 +620,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-124" value="goal" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;comic=0;" parent="1" target="T4uXMFoD5u3B1nQVuzlc-120" edge="1">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-124" value="goal" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;comic=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-110" target="T4uXMFoD5u3B1nQVuzlc-120" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-180" y="-820" as="sourcePoint" />
             <mxPoint x="-136.5" y="-840" as="targetPoint" />
@@ -951,7 +951,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-797.5" width="480" height="527.5" as="geometry" />
+          <mxGeometry x="-390" y="-800" width="480" height="527.5" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-198" value="&amp;lt;Parking&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="-1070" width="80" height="20" as="geometry" />
