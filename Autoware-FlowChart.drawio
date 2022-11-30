@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:45:04.671Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q0OaeRhLDF_zTnzBb1Yw" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:45:21.004Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cVPcufJAz6CIGr_hkzR-" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1024,7 +1024,7 @@
           <mxGeometry x="-746" y="-798.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;VEHICLE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="589" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dgDgLwtVGSBD31zoPSUn-28" value="/perception/object_recognition/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;labelBackgroundColor=none;entryX=0.652;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-79" target="T4uXMFoD5u3B1nQVuzlc-122">
           <mxGeometry x="0.2769" relative="1" as="geometry">
