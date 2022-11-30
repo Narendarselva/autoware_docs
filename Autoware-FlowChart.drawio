@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:11:21.492Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JkCgUN6RV6rbJSu4D6Ev" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:12:42.156Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NjA1MTC99XkSN0YotvnB" version="20.6.0" type="github">
   <diagram id="Z430kauFOixNenx0ClLi" name="Page-1">
     <mxGraphModel dx="4868" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -734,17 +734,17 @@
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-151" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/control/current_gate_mode&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/vehicle/status/control_mode&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/autoware/state&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;jumpStyle=arc;" parent="1" edge="1">
           <mxGeometry x="-0.6522" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="920" as="sourcePoint" />
-            <mxPoint x="430" y="840" as="targetPoint" />
+            <mxPoint x="570" y="922" as="sourcePoint" />
+            <mxPoint x="480" y="842" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="840" />
+              <mxPoint x="570" y="842" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-152" value="/diagnostics_err" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-192" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="920" as="targetPoint" />
+            <mxPoint x="420" y="922" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="latlon_muxer" link="https://github.com/tier4/autoware.iv/tree/master/control/latlon_muxer" tooltip="縦横を分けて計算された制御コマンドを統合して出力します" id="T4uXMFoD5u3B1nQVuzlc-154">
@@ -906,55 +906,55 @@
         </UserObject>
         <UserObject label="system_monitors" link="https://github.com/tier4/autoware.iv/tree/master/system/system_monitor" tooltip="各々データを監視し、異常があればdiagで通知します" id="T4uXMFoD5u3B1nQVuzlc-184">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="619" y="614" width="180" height="350" as="geometry" />
+            <mxGeometry x="660" y="620" width="180" height="350" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="autoware_process_&lt;br&gt;monitor" id="T4uXMFoD5u3B1nQVuzlc-185">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="649" y="644" width="120" height="40" as="geometry" />
+            <mxGeometry x="690" y="650" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-186" value="autoware_gpu_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="649" y="694" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-187" value="autoware_mem_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="649" y="744" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-188" value="autoware_hdd_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="649" y="798.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="804.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-189" value="autoware_net_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="649" y="849" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="855" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-190" value="autoware_ntp_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="649" y="904" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-191" value="/system/emergency/hazard_status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-192" target="T4uXMFoD5u3B1nQVuzlc-194" edge="1">
           <mxGeometry x="-0.0769" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="370" y="710" />
-              <mxPoint x="370" y="710" />
+              <mxPoint x="420" y="712" />
+              <mxPoint x="420" y="712" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="autoware_error_&lt;br&gt;monitor" link="https://github.com/tier4/autoware.iv/tree/master/system/autoware_error_monitor" id="T4uXMFoD5u3B1nQVuzlc-192">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="310" y="767" width="120" height="90" as="geometry" />
+            <mxGeometry x="360" y="773" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-193" value="&lt;div&gt;/system/emergency/control_cmd [AckermannControlCommand]&lt;/div&gt;&lt;div&gt;/system/emergency/gear_cmd [GearCommand]&lt;/div&gt;&lt;div&gt;/system/emergency/hazard_lights_cmd [HazardLightsCommand]&lt;/div&gt;/system/emergency/emergency_state&amp;nbsp;[EmergencyStateStamped]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;align=left;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-194" edge="1">
-          <mxGeometry x="0.4611" y="80" relative="1" as="geometry">
+          <mxGeometry x="-0.5169" y="60" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="230" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="490" />
+              <mxPoint x="420" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="emergency_handler" link="https://github.com/tier4/autoware.iv/tree/master/system/emergency_handler" tooltip="なにかしてます" id="T4uXMFoD5u3B1nQVuzlc-194">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="310" y="654" width="120" height="40" as="geometry" />
+            <mxGeometry x="360" y="656" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
