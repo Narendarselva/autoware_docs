@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T05:34:20.149Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uoOjBcR98yxFg37yDKmw" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T05:39:06.671Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jRfCFHaNFQEzOFi6n3AS" version="20.6.2" type="github">
   <diagram id="v_hTKxBUax8w9F56tQwd" name="Page-1">
     <mxGraphModel dx="4112" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -773,7 +773,7 @@
             <mxPoint x="760" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="latlon_muxer" link="https://github.com/tier4/autoware.iv/tree/master/control/latlon_muxer" tooltip="縦横を分けて計算された制御コマンドを統合して出力します" id="T4uXMFoD5u3B1nQVuzlc-154">
+        <UserObject label="latlon_muxer" link="https://github.com/autowarefoundation/autoware.universe/blob/main/control/trajectory_follower_nodes/design/trajectory_follower-design.md#trajectory-follower-nodes" tooltip="縦横を分けて計算された制御コマンドを統合して出力します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-154">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-225" y="130" width="120" height="40" as="geometry" />
           </mxCell>
@@ -811,17 +811,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="lateral_controller" link="https://github.com/tier4/autoware.iv/tree/master/control/mpc_follower" tooltip="経路追従のための目標ステア角とステア角速度を計算します。目標速度と加速度は経路に埋め込まれた値をそのまま出力します。" id="T4uXMFoD5u3B1nQVuzlc-158">
+        <UserObject label="lateral_controller" link="https://github.com/autowarefoundation/autoware.universe/blob/main/control/trajectory_follower_nodes/design/trajectory_follower-design.md#trajectory-follower-nodes" tooltip="経路追従のための目標ステア角とステア角速度を計算します。目標速度と加速度は経路に埋め込まれた値をそのまま出力します。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-158">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-360" y="-73.5" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="longitudinal_controller" link="https://github.com/tier4/autoware.iv/tree/master/control/velocity_controller" tooltip="経路の目標速度に沿うための目標加速度を計算します。遅延補正や停止時のブレーキ抜き操作も行います。" id="T4uXMFoD5u3B1nQVuzlc-159">
+        <UserObject label="longitudinal_controller" link="https://github.com/autowarefoundation/autoware.universe/blob/main/control/trajectory_follower_nodes/design/trajectory_follower-design.md#trajectory-follower-nodes" tooltip="経路の目標速度に沿うための目標加速度を計算します。遅延補正や停止時のブレーキ抜き操作も行います。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-159">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-100" y="-73.5" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="vehicle_cmd_gate" link="https://github.com/tier4/autoware.iv/tree/master/control/vehicle_cmd_gate" tooltip="指示モードに応じて、複数のコマンドの中から後段に渡すコマンドを選択します。" id="T4uXMFoD5u3B1nQVuzlc-160">
+        <UserObject label="vehicle_cmd_gate" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/vehicle_cmd_gate#vehicle_cmd_gate" tooltip="指示モードに応じて、複数のコマンドの中から後段に渡すコマンドを選択します。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-160">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-450" y="445" width="680" height="60" as="geometry" />
           </mxCell>
@@ -850,12 +850,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="shift_decider" link="https://github.com/tier4/autoware.iv/tree/master/control/shift_decider" tooltip="制御出力に応じてギア変更のコマンドを出力します" id="T4uXMFoD5u3B1nQVuzlc-164">
+        <UserObject label="shift_decider" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/shift_decider#shift-decider" tooltip="制御出力に応じてギア変更のコマンドを出力します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-164">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-225" y="328" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="external_cmd_&lt;br&gt;converter" link="https://github.com/tier4/autoware.iv/tree/master/vehicle/remote_cmd_converter" tooltip="遠隔から来たコマンド（アクセル/ブレーキ）を目標速度/加速度の信号に変換します" id="T4uXMFoD5u3B1nQVuzlc-165">
+        <UserObject label="external_cmd_&lt;br&gt;converter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/vehicle/external_cmd_converter#external_cmd_converter" tooltip="遠隔から来たコマンド（アクセル/ブレーキ）を目標速度/加速度の信号に変換します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-165">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="270" y="210" width="120" height="40" as="geometry" />
           </mxCell>
@@ -869,7 +869,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="external_cmd_&lt;br&gt;selector" link="https://github.com/tier4/autoware.iv/tree/master/control/external_cmd_selector" id="T4uXMFoD5u3B1nQVuzlc-171">
+        <UserObject label="external_cmd_&lt;br&gt;selector" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/external_cmd_selector#external_cmd_selector" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-171">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="270" y="-73.5" width="120" height="40" as="geometry" />
           </mxCell>
