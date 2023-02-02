@@ -1,1 +1,1003 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T07:56:40.535Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KLLNcvxyTIRKEUd_uHWM" version="20.8.15" type="github"><diagram id="TxrP-T3yH6VNKGpFVDSx" name="Page-1">7X1pk9s2tvavUdVMqtTFffko9ZLkXm9vnMncuV9UbIlSM5ZIXZLtbvvXvwBIgAAIkuAqui2nYktcIeDsOOc5C/329Ppr7J2f3kc7/7jQlN3rQr9baJqh6hb4Bx75lh3RFFPLjhziYJcdU4sDn4Pvfn5QyY8+Bzs/YS5Mo+iYBmf24DYKQ3+bMse8OI5e2Mv20ZF969k7+KUDn7fesXz038EufcqOOqZSHP/NDw5P+M2qkp85efji/EDy5O2iF+qQfr/Qb+MoSrNPp9db/whnD89Ldt9DxVkysNgPU5kbfn/8+On984fzl9fvXvyrv9ym/+0v86d89Y7P+Q/OB5t+wzMQR8/hzocPURf6+uUpSP3PZ28Lz76ARQfHntLTMT+985Incu0+OB5vo2MUg+9hFII71kkaR1/ITOrgyDY6BVvwWQGf88H4ceq/Vv5KlcwdoDo/Ovlp/A1ckt+w1HQ84TnJqY6efX8p1s/C5PVErZ3u2Dnd5DRzIE8vphV8yGdWPMu7w93h3Uv616+f13e6+j369Plf4dLQZjjNpTkVzHzlNFsWO8lL27oxS9NsOoJptg1y6eATjZf17Ux0mZ6XDj5AzbQjImjbtEebaU1/czNtchNt2pLzrGMy7zPLfxrP//P+Ibozn/W1Gv6/v56/H7dLTbHe3jTrHD1rui2QHa45NUWPqgvr5zU7i5dioekPDwr4M9CMq4ZiS4gQXTDhqq2ORdsqnt8L0bY6hrA2OdomepKaaE000eTO4efZNd+cDDEUkzM/XOfGFhgg+Bg91aY2iBARC2yBBZLG3t/ANYnibxvgfhyjFz/uN//0lANZsd/71nYrkiI7231EUgRObQCcmtUxOITgXBqdh1oJnuLJDDDLIKB4wxiL4ss6E/5e7eGrf4x230J/A2b2i58mpVXwd8D3y7/6x8fo5b44sC6WSOEo+u/n0xnf5sVwJaI4fYoOUegd30VwqtGy/e2n6bfcw/We0wgcQi8BX/H6sOvsvwbp/8B3AHLNvv2HOnP3mr8effmGv4RgBqmb4Nf/0OeK29A3fF+SenG6gg4zzcfg2EMAJz+/Y4ev2B69JIETAA/ml6h1JJVEz/HWr1m0XEOBVx78tE6c5Q+Ea1VLobF/9NLgK+vHt6C1fyV+/PERci647+g9+sfs1mOw8+LNLgaPzvk4D0hkpzGRLe71haMuVvf5lflXO//guuiDsnC0v959UgHJgvcr4KOu4Y+fVc3JPr8Lvkav+Akr/MGtOKLAz/lbHvIPDv4AlAH8oC1cfXFvL1YOGOHi3l2swKl7fPEt/qDlFzv4Fev78vizSajlSJtaopyDuwq/WrPJtWzds8oi0ld3pm/DOwDfb58G1ESq4/KesF4WgKomEIAdND74SpFlC5HoVIjEGDwn2Adg8rWHcxSE6fYYPe+ugnFGgtGVFYzWhQXjPnjd7IIEGDppEIUC0bi4dxaOjeSVs1ivC6kCRZC5cNdIBKFTKw2fWmMR5OAjOv5gQQnmGoWUcx0i994Fd6s/4Hlw69qFH4DoWhnUC63F6q6QnesHLBfRMMFL3Ft8jc7KPDCWdSH87h8W61s8Oh0/UF+s9fziFRkdPkLkK9QG4HcrFT+Ofhd1ylXzl8Lfnb09p5FjEH7JpvopTWGAfAXXUHs4BOnT8+MNYE3wBXLYC6DDPWRbL1sqcvDmOYTaKvHBscdj9AiX3gvgFYkfJkF4YOTE5hz75zja+kkCJK32sIu2CfyHEMFyG8Uxsn1vTjsJPeGOoycqtUGl/phATxgCQ1moJ/QJ9YTIfUGKglr02Hu5KogZKQhsETdrCH1oDZHf+gkSB0PsfIzPtDgizgab38jRMRlJG+2T+3SbNNosNOsI5mH9CGSSdYCfeNOm3mLPHkX0AXUzlNb3lEhewyNAqwABDHQFUGBrQ6ArmuWeSi/EWxd8liD4eHnBVw5GZoIv8Y/7zTaOzuerkTxjGajLykDzwlYyJKXNY/QqkFKAW1M/3kCKa2s9AwdeQeavCa1CaBiaC8daOCZrRtMu/brCOs5MYBdKMHgEPOcevq7GBJ6T7Qmndwmmd5lNppzZmVHPTyJ+TXOO4teoEL+nAMiM+CqAZy+ATUkB7M5e/mYk11YCI6m4xtHVXJbqyDJEH/IghY6jtDp03GkBDk8hAe44UHTTFub6DgcPqJDuij7ST5L/+ALc/IkEuOFMKsCrGCkGC7qJntNjAHgmWywhz9SE4DIOuWd5Bly8QsRq4wifgvmBROfoPQoLsC9YARVNeBGNy+Jq4CpjsXagoVIVn1sr+Ekk1OgiprtfuDZ1hA3dkQgj+THkd5KB0uE/wvfUNeuH5kHlQ8j2dMpTacENHXJxFkcFX128AUTim44hPR4idagtIcbuq1pR/GTximbXOOzvygKdVSLKZGc9e/scI56QF5Y5L7QTXNZPJLh0Y46Wp12yPNEOL3jgL9ecgZkbnY6k0alpE1mdkjRX3o6lswqSsmn6j6O/B/r3NkZMot3u4yhMN/gbeFR2AF/le/E/S5T6I2+za0op4XzEbXbZxLrSKuKFS85eyEy+9X/PsM4DTCuarBUktcPjP8DQlGz9qE//hB/htCl7sKbLvXcKjt+ye8CDvFOWuqXrBlwx//jVh2KgdIZ9SIJECHyEqp5fuXPZKOHJMIpP3pE9/ZLPJTxvZONEJ49ANAFtB37qFmpJ0f1gddOll+WcwdNbQAHQSqRPB4Amw/zxCjU0dDKNvTDZg4fixwMZgy94ieId+3b69kcgrg+I4pfcnGumSeaa+1zM/C5Izkcvn/UgBGZG8eL9MfJSekB4cTGz/lKTWJHRB7QuEIlkN1yVyoyUCpYhzUrFvnAo45pwcU246JlwQVUivjX/o2wyzDLjQlh2crUirlbEL4Ksm6v1MHvrQZO1HoyhrYeKZBxNUTg5eE3GqZfI2k+kE2eZjCMsLr7qxKtO/KU+IeuqHmevHg1Z9XjpaoZrntb8tvkz6vlJNPMs87Q0US35VTNfNfMvTbl6V908e91syepmZfa6+ZrD9+Mp97ebCiMIRV9z+K45fNccvjkJrc45fNpI6BazFFyXzuETwz6atYZkYQtWW5Oy9mJP4xB6F/kDVSP/Tq2kojTBvjVbcbJ4Ee5U1cA2nwfq2BxtVOw/AFPX+0Zdhlg4qXmT6vJ1x6rNgeKWbjF4Cu9wi2013OKq9XeAD9mPldx3kWQLEXjkwzYKt17qh+B/3kcT8NC7zFig6T53bu9yz7aMLnYKdruMxXzgg3uP6HmQqvMFBA831wvzrhc/1AoCAYRwDhCdj2ZBYzCLRJ9yoxkWs2b5c3pyg2bwlOCwj4j2+8QfaBsuW+o6w85BG2Z22QipS+chlhGFB5UbBVqBPbWyyCeDsknm7bgUvLEEb/AkDYA3DFvi8sJbE6DiCg2ADvB+ncOSWOzPOJL0w0aFZIH5sOFxgYQGnQepzX5Vh4QGSXJTZ09uHWzTsUltfNiZkvmnSVqaIggbHth0OCKLBKr6o3+yN4cwSRhkyZ2fbLPz73/94zNy6FcoidWCCtfN9LJeeNtrktZ6zyTDOA8wH6ZsAMAXkjsqgSqbNaA+0sbcHCpPCA2R2J1ebigxoAaMWru/Wr32m5H721UL0m6C1sVtbtRe+lTaSyUZVyQFy51Ye5UrHhkrGZc/vm2kjYG0XVeK7m6QSeN8Ek/WtHGotb+GdVjiJd2N2itYnZerpTYaFXzQPixUqkRW68IvxQP6+ORyvGgKQzTpXlABegKKEqrvBdzoT/wNdJnLRZ5tBf8w7Enx4lB8RVhak+dpWdNTgssYi0ZgFig3hmWxXTWMYXisFCLi7U5pFiu4k7AYXww7FItVDfryDCZUdscI6JDgO44hfQlC/wS+bDeAUlO/zHwLcx16Xzen5ACjROAf8PfHXT448+5HMb+k2nA0sobptFNAgFdstl0HDtP2ZhXgpTEPtiR5pT1982/S7ekJXNjBz/5RiK+wlBg7qTCbai2lkgTvQ7mN3oBJR3Q7G//9qcxUjGoq674vkKTRuXpX4CMwsl/iAMpB5Wu2JuA3hDvo8X7Pv748+TDZM31CF/lPwfboZ4dRA9Dk7MPNJSUAv1b57scRtlyCcBdskYjN700QzB/cndkFUBrfZAMadj8gjX2/2A/ghD8zGXppauBI/qToZfN49MDYmmMiGbGNviuw83xnL+z+Y20d/3E/TkzE4KShLBjHMJsCla1ZqJXd+CgZ9RSFQSrOBJya0OpGpzcNvTsZTrM5dQkyVF1uI95wdEEnQezsXWx3yhKVeD/sAu8QRgmwOutBpWakwgeyH6cLtXFOic1H2uRdKdVx2Efx+U0VnpSMKdg+oFH1w4ZKJxGTsSYi4yJuiDYTtIcw+goU/BFGsv2TDf/ZQSE6tUs1/8CGPX7cvDuT6rKFem29QeVG0U2Dpd6cmPtvDHNxvh67fyXH0pVi9/4m/1LPE/MaPMtvwlkaL5BiVddk74KvRUHPw9kHE3PObZ5sM2sT+9voEAb5QYEwKMqDmIdxMqBPl8yd6Ts7Q2SgONqjbsE9RXGXzFK6GzI416TWimt+Oohho3GhxaUl6G0qapDs6tpovU2tMkZ7VwrY+SnER0Of/eftMdj53pUyZChDsdisxKVmCUxeXeR7maMhIVrVVaHMotGFomJqqawTLN9aK1ok7qdpsOE2nvikfhpN19vjcwJIJLOTGl52pf1K2sd5V1j3ibw9TSQWS7k7w5F+eQOvcuF30UuYeKfzsU0jCxlbdxD7tuMCNlqSlmwCoXXp1hBfo1f/uDnEwa4UAVyMFCKSyE3WK8/0igtZA1YttRcqQ8gD12bFgS0M/lw6NdkqYz1XCgi+EnN2MqKrHzqabJEtdsKkcjHZIiqynUnRg6DmUa8abjdRM2AIeh6iRp2nrMHxDi7ZIc/ny0XNVZLUCYjmsklZSUJlCmlObiX2jmgrFkuIJgbtGDrhwVXZF+m6xVHs4PkOVaKTqMsNQ8FjmmWMTyp4v14zpk4i0h6wAew8RKRmzVNEisKYD3EUJL/MTTAuWqXJjCUYHdnOqo5sZ9VCMFqu3UUutt8vU7laXkPDxHnxBEW7HFUlkanN47dNGkMA3JhEUvtvFr9JMrVl+086LdPnof5WbW0qOmV3xiz1YlqXIcJybDIny00Y7fyJ9bGYPZpV7IA9Ii+jYoHy5MhDFkVqUg1rzURCDVifpjZItR7qVZOUW7aseh1bRimKxhChbTEySkKqcXeMk61ilxP/s72Kcza8wdTpzEsn6TyY0ZSvbF51B+Vr43Sx0XWvybnWlsnaiBK8ULpnSo2dtRBkiBwtCp30evfhAwvhomMsFoJlScDkYBF4Q1enDEjORTh0BgNxSeA0xVh1FsKYM1GRugJR6opBGbCcHUJkZ6B/IvS6ae2Ninmtlz4TJX83Gx7DZ92Sm7AzhTU+bYUYkyd/n7zzBhZG7kQtR2J/F2wru6S5kJIhyQHy1hCmUQa0YCEIyluEi4TapUFsxxrSRc3RCDyiQ9jEIviPyFyFcXkxOqKKIeHX6FSZt4Qvx9iVKxshQVC3r030ZGexthEjGvBnQWRNC/LW6pYaexmRc1ImK1aPX6t6Ppsou/0SfKZYrHKxXQGfXdrad8pbDnRizVBGFr02Mze4ZPKERwvWyUJ4Y7dj/Bx8hfdZDe4hI6NdOOXiCyKEr/Q5NX1Ke7uyuUCFo9Af5WIMo/z0DAyNTZ6rWBlGE1olNeZzhp+8zg0D5w7p+jtkBpBTCHJ+lYF3rxZrq9p4yBqnPRRgjhSwM2OwVFgKpMFMgdxtQbMJAnY7EJEaQlln1vwKmR5mgRIJn+PCKzPDJ7e6Kmws+AoEKk6wqN114RXkHxx2YBTqJAHS5pu+qmgKaWh+AhdOTQa050YErq4zjmgiko94Ztz2cxhHE4dCq9g99cMkiuN08w3MwtX/HoT6BXNaT/b62yV71WV9b01Y8epe2ikQVYpMH2YdplzVkd5ZvHT+chwFOB1ls39OxNGOqwSSyp9kJFBw8g7+5hxHf+ONRxSpwHNMOkhEwTKf/2V2Tg4/2hlwZ3JmAst1uFihIswKmj5amBtTXpJE2yAnC94435x8wPIi4/zKRO3VeD7j9JzWc8U0/aAuY72abH2nKQrtqZfW4j8MtBS9vNOXymO9P9zuZ/+gG1cph/OI2lfCu6rOCnCHe9JQhfClF7l60/Yrf8sIO7aDRSHLVUBbD4hCb5PtLhJToi4gOXIvlj6ZArUCpH83Fhje02x2tfN17Mor+CkDACg02BixFwLrMTkfg1QMuHa1JjpbE6K5rWfEt7thWLK1xUVK49nacqIQByfmb1YMkXLV3azAkZ7hEu/HijskT97Z3/hJGpy8ihyLq4hrL+LK06qLZ7pz1ZE7YNXRzIWhbsxTGGolu1AGU2e7fT574fZbBlaAkOGv2DnNiWsGSxNLE5uUNH6IIiAJzWpPE5IE0BFWK0m97RFYPv7hBKYES5grDTRGXlQOWcsWdPMhzWsZsdCho60kDRg/nEVECiLaYHh3soJkU8tVzLejm0GSi3qZnsQdF6gLMUyyqMa8FrWM9hRGm0xaQbEc+slTBItLrr2TRuydNFZ2WguybF/rbLvKQCAQrqreKJbjWqap2sCmYfMrl6ams49sjPUOiEzsGpx6NYwaNNOhoqtuudYrCwxt4+h8boO2NgOGHIi5OjJJM/5J++4vmq1NU+fPg5YsrTrqk2EAmXeYHL91TmiubuN9OkWhIHs0W9rJwOoYFyR/N+uA6MKjpWgQDtHgUNAKJ2+uDXxkhY+s8BGFjdXcwcRSQTpnRcioyA91qaIed+He4WFkT3ZhwAfeZcIQEGmsSpJA11xcCOW99ozCvN1aMR4UZmli8TGnGhbc4vbC6WrdDRfi+8zIoK4SZhQcXRoJZBpQZ0D4bD0qttkoz9LAjw1GycNnc0/iJJBQTugwuZyPSj/ICB4SkgNvgkE56h5UFQjzyi2YnO4qdSKlWVrka/0mxQWQBLy80PQbZdR2y91EhooHOqMU1+mbsnWTVbKdJeS9rPFheTiy1O0JvBoVp6pQNMZG/oUUN3KWyCCZIQX79E4NUW5Uy+Yw8dUu3kZ53bmEk+V0zTZURQhT17wJhP7uKYYuhr4zVlxH3ughNGXa3aDphMKj1P90qenDxWi6+5XEQBJbYiICa22SEa8Sbj5hf3Lnf/WPsO8jDVPMYhPT8ZoHZqBVw+LsOxNu86+c9oaegooTyy5i2TNEIAqk3hDeLnwXfKDQPMyyFWrxJNbgiagwEpiNDvox7ooCllijakwLe7cM1AQa8Qr+DPjke4RdQZImSO0lOHWHsh7QDybYFXTWA+NAq9TtVulUBkORee02nKZ8luHPEU6BvnDv8YLo+IhNPY5UsZqo8pJY3jb65U4+KeBKcpeEq94ge+nW32/dwDasixvYu8Pd4d1L+tevn9d3uvo9+vT5X+FScy9hTvfMErNbgcbtozDNR6Jq+XeKChT0p6fik61dU3FU89K2dim8ilMvKgOyGPS84oa2tnllMi+rdsrqskCwGR/rvy4xtqQeS+PRJa4padQqDWbzCXO5QiQV9ATcKFMmNUqprIuEyqRRZ9RoVB3DCGQXY3WXB6Ab1aZQv9M5jRjPaYUHVoS2ST4ijmivdXyqNiQ0UJQ5lwVvUq3xyX6kh+Kscv1UpZw9IJvY9eNsX14wn2A8/1FWjeJeVy02R3Xb4sIMPVFsCFMobl+ns1DK3KMM7B1Ldz/mQjNjuLNws3/zGL3OsccOHNsSjI1pslM54I4C/s119FpaIjl++di/aL/Q8k5wDpFR+MmLM3yx/KA45xbMSsqnftCzm8steinyQ/LxXNEyszph5yVPhCqkKlfa+Js6Z5yTxuXUgjqihOuxcm1JVTW1eL+9/720OH245dHbOjtdxC2abhjmbqDJ1bgm8EDij4eBVJ2bkqTQfzj4oR97KW5LWAJYbWtSO4YIe5WY+A4EEVsrFBiZCYNDsOjHQbb1HTbEHT6jZKU1uQpctgjlGABvx81AzdYIy4z2PUilEbHs9eIaGGRk0WFJoVLhBuDbHTzmSj+nfmOZi92xzsNoTihQU2GmDQU0oVfQSXdtp05Tu7Tf77XtVsTLO+vRMkvuTPLk7ZCROpgItTguN9zxuLy7TlRFOpEmilOQwBL3DXUIrFHqC0pWzDUmtw38QG7ZnJIDNKZ+W929985/oLvNu1qH6CfE7qQdu/6ujyadWaTJRhBp3wcXuY69g29zDozp1gQJR0YEpRmhAvpzKEBymXCXA+NqUDuacLdprYpARYVKkUrXzPfQ9AJrk0SwVjar8Mg11F0kZJjDi3bc1plIvZUWUM+PLJkl7a7amIyHN6zaSgasPQ8Qzz1Y+QTOaC2PdjbeCCPWMpDYBCXMSpugVSZxH24T2ZD5wAyeEVdAI/9CPbMmO/uidqlgXfX0yV9WrHcPBv5JbNMSA5tzbEimauVkKoE78iCRWzehWSlj6hWPXVDbzYOVfxKzdeDyT7LZPI5RqeM4d+/ULT56ZWCoFemw9wSpgpoIbLfB8zpEgGRKBC7aYRmgZXffHOU+hCbvvchWj1OSzRQINnysN+05HO05fEi0kfYKMrZuuPxDh5e/FVtBPbycCAHlwjy/bZCKOogmpygC2ldsXJVbFxHHxYQhr8I6QkYRMEXWt6xZwvVUIg0JTBhjhE5JuesAZRStLeRRucjgKbdFWLG2UE3XAYVqdWDxhlMW5HSQ41Xk+BG3qWaEJjQ4M+cPohahhEXwe138ikr7TRMYhOSuFZtFsXZQfwUyDNabJJBLBfaSXdccYlIXjaO+gtb07NQSn1qyZNjD5psmvWJ+Np+uz9LmE+VaZCIImPohszjW/z1HKZp2NJkrKL4Pj/8AwwUDUPA//0QTqMAsveXeOwXHb9mlT/7xqw9336jzCbLq4FlVPb/SJ7KXwjNhFJ9Q8gQ+95LPFTxp5Jl/ytGHwIZL6J5A0i7dCTcRl/l+IDxHtgTxuQCQXZg/VcFjQWfS2AuTPXgWfmoeK1ReonjHvpHc+EiyK5bcbGmmmU0U/SGfs12QAObM5ysIAZPlb9ofIy/lXo9Xg/Tuw5upgN09SAcRoseFuf6z+A7DwAToKFvgCqSj+WeRTgRbTGxrCeOoJdyFcmORrJa+hpCh8vLGkbNd2geJeZNLZ4PE7e9oH1YuvUPjPWxbzgwczr0oIxfDtJbAO4TAhw62l2mgXOHnak2O7jDQnCpucNLMOhjgrw1chnPJRmayZCHMgSlw6wTqlVdVR3+flsU9ZeqBj3548A4+SaQJH5NztkN4n51g5D4DcDfQWLbPMaSPzcFL/c0p2vmZ6vkVfH0Pv1UPYMDwEWPRDVqehz9TYaIaFbXj4lFF+mVpc7KIINBBq7owQlO5RA92tQRhAGHVid6y7SBgVr6iRjUH0XuWywp+w+ZCTxOiOhm2eCxVOou/nixA1Q02r0fVfjUckjJM1y6qu1paeoVVqQ0cO6tlhWYVZ8vGaAdmiYKvB+5FYZvcizS7nn51PlDM3TAW/VZjx1b6uPJK+BxA/fsKvEm4vwCznVOU23U6eQjsMPZPEUzfAYcAnUbH7HlAN6LS3w2+cwMehBN3wD/g79vs+tvsSZ9ToNoBP9V4cEXksMcPmn5ennyg+B597OBKzMxv5I63NxvJU7CXn4lfwUx8hne8XfJIn+Nwk4AnevKs8ye45zO6RWJeBKptZGwQuqJVXbAVrTt/7z2jgcZRXtZUpaLqtfUg3WQ0ky81GAgzRONKZUhi5AQ+mX4ZyOEJo131FV5icuvhN5jSbr41L5xiVS+Hv73t1j+iWl/A3MEjlYQ9VNmD4us+2oDgtyYU31Ecp24tWmxAYETZoreZYP9hoFpP2dm+TKe8CZmoYHLdYmMGrmvXszr48smPAzDVUL2M4crXs8Do3fY0LkJt8oQ2VIs8DeMY4Rc5DfFpnUOw4m4Yyy1xLsoNLVOf+nHDJFkstjSKx0g034FS2YQTW22gVM3peYOlT0Lal0GlKQS9i5BiKPJWwJAa4kbwGy+BK6i+IPHBbSlbercRi/gLE7HKRzHNKTAfse4YYV/FIgsrfIwocWGYwBC/e1PXpCgbXn3vojlNB//TFMFe1QABsR9tWloHhn7cnzoEBdSHu360GekYBPtxf/AQJNAQ2pOZkssE/MpWQoVxsdD0B/RHaEjUG1xD4ATDnjmMRh+qTICL+BnTRfwwLvW09mhH45E2Yw2LNmOXYHEUYti2sWP7RBKkvaqRDNJyrhe/5y+Zpd/WsuW3Kw2l3tlSXb3u+rEsYRzvHyPDiFdQB05BJf4RyBbUOaqwYsV6qFH299wUnYtUlxXZRlVIt4vIJlyK3fxBRLaqOqxrZzkjiGxhWoUp8u8evvpPwfZIJ7zNZR+nvgawMgR9Y9uNNYcieT4BJq4hkPvCpTJkwfwm2tPBA38DyFUcNKGqj4hcJTm7pqihy5BOBrs5X6gVUYppbabDmJ4QN8hCLiWplz4nxbhnNlAqZRiOtO3IeGnbUAnLytr6HYRyum4lB7XIEbdMTStxzIj1qC63x6Xj17etRiVlrPmDNIN70EA2Lj9g/J4RAX9kBY3IrqULKjZ+XN6Yv0gTl9EAdaWrInqSrW01kO3gdc9guMco3JyeX6dAoC2USFEbt9lHx2P04sebEIhoKLLB31CqCi9aZiczQNri/JKczx+CLKZSjTZqPnJvQQwZgq+YlSc7TlHv7OIKaHhxFeAMRk5nqrbRc9YI9QqCQ2JoK4KvSDB2CsRFlxoGqiJfq3xtdVHHjZ7s2Ahi3oRwOm5tw0+ynt1KhM1pGovs975VUSJsu49KqaDkAFXcYqxyYY114NRZVgubZdOaMVeqnP16BlzAzkXAt0ERBmw3bSGnNdpHFS8016vtFz8+eWH4LnsyGzeQq4cqJ862jitPia84sy7xqindJh7nD7Yw7EwDd/3DDNOpFrB1xgbxwPLXNqUW8YGZtteras/O3MPZY8KuDI2MHYVAgT/vgrCKuxlA03fU5QKWfYscJgKwmjhxypSuYerCqbrBcuoSG5c9jVYuOk9cuKHr3bUfjONF2ADsGyQTL4cTHbac2dAoTYY2Dn4qq0DTmZRPtJloN4guYfC5i3QSdGdotSk+gDkiX6Qgu49ZCDlHM5xBhFqBEI5dcVWOWSWeJAkIMkZpdEnKNZWKLjVuM7VnqWhNHAK6B5tcshx/hmgEhxjnQAxa2AgCBQ9cun0ECTAQDDlyyoYxgAz/bOUUOGoFvi+GYVtl6Lk2BtqmYX3rL65FnusAfi0Ys/AV2QhRnGOlVF/zMAL8ngnfxffLU2FrXW5R1vSHNrGZMs5cxyCNQ3H7TxKk0fkeE7aOESMvi8RNe1k/syirkU5VXJz1p9YKHO4iHCsp9+oFRR95lcFqoo4F6zWK7zoQJhw2CLJgD9AVRlXPATJV6pSGsDxdqqsBjgHnMJb6YoWBLUlrb3AjbJOQ9SDKZgMdAUoBfkCA5S7pUqqVYCxLkOdDChz35xM4qiIlcKzJBU6+4Q0dMbQfP4akYVFLC0lTfrcuHg4nLixIqLA3rg017Bq3nFppLBeQvRGsx4FkIOzgEtxZuoG8Ax8In2zB/RnSppZvXVWzD5NdjBoEr7CuZzobINvMybj7Hso9Rnw5eM+HQrSV3fxBQgY8IWf8EojvGLxsTdW5Y0a8bHBoOYZR5mRL1OOPR+8ZdYfHEqX3zCaE0RkIyqIDFTeK2gC70KYWWwL4SRYWtHeFtaLfuJpS/LEZijMV88YyXfLH6BhY0NmsUHssoFG+OtbMG0OPm09taSUOoHLQSOZz/U5Gu5ijgL9GTl2ux/dsEA0DJCzbpFd0T5rnAPsNDv1vxP0wDNxbtR+G6vU2O38b7FDs+uB7ceW+Fyxsm9FGVz+oGkN1F3yguVOWc6XMlahaGTPaq1pmpwT73lHTpgqUphuqNpOKkDFno0juqY3bCZDjpOk8De7FOvq+ZAbC+RjlRKyK2Fyza6EV/sNKy/txQMPdQv0MjUVrH4OknE2Vx2Vd87g0HeOCXzZASAqqoIdc1kCA5NFvnIC7qBIeekzUCPSqEwJ+Q85rFnuDnbMxVzCuswXD5yvsMZOoXgPDPMB4AGkBuCJdYcjtuD3MCu74yoXWsmeymZeNcUrtQWIvIgsePGCJ84A65VCChsgOcGpcnp+qvct8eF7jAFA0EdDaxVM38SBZc5XBHiClnAUDtnRyBq3e/KFCDNMAXMljA00UcnBUNrWINF0fuRRbbWg50nD9UNkDDWo1Y6loAq1a2KzMkIoB6BXH+0l7e6oGrvOV9pPvAcvK+3IYayGuoeSFuKBnB5ulV0QyFEHoQjqBLgO1CcJdsIUYq0muZQSgABDz5Xd8XY9kPfb1T953L95tjnCBal7+G7rsHbpK9t0yvx7vWfknH7AebKdLpvSv7NQ9PiNEuqlLMhxLOdpqCY9ENbpEdnAsExWvSiClVDKufAcSQzM5NAOjJ0oCB4ndpluVycXp2Vw3x3BvcHmDdOSFyKcbR9eB760oqqsZqsU82VS4AGnn1N9IoA7lUD4w4QcwjL2H6qDs2a1wnXKRj0U6uRvMfufqvnhOfoRrzk56eupoj5Z1y9Z01kiFnwS3XdFL1yR6s2JvJ6lsGpWGIhqGjE7Vh9Op7ZGnOcas7K40gCZdGlyLTMcsO07CHVG+t5ucIo0k4iSx97KhkwlmEirhh0VHS2rOiQMm5QCCjihbJsggzH4qZyzitAieY23IXWsXtxl2Gd7jI6flgMYYMRkb/l0EfNjUj8nCJvY0YRMJATA4l2s8NNE8wyMN1W3Fxq+3TZ8RD2f22o+3U1e5qPII220QOFSTS+QfqPM7nx3gDLhX1R/I22wqb6i/YagABRASwMvjTS0ppYVieeDf8iP4fuKlC3TxaxlVlF1C2Xe8NbcjVtM7//U54a901v/lnb3wT+81KJ8aLFHNtt+uXOb2eh1rlmEMYVtdAd5S0cM+P1IOV4tuS1IfuKbhoeVtfOii3d0ogNLuFhGcVNM9LAaUBJRUnllUApMqVB476EVTK60GfKhCe8Em23S3lC4ZejR/cW5MJb+0UGSKo7OxbgG/jIgstdRt48Z1SMhAZXucAO13Y9vsQ+UT+mw2SmDzNYejpn3ISgJRJ+Vc+YAPv/xyaVuMD1qb8D+RTLfQn47WW8/uwU07Wn2Mw5z8mnensF6WD96pBm6k3dts5Gjd1Tlab+SaNpX3pbdJ7o/1tfh0kaFH7LyX4EtwE0fJTRQfCA/pMvZQtnLjb/g08w6HeJr9mcJOUpURQThbpPQk34DtcgIGQRhAE6SFZd8xHJW9kHzAb4Z5cejAMj+w3IP/C6BJQRAqgxkzsJVuNkVn6VwZHZXbWDisQ8IxWcjJxgU4JorXEo+AVKjhmBE5slYgpCAVs82iXyv0rAcqb2iEqI8zUYKcs/XF26ePjglTPMup5CnUeYPzUsE6XCyA5iRRwFfnffthWQkT6+YcR1s/SQRhX0LsEqs6UQpU86oOv35cWoUgYH95l9ER9PTEC3w4Pzct7htdKvXy0NFOGQaILMwJKJSfdGFGZCLZhSkHWcjCPO1Eu2A/w8JoijFiZo/s0pS9XrI0oZ/+rEtjXnxhsCMnXJj0/JMujD7i5p7swogqmAvnhaRbFRlgOKh52fBRVcSGnKvMrxIEWcFBOhjUoWVJJXXIo5Y3B4JwCXKbMKxt9YwEDbftx8Omq6pGP67t9UNt+uX+uQ+oIm6SQ1MGDLIB8WED/nA/l9qdKEA1vay1Od9ZxUmDTaKWDzmO6ny5oqroyoTchjTWySWwvCSl5SiRqmJJKrsXJSFY24tL3WH3iZZ432h46VlOReX7541UHGLyRohROyz+cmOk2hCS1/3khbuR0NgqBK7g3XrFeLjQLJ3emmXB0SkVXE+IoeOh7mzioaML73kWjbhlbxOLaunev8b5NZPwFR2pHoVPEV6fZY6juz69W3348PuHX8lRXo88CnQL2wyYUy4w+YElGZYcMEpxGbhYHohFRKOsytp5yRMh6XpUltZEx6VXLwlQD0Vzwmj7WL6Zhosa5tCxURrOZKr9c4wcIIHC70jaAWPDkzgchWEwlepMEx7QkLujrfKVpbuL9H9+e3Tn/qh0p12G7IR9Dyitdrv6wCu0y7pAbyKHaWgsKZyuNFwn3AHzmsj2Xus+AW3ymFSda1KiSIL+DcZLeahMZJqWTL8hbFWaSz9++POPj+8qTU/WzBRZpD+d6alxYKdLUaqHyPbUBrA9hbypirYFZuHafL7/8Pnq2bQiL4g8wRGYI9h5Gsu5EROYc0kbk02frw9IFnqV0ao3TRiNdNN5YzFG03nZPmT2XBwgi4slLnXXbNCkpVu0JkxHjTd3W99huMMi54oZYIDgkVYpYR8SP0yCEOYrw+RE7SH2t2mwDxBgFVqo7TF63snKyAkwdruzS6186Q+/C3dRNc6gW+r9zNBBC0CEv1+rNgAvHZu8/+P2/tOfv38sOXNXHV5DhbbB1kYsbde5scth8Um1OA6GXMDN+Ov+t99v391f3YwW+UdcQoWJ0+Uu5WVownLVsw/MnnO+jZfBkGyA+ooOYcAcvHwOUt9gDt3TNo/kwGvqmzpScR7L1Fib1DEajNKBgz22rAmqYn0kH+zReqcuEeQcvhGZPtLWOuxApDGvcvMgcKXxaXFja33D0mi0b/ldBO6ORQPMuevaNyZr/7gDhs+Gsnh0sTA5emGYGcIJkM9eHEQb6tjJe92QWvitF+6CnZf6ojpzDNeKb2ahWv/Kn/EuOAXpDCBaZcQMESTqopVj2yWrR0rEiJdVIGLE4eSWnQmUG93FDycbHcNUn6uudsM5DCZvg8ki1Fk8gqbF43n14L3WKZz8zpCpDrszVEsCFGf/9v73Eov1wnrzts5OL9l84IymG4a5G8YAs1xu+twRy4waUXiJ3CtLuyMUYxzuLZP65J0LHBmSaRV8RehjFqpRdRGIGAcyk0HMu7j+lBxhi0xJspRDekquKcgzG/ZzgPWwBoQwI40gst6LawdBjxFQNmEbO9Lb4YFqLomh01zcUMJZUaWyWa86A1fjZg3gFAxbqAna9To5xYyZwkZpsvKy8otIQI2X+JIlumTZHt+4RgCPn4+232sV8MbWo4V6lzH5aENDGvMBSSLZL5SbJl4LYVlHC2PoagFdAsi+1rCRcLImwrE3tZJ9Yykd7Zuyd8LvlVfYN21tF1736lOYLkZ1gv/YAbLP//n85/37a3ysRXxMLcn2C2/DG6KUKG5dgH47w4+n1wOYsKcb2B88uUljL0zOQG4iY+Jm68Ubg109xC9+fP/Vz3ZiBFYx2XQRrjReRbQx9ClKsuicfvcYpSkwaqpgMkrUwCxp9qZ/5/OtL9iNIW3RYR+1zUa5y4Keq6ogEQNfQ1MARlEYnAJMYVSjwItB+HV+b2X79/PpjK/34m03lVsft+yuAHGP0fHbs7Dsb5nmjUv94cDgh8vhEq+8EMGNWnk/PHiHmSx9l5jQxcmlCARxoMtDxYH4cEk3guobpDHrsnenjNDiyPWlifXihNeTrNxZySlhD/QHCBMWRgnQ/+JtupGzScqLWEuRw2SJKIbTT2xgvA6HvWPI7rDAZD4DOg9ThOPglwvJF02hKox0TYf9qLhUgjBxi+JKAvMheN/w1ZT1lKpRcz6fgskIUN/+iOIUuZU5SA0ll1NsGjMMUwm7gst0xVmIuw2068DY/GTgRf2NQqPfNvvoCNYI0fYwbwlgOoN3PEeJr/d5zjECIhKIwzxo/CUI/RP4st3knkHnB5+8M5MsuEEHej7uK5rOno9qkSHS/R1UXDRIEgjnTR0CsqLX3DZEYgu66/EOIYjPMLTbAXK9+5MlQOe7P7wEhM/bKg2g7Kx5Wm9Zlo3XwesXG3fJ2zpHEBRD0dieJIINjxGh3FW+flE2QFzeSudCzYZkzLqtA8bHEfCAL++AGSJ1W8DNSDQ9ILAsopzzRoED2zWutl/8GOjrkG1vLNehcowR9mzQOcaQBM02uzbXlG5n0XqQBUQKtjT43qh0S05gTIv6crIdMTpMa2V2Oj8d0zuhdKS6aM4ZR1lMHhx028WtWzulJrfn1aETYEmw/P748dP75w/nL6+AFn/1l9v0v/2lVilXKsmvQ7GBaJfr3cfb1bvf/3fVup6gthXLD7HXJaCPEhXVbHU4OEeAALi6ApSdscoJhGRkCrl0hjWBQhuqMWgo/M26eJn65jyrJpc3WAKFHy4sKPxdwg6BnK/qbbf+0Y/zr4KEE/xDs1QTICj0Fcw2QR9W8OZ/B+nTbfQV+E9euCUaxr67hLhvKbVZcqnmhzrTXDV4wDptGJub6/2sGewThoxIpi9BkmpoNRflqOBHMJ8vcQDNC+VrxotgGDDYo7x8z7++PPlQx6RP6CLs48HDPgrxnX1Y9qgEwGRXvvtxhN4BD2QdyXxyb4JqJeF67VAg4WYhHxbtmMHHcQQcwQaolaxZLfMNj6QpN69RyowX+dx5vrMXRj6treM/7hdCqLh+ekzju2ToF87HE86/yPG6nKprk7dGL3fXUvhu6lKY44bzIehAx5R6tWhAkJObY3OpH0PVEml5a5QijMAmrIlgmzgMu/Z36HWNVSVmw9K52aiIzTSrCxRkjVL6cpje9D7aQcVx//8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-02T08:00:15.410Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-byV0yEREZRYjifv4fzb" version="20.8.15" type="github">
+  <diagram id="TxrP-T3yH6VNKGpFVDSx" name="Page-1">
+    <mxGraphModel dx="4136" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IbOPMuNpkxzarGe-ctKe-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-2320" y="76" width="630" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-42" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="-76.5" width="580" height="746.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-2320" y="-820" width="810" height="757.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="570" width="810" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-206" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-530" y="-237.5" width="950" height="757.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;comic=0;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-1407" y="-820" width="830" height="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-122" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="-660" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="-798.75" width="575" height="527.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-210" value="trajectory_follower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="-210" width="570" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-6" value="top/velodyne_packets" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-7" target="T4uXMFoD5u3B1nQVuzlc-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="lidar_driver" tooltip="velodyneのdriverです。VLP16, VLP32, VLS128, Livoxなどなど、たくさん種類があります。" id="T4uXMFoD5u3B1nQVuzlc-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1890" y="-730" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-8" value="top/rectified/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-9" target="T4uXMFoD5u3B1nQVuzlc-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="fix_distortion" tooltip="自車の回転によって生じたLiDAR点群の歪みを補正する。（リンクこれで合ってるっけ？）" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/distortion-corrector.md" id="T4uXMFoD5u3B1nQVuzlc-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1890" y="-410" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-10" value="top/pointcloud_raw" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-11" target="T4uXMFoD5u3B1nQVuzlc-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1830" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="packets_to_&lt;br&gt;pointcloud" tooltip="velodyneのpacketをpointcloud型に変更する" id="T4uXMFoD5u3B1nQVuzlc-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1890" y="-620" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-12" value="top/self_cropped/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-13" target="T4uXMFoD5u3B1nQVuzlc-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="crop_box_&lt;br&gt;filter_self" tooltip="自車の領域内にある点群を除去する。" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md" id="T4uXMFoD5u3B1nQVuzlc-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1890" y="-550" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-14" value="top/mirror_cropped/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-15" target="T4uXMFoD5u3B1nQVuzlc-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="crop_box_&lt;br&gt;filter_mirror" tooltip="自車のサイドミラーの部分に当たった点群を除去する" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md" id="T4uXMFoD5u3B1nQVuzlc-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1890" y="-480" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ring_outlier_filter" tooltip="点群のノイズ処理を行う&#xa;（同一リングから得られたLiDARの点をクラスタリングし、点群数の少ないクラスタに属する点群はノイズとして除去される）" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/ring-outlier-filter.md" id="T4uXMFoD5u3B1nQVuzlc-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1890" y="-340" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-17" value="lidar/*/velodyne_packets" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-18" target="T4uXMFoD5u3B1nQVuzlc-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-18" value="lidar_drivers&lt;br&gt;(left,right,front_right, front_left,rear)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="-2060" y="-730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;*/rectified/pointcloud&lt;/span&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-20" target="T4uXMFoD5u3B1nQVuzlc-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="fix_distortion" tooltip="自車の回転によって生じたLiDAR点群の歪みを補正する。（リンクこれで合ってるっけ？）" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/distortion-corrector.md" id="T4uXMFoD5u3B1nQVuzlc-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2060" y="-410" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;*/pointcloud_raw&lt;/span&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-22" target="T4uXMFoD5u3B1nQVuzlc-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2000" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="packets_to_&lt;br&gt;pointcloud" tooltip="velodyneのpacketをpointcloud型に変更する" id="T4uXMFoD5u3B1nQVuzlc-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2060" y="-620" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;*/self_cropped/pointcloud&lt;/span&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-24" target="T4uXMFoD5u3B1nQVuzlc-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="crop_box_&lt;br&gt;filter_self" tooltip="自車の領域内にある点群を除去する。" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md" id="T4uXMFoD5u3B1nQVuzlc-24">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2060" y="-550" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-25" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;*/mirror_cropped/pointcloud&lt;/span&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-26" target="T4uXMFoD5u3B1nQVuzlc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="crop_box_&lt;br&gt;filter_mirror" tooltip="自車のサイドミラーの部分に当たった点群を除去する" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md" id="T4uXMFoD5u3B1nQVuzlc-26">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2060" y="-480" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ring_outlier_filter" tooltip="点群のノイズ処理を行う&#xa;（同一リングから得られたLiDARの点をクラスタリングし、点群数の少ないクラスタに属する点群はノイズとして除去される）" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/ring-outlier-filter.md" id="T4uXMFoD5u3B1nQVuzlc-27">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2060" y="-340" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-29" target="T4uXMFoD5u3B1nQVuzlc-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-790" y="-870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1930" y="-170" />
+              <mxPoint x="-1460" y="-170" />
+              <mxPoint x="-1460" y="-760" />
+              <mxPoint x="-910" y="-760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-16" value="/concatenated/pointcloud" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" parent="dgDgLwtVGSBD31zoPSUn-15" vertex="1" connectable="0">
+          <mxGeometry x="0.246" y="1" relative="1" as="geometry">
+            <mxPoint x="240" y="-78" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="concat_filter" tooltip="複数のLiDAR点群をまとめて1つにする" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/concatenate-data.md" id="T4uXMFoD5u3B1nQVuzlc-29">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1990" y="-270" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-30" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-27" target="T4uXMFoD5u3B1nQVuzlc-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2000" y="-310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-31" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1930" y="-270" as="targetPoint" />
+            <mxPoint x="-1850" y="-310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Oem7_gnss_driver" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="T4uXMFoD5u3B1nQVuzlc-34">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2270" y="-433" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1620" y="-690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-56" value="/tf&lt;br&gt;(map to base_link)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-34" edge="1">
+          <mxGeometry x="-0.4667" y="4" relative="1" as="geometry">
+            <mxPoint x="-2240" y="10" as="targetPoint" />
+            <mxPoint x="-2220" y="-350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2240" y="10" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-57" value="/localization/kinematic_state&lt;br&gt;[nav_msgs/msg/Odometry]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;comic=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-58" edge="1">
+          <mxGeometry x="-0.75" y="15" relative="1" as="geometry">
+            <mxPoint x="-2185" y="476" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2185" y="236" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbOPMuNpkxzarGe-ctKe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-58" target="T4uXMFoD5u3B1nQVuzlc-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2185" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="stop_filter" tooltip="Overwrite vx=0 and wz=0 when the vehicle wheel speed is zero to indicate the stop condition." link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/stop_filter#stop_filter" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-58">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2245" y="196" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="localization_error_monitor" tooltip="" link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/localization_error_monitor#localization_error_monitor" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-59">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1960" y="349.5" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-61" value="/diagnostics" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;comic=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1640" y="476" as="targetPoint" />
+            <mxPoint x="-2188" y="596" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-1880" y="476" />
+              <mxPoint x="-1640" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-62" value="/sensing/gnss/novatel/oem7/odom&lt;br&gt;[nav_msgs/msg/Odometry]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-34" target="T4uXMFoD5u3B1nQVuzlc-58" edge="1">
+          <mxGeometry x="0.0354" y="70" relative="1" as="geometry">
+            <mxPoint x="-2090" y="70" as="targetPoint" />
+            <mxPoint x="-1885" y="619" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2185" y="-393" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-63" value="&lt;div&gt;/perception/object_recognition/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1267" y="-65" width="550" height="932.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-64" value="&lt;div&gt;/perception/object_recognition/detection/euclidean/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1066" y="-26.5" width="320" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-65" value="&lt;div&gt;&lt;span&gt;/perception/&lt;/span&gt;&lt;span&gt;object_recognition/&lt;/span&gt;&lt;span&gt;detection/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;euclidean/clustering/&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1031" y="13.5" width="250" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-66" value="euclidean/clustering/downsampled/pointcloud" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-67" target="T4uXMFoD5u3B1nQVuzlc-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="voxel_grid_filter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/sensing/pointcloud_preprocessor#pointcloud_preprocessor" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-67">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="-971" y="73.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-68" value="euclidean/clustering/outlier_filter/pointcloud" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-69" target="T4uXMFoD5u3B1nQVuzlc-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="outlier_filter" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/outlier-filter.md#outlier_filter" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-69">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="-971" y="173.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-70" value="/lidar/cluster" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-71" target="T4uXMFoD5u3B1nQVuzlc-91" edge="1">
+          <mxGeometry x="-0.4286" relative="1" as="geometry">
+            <mxPoint x="-1061" y="526" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-911" y="336" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="euclidean_cluster" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/euclidean_cluster#euclidean_cluster" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-71">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="-971" y="263.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-73" value="/rois*" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-83" target="T4uXMFoD5u3B1nQVuzlc-85" edge="1">
+          <mxGeometry x="-0.697" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1146" y="423.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-74" value="detection_by_tracker/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-75" target="T4uXMFoD5u3B1nQVuzlc-86" edge="1">
+          <mxGeometry x="-0.4172" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1144" y="616" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="detection_by_&lt;br&gt;tracker_node" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/detection_by_tracker" id="T4uXMFoD5u3B1nQVuzlc-75">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="-1204" y="680" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-82" target="T4uXMFoD5u3B1nQVuzlc-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1002" y="766" />
+              <mxPoint x="-1144" y="766" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-77" value="centerpoint/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;comic=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-78" target="T4uXMFoD5u3B1nQVuzlc-86" edge="1">
+          <mxGeometry x="-0.759" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1151" y="565.5" />
+              <mxPoint x="-1002" y="565.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="lidar_centerpoint" tooltip="DNNをベースでLiDAR点群に物体のクラス情報を付与する" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/lidar_centerpoint" id="T4uXMFoD5u3B1nQVuzlc-78">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1221" y="476" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="map_based_&lt;br&gt;prediction" tooltip="高精度地図情報を用いて、trackingされた動物体情報の移動経路予測を行う" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/map_based_prediction" id="T4uXMFoD5u3B1nQVuzlc-79">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1062" y="796" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-80" value="detection/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-86" target="T4uXMFoD5u3B1nQVuzlc-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1004" y="641" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-81" value="tracking/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-82" target="T4uXMFoD5u3B1nQVuzlc-79" edge="1">
+          <mxGeometry x="-0.5789" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="multi_object_&lt;br&gt;tracker" tooltip="クラス＋位置＋形状情報に対してtrackingを行う。（最近上流が速度情報も出せるようになってきたらしい）" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/multi_object_tracker" id="T4uXMFoD5u3B1nQVuzlc-82">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1062" y="680" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="tensorrt_yolo" tooltip="DNNをベースでLiDAR点群に物体のクラス情報を付与する" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/tensorrt_yolo" id="T4uXMFoD5u3B1nQVuzlc-83">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1191" y="283.5" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;comic=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-85" target="T4uXMFoD5u3B1nQVuzlc-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="roi_cluster_fusion" tooltip="DNNをベースでLiDAR点群に物体のクラス情報を付与する" link="https://github.com/autowarefoundation/autoware.universe/blob/main/perception/image_projection_based_fusion/docs/roi-cluster-fusion.md" id="T4uXMFoD5u3B1nQVuzlc-85">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-981" y="403.5" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="object_association&lt;br&gt;_merger" tooltip="DNNをベースでLiDAR点群に物体のクラス情報を付与する" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/object_merger" id="T4uXMFoD5u3B1nQVuzlc-86">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1057" y="596" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;comic=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-89" target="T4uXMFoD5u3B1nQVuzlc-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1031" y="616" as="targetPoint" />
+            <mxPoint x="-913" y="486" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-913" y="493.5" />
+              <mxPoint x="-913" y="565.5" />
+              <mxPoint x="-1002" y="565.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-88" value="camera_lidar_fusion/objects" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];comic=0;labelBackgroundColor=none;" parent="T4uXMFoD5u3B1nQVuzlc-87" vertex="1" connectable="0">
+          <mxGeometry x="-0.5273" y="2" relative="1" as="geometry">
+            <mxPoint y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="object_range_splitter" tooltip="DNNをベースでLiDAR点群に物体のクラス情報を付与する" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/object_range_splitter" id="T4uXMFoD5u3B1nQVuzlc-89">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-981" y="473.5" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;comic=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-91" target="T4uXMFoD5u3B1nQVuzlc-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="shape_estimation" tooltip="DNNをベースでLiDAR点群に物体のクラス情報を付与する" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/shape_estimation#shape_estimation" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-91">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-981" y="343.5" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-92" value="&lt;div&gt;/perception/occupancy_grid_map/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1241" y="-573" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-93" value="&lt;div&gt;/perception/obstacle_segmentation/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1017" y="-733" width="230" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-98" target="T4uXMFoD5u3B1nQVuzlc-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-98" target="T4uXMFoD5u3B1nQVuzlc-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-96" value="no_ground/oneshot/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-98" target="T4uXMFoD5u3B1nQVuzlc-105" edge="1">
+          <mxGeometry x="-0.7906" relative="1" as="geometry">
+            <mxPoint x="-911.0689655172414" y="-523" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-947" y="-443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-97" value="range_cropped/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;" parent="1" target="T4uXMFoD5u3B1nQVuzlc-98" edge="1">
+          <mxGeometry x="-0.2727" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-911" y="-643" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="-911" y="-653" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="common_&lt;br&gt;ground_filter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/ground_segmentation#ground_segmentation" tooltip="アルゴリズムを使って点群から地面を除去します。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-98">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-971" y="-598" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-100" target="T4uXMFoD5u3B1nQVuzlc-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="pointcloud_to_&lt;br&gt;laserscan" link="https://github.com/tier4/pointcloud_to_laserscan" tooltip="点群データを使ってoccupancy gridを生成します" id="T4uXMFoD5u3B1nQVuzlc-100">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1201" y="-523.03" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;comic=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-104" target="T4uXMFoD5u3B1nQVuzlc-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1141" y="-373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-102" value="occupancy_grid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="T4uXMFoD5u3B1nQVuzlc-101" vertex="1" connectable="0">
+          <mxGeometry x="0.1676" y="-1" relative="1" as="geometry">
+            <mxPoint x="-73" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-103" value="/perception/occupancy_grid_map/map" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-104" edge="1">
+          <mxGeometry x="0.5797" relative="1" as="geometry">
+            <mxPoint x="-1140.75" y="-233" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="laserscan_to_&lt;br&gt;occupancy_grid_map" link="https://github.com/tier4/autoware.iv/tree/develop/sensing/preprocessor/pointcloud/laserscan_to_occupancy_grid_map" tooltip="全点群データ、地面除去済み点群、occupancy gridの情報を総合的に見て、障害物が存在するかどうかの確率をoccupancy gridマップの形式で計算します。" id="T4uXMFoD5u3B1nQVuzlc-104">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-1201" y="-463.03" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#FF0000;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-105" target="T4uXMFoD5u3B1nQVuzlc-111" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-911" y="-260" />
+              <mxPoint x="-70" y="-260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="occupancy_grid_&lt;br&gt;map_based_outlier_filter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/perception/occupancy_grid_map_outlier_filter#occupancy_grid_map_outlier_filter" tooltip="occupancy gridで与えられる障害物存在確率マップの情報をもとに、障害物点群をフィルタリングします。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-105">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-981" y="-393" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-106" value="/perception/obstacle_segmentation/pointcloud" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-105" target="T4uXMFoD5u3B1nQVuzlc-67" edge="1">
+          <mxGeometry x="-0.3763" y="-9" relative="1" as="geometry">
+            <mxPoint x="-909" y="-233" as="targetPoint" />
+            <mxPoint x="-919" y="-497" as="sourcePoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="crop_box_filter" link="https://github.com/autowarefoundation/autoware.universe/blob/main/sensing/pointcloud_preprocessor/docs/crop-box-filter.md#crop_box_filter" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-107">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="-971" y="-693" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-109" value="&amp;lt;Parking&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="-640" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-110" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="-900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="costmap_generator" tooltip="障害物点群や地図の走行可能エリアの情報から、駐車プランナー用のコストマップを生成する。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/costmap_generator#costmap_generator" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-111">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-160" y="-490" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-119" value="/planning/mission_planning/route&lt;br&gt;[autoware_auto_planning_msgs/HADMapRoute]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;jumpStyle=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-120" target="T4uXMFoD5u3B1nQVuzlc-121" edge="1">
+          <mxGeometry x="-0.3791" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-179" y="-590" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="mission_planner" tooltip="高精度地図情報をもとに、自己位置からゴールまでのルートを計算します。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/mission_planner#mission-planner" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-120">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-240" y="-780" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="freespace_planner" tooltip="コストマップとゴールから、自車の走行ルートを計算する。いまはHA*を使ってる。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/freespace_planner#the-freespace_planner" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-121">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-240" y="-580" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-123" value="costmap_generator/occupancy_grid" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;orthogonal=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-111" target="T4uXMFoD5u3B1nQVuzlc-121" edge="1">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="-130" y="-485" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-124" value="/planning/mission_planning/goal" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;comic=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-110" target="T4uXMFoD5u3B1nQVuzlc-120" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="-820" as="sourcePoint" />
+            <mxPoint x="-136.5" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="motion_velocity_&lt;br&gt;smoother" tooltip="経路に埋め込まれた最大速度を超過しないように、うまい具合で速度を平滑化する。カーブでの減速もここで行う。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/motion_velocity_smoother#motion-velocity-smoother" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-125">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-240" y="-330" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-126" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;parking/trajectory [Trajectory]&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-121" target="T4uXMFoD5u3B1nQVuzlc-125" edge="1">
+          <mxGeometry x="0.6763" relative="1" as="geometry">
+            <mxPoint x="-410" y="-380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="-390" />
+              <mxPoint x="-180" y="-390" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="20" y="-570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-128" value="/diagnostics" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;comic=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-184" target="T4uXMFoD5u3B1nQVuzlc-192" edge="1">
+          <mxGeometry x="-0.2889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-129" value="&lt;div style=&quot;text-align: left&quot;&gt;/autoware/engage&amp;nbsp;[Engage]&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;/current_gate_mode [GateMode]&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;sketch=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="dgDgLwtVGSBD31zoPSUn-39" edge="1">
+          <mxGeometry x="0.2201" y="15" relative="1" as="geometry">
+            <mxPoint x="690" y="475" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="470" y="475" />
+              <mxPoint x="470" y="-160" />
+              <mxPoint x="780" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="T4uXMFoD5u3B1nQVuzlc-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="-160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="750" y="-270" />
+              <mxPoint x="330" y="-270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-133" value="&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/control: [tier4_external_api_msgs/msg/ControlCommandStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/heartbeat: [tier4_external_api_msgs/msg/Heartbeat]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/shift: [tier4_external_api_msgs/msg/GearShiftStamped]&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;/api/external/set/command/remote/turn_signal: [tier4_external_api_msgs/msg/TurnSignalStamped]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=default;rotation=0;" parent="T4uXMFoD5u3B1nQVuzlc-132" vertex="1" connectable="0">
+          <mxGeometry x="-0.2571" y="-1" relative="1" as="geometry">
+            <mxPoint x="-219" y="119" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-154" target="T4uXMFoD5u3B1nQVuzlc-164" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-136" value="accel_map_calibrator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="-443" y="610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=0.361;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="T4uXMFoD5u3B1nQVuzlc-136" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-204" y="580" />
+              <mxPoint x="-373" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-175" target="T4uXMFoD5u3B1nQVuzlc-136" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-205" y="710" />
+              <mxPoint x="-285" y="710" />
+              <mxPoint x="-285" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.912;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-171" target="T4uXMFoD5u3B1nQVuzlc-160" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-140" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;/api/external/set/command/remote/control&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp;[tier4_external_api_msgs/msg/ControlCommandStamped]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;/api/external/set/command/remote/shift&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp;[tier4_external_api_msgs/msg/GearShiftStamped]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;/api/external/set/command/remote/turn_signal&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp;[tier4_external_api_msgs/msg/TurnSignalStamped]&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=#FFFFFF;" parent="T4uXMFoD5u3B1nQVuzlc-139" vertex="1" connectable="0">
+          <mxGeometry x="0.0689" y="3" relative="1" as="geometry">
+            <mxPoint x="-19" y="149" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;entryX=0.946;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-165" target="T4uXMFoD5u3B1nQVuzlc-160" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="400" />
+              <mxPoint x="193" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-142" value="&lt;div style=&quot;text-align: left&quot;&gt;/api/external/get/command/selected/control&lt;/div&gt;&amp;nbsp; &amp;nbsp; [tier4_external_api_msgs/msg/ControlCommandStamped]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;" parent="T4uXMFoD5u3B1nQVuzlc-141" vertex="1" connectable="0">
+          <mxGeometry x="0.0165" y="6" relative="1" as="geometry">
+            <mxPoint x="118" y="-68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-50" value="/vehicle/engage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-145" target="dgDgLwtVGSBD31zoPSUn-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-145" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-209" y="1300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-151" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/control/current_gate_mode&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/vehicle/status/control_mode&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/autoware/state&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;jumpStyle=arc;" parent="1" edge="1">
+          <mxGeometry x="-0.6522" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="322" as="sourcePoint" />
+            <mxPoint x="820" y="242" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="242" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-152" value="/diagnostics_err" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-192" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="322" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="latlon_muxer" link="https://github.com/autowarefoundation/autoware.universe/blob/main/control/trajectory_follower_nodes/design/trajectory_follower-design.md#trajectory-follower-nodes" tooltip="縦横を分けて計算された制御コマンドを統合して出力します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-154">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-225" y="130" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-155" value="&lt;div&gt;&amp;nbsp;/control/trajectory_follower/lateral/control_cmd&lt;/div&gt;&lt;div&gt;&amp;nbsp;[AckermannLateralControlCommand]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-158" target="T4uXMFoD5u3B1nQVuzlc-154" edge="1">
+          <mxGeometry x="-0.5402" y="19" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="80" />
+              <mxPoint x="-165" y="80" />
+              <mxPoint x="-165" y="113" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-156" value="/control/trajectory_follower/longitudinal/control_cmd&lt;br&gt;[LongitudinalControlCommand]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-159" target="T4uXMFoD5u3B1nQVuzlc-154" edge="1">
+          <mxGeometry x="-0.5342" y="-22" relative="1" as="geometry">
+            <mxPoint x="30" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="80" />
+              <mxPoint x="-165" y="80" />
+              <mxPoint x="-165" y="113" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="-41" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-157" value="&lt;div&gt;/control/trajectory_follower/control_cmd&lt;/div&gt;&lt;div&gt;&amp;nbsp;[AckermannControlCommand]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.231;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=none;fontColor=default;labelBackgroundColor=none;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-154" target="T4uXMFoD5u3B1nQVuzlc-160" edge="1">
+          <mxGeometry x="-0.8248" relative="1" as="geometry">
+            <mxPoint x="-119" y="310" as="sourcePoint" />
+            <mxPoint x="-119" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-165" y="270" />
+              <mxPoint x="-293" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="lateral_controller" link="https://github.com/autowarefoundation/autoware.universe/blob/main/control/trajectory_follower_nodes/design/trajectory_follower-design.md#trajectory-follower-nodes" tooltip="経路追従のための目標ステア角とステア角速度を計算します。目標速度と加速度は経路に埋め込まれた値をそのまま出力します。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-158">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-360" y="-73.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="longitudinal_controller" link="https://github.com/autowarefoundation/autoware.universe/blob/main/control/trajectory_follower_nodes/design/trajectory_follower-design.md#trajectory-follower-nodes" tooltip="経路の目標速度に沿うための目標加速度を計算します。遅延補正や停止時のブレーキ抜き操作も行います。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-159">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-100" y="-73.5" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="vehicle_cmd_gate" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/vehicle_cmd_gate#vehicle_cmd_gate" tooltip="指示モードに応じて、複数のコマンドの中から後段に渡すコマンドを選択します。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-160">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-450" y="445" width="680" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.256;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="T4uXMFoD5u3B1nQVuzlc-175" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-203.92000000000007" y="505.6599999999994" as="sourcePoint" />
+            <mxPoint x="-38" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-205" y="506" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-162" value="control/command/control_cmd&lt;br&gt;&amp;nbsp;[AckermannControlCommand]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];comic=0;" parent="T4uXMFoD5u3B1nQVuzlc-161" vertex="1" connectable="0">
+          <mxGeometry x="0.7105" relative="1" as="geometry">
+            <mxPoint x="5" y="-45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-163" value="/control/shift_decider/gear_cmd&lt;br&gt;[GearCommand]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-164" target="T4uXMFoD5u3B1nQVuzlc-160" edge="1">
+          <mxGeometry x="-0.1656" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-165" y="400" />
+              <mxPoint x="-165" y="400" />
+            </Array>
+            <mxPoint x="-110" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="shift_decider" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/shift_decider#shift-decider" tooltip="制御出力に応じてギア変更のコマンドを出力します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-164">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-225" y="328" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="external_cmd_&lt;br&gt;converter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/vehicle/external_cmd_converter#external_cmd_converter" tooltip="遠隔から来たコマンド（アクセル/ブレーキ）を目標速度/加速度の信号に変換します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-165">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="270" y="210" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-170" value="/external/selected/external_control_cmd&lt;br&gt;&amp;nbsp;[tier4_external_api_msgs/msg/ControlCommandStamped]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-171" target="T4uXMFoD5u3B1nQVuzlc-165" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="811" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="190" />
+              <mxPoint x="330" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="external_cmd_&lt;br&gt;selector" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/external_cmd_selector#external_cmd_selector" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-171">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="270" y="-73.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-172" value="/current_gate_mode&amp;nbsp;[GateMode]&lt;div&gt;/gear_cmd [GearCommand]&lt;/div&gt;&lt;div&gt;/turn_indicators_cmd&amp;nbsp; [TurnIndicatorCommand]&lt;/div&gt;&lt;div&gt;&lt;div&gt;/hazard_lights_cmd&amp;nbsp; [HazardLightsCommand]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;/vehicle_emergency_cmd [VehicleEmergencyStamped]&lt;/div&gt;" style="rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.716;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;align=left;labelBackgroundColor=default;" parent="1" edge="1">
+          <mxGeometry x="0.4258" y="-46" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+            <mxPoint x="25.920000000000073" y="849.02" as="targetPoint" />
+            <mxPoint x="27.83316400192416" y="505" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&amp;nbsp; &amp;nbsp; vehicle_interface" tooltip="Autowareと車両のinterfaceです。データの変換が主なタスクです。" id="T4uXMFoD5u3B1nQVuzlc-173">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;comic=0;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-440" y="850" width="680" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="raw_vehicle_cmd_&lt;br&gt;converter" link="https://github.com/autowarefoundation/autoware.universe/tree/main/vehicle/raw_vehicle_cmd_converter#raw_vehicle_cmd_converter" tooltip="速度・加速度の目標値を、車両特有の制御信号（アクセル/ブレーキ等）に変換します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-175">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#b0e3e6;strokeColor=#0e8088;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-265" y="610" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-176" value="/control/command/actuation_cmd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-175" edge="1">
+          <mxGeometry x="-0.6153" y="20" relative="1" as="geometry">
+            <mxPoint x="-205" y="850" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-205" y="750" />
+              <mxPoint x="-205" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="pacmod_interface" link="https://github.com/tier4/pacmod_interface/tree/main/pacmod_interface#pacmod_interface" tooltip="pacmodとのinterfaced。LexusとかJapanTaxiとか。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-177">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#b0e3e6;strokeColor=#0e8088;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-210" y="865" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-178" value="/vehicle/status/velocity_status&lt;br&gt;/vehicle/status/steering_status&lt;br&gt;/vehicle/status/turn_indicators_status&lt;br&gt;/vehicle/status/gear_status&lt;br&gt;/vehicle/status/control_mode&lt;br&gt;/vehicle/status/&lt;span style=&quot;text-align: center&quot;&gt;actuation_status&lt;/span&gt;" style="endArrow=classic;html=1;exitX=0.121;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;comic=0;align=left;" parent="1" edge="1">
+          <mxGeometry x="-0.0831" y="65" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-374.9800000000014" y="850.77" as="sourcePoint" />
+            <mxPoint x="-376" y="710" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-179" value="/pacmod/**" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-177" target="T4uXMFoD5u3B1nQVuzlc-182" edge="1">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
+            <mxPoint x="-276" y="930" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="-276" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="pacmod3" link="http://wiki.ros.org/pacmod3" id="T4uXMFoD5u3B1nQVuzlc-182">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-210" y="1000" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="system_monitors" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/system_monitor#system-monitor-for-autoware" tooltip="各々データを監視し、異常があればdiagで通知します" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-184">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="1000" y="20" width="180" height="350" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="autoware_process_&lt;br&gt;monitor" id="T4uXMFoD5u3B1nQVuzlc-185">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="1030" y="50" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-186" value="autoware_gpu_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-187" value="autoware_mem_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-188" value="autoware_hdd_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="204.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-189" value="autoware_net_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="255" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-190" value="autoware_ntp_&lt;br&gt;monitor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-191" value="/system/emergency/hazard_status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-192" target="T4uXMFoD5u3B1nQVuzlc-194" edge="1">
+          <mxGeometry x="-0.0769" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="760" y="112" />
+              <mxPoint x="760" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="system_error_&lt;br&gt;monitor" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/system_error_monitor#system_error_monitor" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-192">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="700" y="173" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-193" value="&lt;div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=left;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-194" edge="1">
+          <mxGeometry x="-0.384" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="230" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="34" />
+              <mxPoint x="530" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="emergency_handler" link="https://github.com/autowarefoundation/autoware.universe/tree/main/system/emergency_handler#emergency_handler" tooltip="なにかしてます" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-194">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="700" y="13.5" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-199" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;PLANNING&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-780" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-125" target="T4uXMFoD5u3B1nQVuzlc-158" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="-160" />
+              <mxPoint x="-300" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-125" target="T4uXMFoD5u3B1nQVuzlc-159" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="-160" />
+              <mxPoint x="-20" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-207" value="&amp;lt;CAN&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-182" target="dgDgLwtVGSBD31zoPSUn-47" edge="1">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
+            <mxPoint y="1010" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="-135" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-212" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;CONTROL&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;SENSING&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-1710" y="-810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-9" target="T4uXMFoD5u3B1nQVuzlc-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1630" y="-395" />
+              <mxPoint x="-1630" y="-20" />
+              <mxPoint x="-1280" y="-20" />
+              <mxPoint x="-1280" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;/sensing/top/rectified/pointcloud&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" parent="dgDgLwtVGSBD31zoPSUn-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.0235" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;PERCEPTION&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-746" y="-798.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;VEHICLE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="589" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-28" value="/perception/object_recognition/objects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;labelBackgroundColor=none;entryX=0.652;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ff0000;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-79" target="T4uXMFoD5u3B1nQVuzlc-122" edge="1">
+          <mxGeometry x="0.2769" relative="1" as="geometry">
+            <mxPoint x="-460" y="-390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1002" y="959" />
+              <mxPoint x="-660" y="959" />
+              <mxPoint x="-660" y="-420" />
+              <mxPoint x="-100" y="-420" />
+            </Array>
+            <mxPoint x="-997.55" y="910" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-38" value="/planning/scenario_planning/max_velocity_candidates&lt;br&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="dgDgLwtVGSBD31zoPSUn-40" edge="1">
+          <mxGeometry x="0.3939" y="-10" relative="1" as="geometry">
+            <mxPoint x="192.5" y="-530" as="targetPoint" />
+            <mxPoint x="670" y="-670" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="720" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-39" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="690" y="-900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="external_velocity_&lt;br&gt;limit_selector" tooltip="apiとautoware.iv内部から送られてくる制約付き減速指示を受け取り、整合性をとる" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/external_velocity_limit_selector#external-velocity-limit-selector" linkTarget="_blank" id="dgDgLwtVGSBD31zoPSUn-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="30" y="-530" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-41" value="/planning/scenario_planning/max_velocity&lt;br&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dgDgLwtVGSBD31zoPSUn-40" target="T4uXMFoD5u3B1nQVuzlc-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522.5" y="-600" as="targetPoint" />
+            <mxPoint x="100" y="-480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="-310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;SYSTEM&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="-50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-47" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;strokeWidth=3;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-198" y="1120" width="98" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-58" value="/autoware/state" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" parent="1" source="dgDgLwtVGSBD31zoPSUn-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="655.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-59" value="/autoware/engage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" source="dgDgLwtVGSBD31zoPSUn-62" edge="1">
+          <mxGeometry x="0.365" y="-10" relative="1" as="geometry">
+            <mxPoint x="720" y="655.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" parent="1" source="dgDgLwtVGSBD31zoPSUn-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="655.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-61" value="/diagnostics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dgDgLwtVGSBD31zoPSUn-60" vertex="1" connectable="0">
+          <mxGeometry x="-0.0048" relative="1" as="geometry">
+            <mxPoint y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="component_state_monitor" link="https://github.com/tier4/autoware.iv/tree/master/system/autoware_state_monitor" tooltip="なにかしてます" id="dgDgLwtVGSBD31zoPSUn-62">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=0;overflow=width;" parent="1" vertex="1">
+            <mxGeometry x="750" y="540" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-63" value="&amp;nbsp; &amp;nbsp; /control/command/control_cmd&lt;br&gt;&amp;nbsp; &amp;nbsp; /control/trajectory_follower/control_cmd&lt;br&gt;&amp;nbsp; &amp;nbsp; /initialpose3d&lt;br&gt;&amp;nbsp; &amp;nbsp; /localization/kinematic_state&lt;br&gt;&amp;nbsp; &amp;nbsp; /map/pointcloud_map&lt;br&gt;&amp;nbsp; &amp;nbsp; /map/vector_map&lt;br&gt;&amp;nbsp; &amp;nbsp; /perception/object_recognition/objects&lt;br&gt;&amp;nbsp; &amp;nbsp; /planning/mission_planning/route&lt;br&gt;&amp;nbsp; &amp;nbsp; /planning/scenario_planning/trajectory&lt;br&gt;&amp;nbsp; &amp;nbsp; /system/emergency/control_cmd&lt;br&gt;&amp;nbsp; &amp;nbsp; /vehicle/status/control_mode&lt;br&gt;&amp;nbsp; &amp;nbsp; /vehicle/status/steering_status&lt;br&gt;&amp;nbsp; &amp;nbsp; /vehicle/status/velocity_status" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;jumpStyle=arc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="dgDgLwtVGSBD31zoPSUn-62" edge="1">
+          <mxGeometry x="-0.3023" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="480" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgDgLwtVGSBD31zoPSUn-64" value="&lt;div style=&quot;text-align: left;&quot;&gt;/system/emergency/control_cmd [AckermannControlCommand]&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;/system/emergency/gear_cmd [GearCommand]&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;/system/emergency/hazard_lights_cmd [HazardLightsCommand]&lt;/div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;/system/emergency/emergency_state&amp;nbsp;[EmergencyStateStamped]&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;rotation=90;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="590" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IbOPMuNpkxzarGe-ctKe-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;LOCALIZATION&amp;gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-1841" y="75.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbOPMuNpkxzarGe-ctKe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IbOPMuNpkxzarGe-ctKe-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1600" y="267" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1600" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbOPMuNpkxzarGe-ctKe-6" value="/localization/acceleration&lt;br&gt;[geometry_msgs::msg::AccelWithCovarianceStamped}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IbOPMuNpkxzarGe-ctKe-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.1484" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="twist2Accel" tooltip="Overwrite vx=0 and wz=0 when the vehicle wheel speed is zero to indicate the stop condition." link="https://github.com/autowarefoundation/autoware.universe/tree/main/localization/stop_filter#stop_filter" linkTarget="_blank" id="IbOPMuNpkxzarGe-ctKe-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="-2010" y="247.25" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IbOPMuNpkxzarGe-ctKe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;comic=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-58" target="IbOPMuNpkxzarGe-ctKe-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2150" y="742" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2185" y="267" />
+            </Array>
+            <mxPoint x="-2150" y="502" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
