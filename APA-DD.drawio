@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T06:39:51.626Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YYKBN-WxhlxplO-LYkj4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T06:44:00.526Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L61DFM2sex9NElurYEKd" version="22.0.8" type="github">
   <diagram id="D92_dH6H-56m5Iklp3J5" name="Page-1">
     <mxGraphModel dx="4236" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -808,6 +808,14 @@
             <mxPoint x="8" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PhnyhUWuh0wzEa-d3fqf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=1.021;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="PhnyhUWuh0wzEa-d3fqf-29" target="T4uXMFoD5u3B1nQVuzlc-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PhnyhUWuh0wzEa-d3fqf-80" value="/planning/scenario_planning&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/scenario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhnyhUWuh0wzEa-d3fqf-78">
+          <mxGeometry x="0.2192" y="-6" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PhnyhUWuh0wzEa-d3fqf-29" value="&lt;b&gt;RVIZ / HMI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="-740" width="209.5" height="40" as="geometry" />
         </mxCell>
@@ -858,7 +866,7 @@
         </mxCell>
         <mxCell id="PhnyhUWuh0wzEa-d3fqf-47" value="/planning/mission_planning/goal,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/planning/mission_planning/checkpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhnyhUWuh0wzEa-d3fqf-46">
           <mxGeometry x="-0.2484" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-62" y="36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PhnyhUWuh0wzEa-d3fqf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PhnyhUWuh0wzEa-d3fqf-43" target="T4uXMFoD5u3B1nQVuzlc-111">
@@ -919,7 +927,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhnyhUWuh0wzEa-d3fqf-63" value="/motovis_perception/debug/marker_array" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhnyhUWuh0wzEa-d3fqf-62">
+        <mxCell id="PhnyhUWuh0wzEa-d3fqf-63" value="/motovis_perception/debug/marker_array" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="PhnyhUWuh0wzEa-d3fqf-62">
           <mxGeometry x="0.4486" y="3" relative="1" as="geometry">
             <mxPoint x="-27" y="173" as="offset" />
           </mxGeometry>
