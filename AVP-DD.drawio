@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T05:30:32.790Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pQEC3Ii1dWWUaloLGSBA" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T05:36:42.694Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Iv03R4kXpolcWoLszV4U" version="23.0.2" type="github">
   <diagram id="D92_dH6H-56m5Iklp3J5" name="Page-1">
     <mxGraphModel dx="5068" dy="3596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1003,11 +1003,37 @@
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;MAP&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-1657" y="-1050" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-31" target="YnfKQMemC06d4zFCANop-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2130" y="-1000" />
+              <mxPoint x="-2130" y="-331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-9" value="/map/map_projector_info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-L_I0hgm7C_JRg4E0hAt-8">
+          <mxGeometry x="-0.5764" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-31" target="G4T6Q4uRVPxt6Tj0Fxk_-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="&lt;b&gt;Map projection Loader&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="G4T6Q4uRVPxt6Tj0Fxk_-31">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-1792" y="-1010" width="120" height="40" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1400" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-12" value="/map/vector_map" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-L_I0hgm7C_JRg4E0hAt-11">
+          <mxGeometry x="0.1516" y="-5" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object label="&lt;b&gt;Lanelet Map Loader&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="G4T6Q4uRVPxt6Tj0Fxk_-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-1792" y="-920" width="120" height="40" as="geometry" />
