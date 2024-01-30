@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T05:26:45.135Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aUUeotKq1wLGqPrhBRpA" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T05:29:07.706Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="19jWT9x9_QtR7cUCN9nl" version="23.0.2" type="github">
   <diagram id="D92_dH6H-56m5Iklp3J5" name="Page-1">
     <mxGraphModel dx="5068" dy="3596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-119" value="/planning/mission_planning/route&lt;br&gt;[autoware_auto_planning_msgs/HADMapRoute]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;jumpStyle=none;" parent="1" source="PhnyhUWuh0wzEa-d3fqf-10" target="T4uXMFoD5u3B1nQVuzlc-121" edge="1">
-          <mxGeometry x="-0.6884" y="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.8147" y="-1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-179" y="-590" />
               <mxPoint x="-180" y="-590" />
@@ -676,6 +676,26 @@
               <mxPoint x="-369" y="-993" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.41;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PhnyhUWuh0wzEa-d3fqf-10" target="-L_I0hgm7C_JRg4E0hAt-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-157" y="-824" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-181" y="-824" />
+              <mxPoint x="-181" y="-750" />
+              <mxPoint x="230" y="-750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="G4T6Q4uRVPxt6Tj0Fxk_-230">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-179" y="-830" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-179" y="-750" />
+              <mxPoint x="-620" y="-750" />
+              <mxPoint x="-620" y="541" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;b&gt;mission_planner&lt;/b&gt;" tooltip="高精度地図情報をもとに、自己位置からゴールまでのルートを計算します。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/mission_planner" id="PhnyhUWuh0wzEa-d3fqf-10">
