@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T05:22:24.814Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9CXO34ZaDycGXWgG-IlO" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T05:26:45.135Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aUUeotKq1wLGqPrhBRpA" version="23.0.2" type="github">
   <diagram id="D92_dH6H-56m5Iklp3J5" name="Page-1">
     <mxGraphModel dx="5068" dy="3596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,13 +20,25 @@
           <mxGeometry x="225" y="446" width="810" height="380" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-206" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-555.5" width="950" height="757.5" as="geometry" />
+          <mxGeometry x="160" y="-555.5" width="1000" height="757.5" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-122" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-429" width="230" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-210" target="-L_I0hgm7C_JRg4E0hAt-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="-418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-5" value="predicted path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-L_I0hgm7C_JRg4E0hAt-4">
+          <mxGeometry x="-0.1168" y="6" relative="1" as="geometry">
+            <mxPoint x="16" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-210" value="trajectory_follower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-528" width="570" height="440" as="geometry" />
+          <mxGeometry x="350" y="-528" width="480" height="440" as="geometry" />
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-6" value="top/velodyne_packets" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -329,7 +341,7 @@
             <mxGeometry x="640" y="-391.5" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="T4uXMFoD5u3B1nQVuzlc-136">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="T4uXMFoD5u3B1nQVuzlc-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;vehicle_cmd_gate&lt;/b&gt;" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/vehicle_cmd_gate#vehicle_cmd_gate" tooltip="指示モードに応じて、複数のコマンドの中から後段に渡すコマンドを選択します。" linkTarget="_blank" id="T4uXMFoD5u3B1nQVuzlc-160">
@@ -337,7 +349,7 @@
             <mxGeometry x="290" y="127" width="680" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="T4uXMFoD5u3B1nQVuzlc-175" edge="1" source="T4uXMFoD5u3B1nQVuzlc-160">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="T4uXMFoD5u3B1nQVuzlc-175" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="170" as="sourcePoint" />
             <mxPoint x="707" y="775" as="targetPoint" />
@@ -383,7 +395,7 @@
             <mxGeometry x="1010" y="-391.5" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-172" value="/current_gate_mode&amp;nbsp;[GateMode]&lt;div&gt;/gear_cmd [GearCommand]&lt;/div&gt;&lt;div&gt;/turn_indicators_cmd&amp;nbsp; [TurnIndicatorCommand]&lt;/div&gt;&lt;div&gt;&lt;div&gt;/hazard_lights_cmd&amp;nbsp; [HazardLightsCommand]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;/vehicle_emergency_cmd [VehicleEmergencyStamped]&lt;/div&gt;" style="rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.729;entryY=0.042;entryDx=0;entryDy=0;align=left;labelBackgroundColor=default;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" edge="1" target="T4uXMFoD5u3B1nQVuzlc-173" source="T4uXMFoD5u3B1nQVuzlc-160">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-172" value="/current_gate_mode&amp;nbsp;[GateMode]&lt;div&gt;/gear_cmd [GearCommand]&lt;/div&gt;&lt;div&gt;/turn_indicators_cmd&amp;nbsp; [TurnIndicatorCommand]&lt;/div&gt;&lt;div&gt;&lt;div&gt;/hazard_lights_cmd&amp;nbsp; [HazardLightsCommand]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;/vehicle_emergency_cmd [VehicleEmergencyStamped]&lt;/div&gt;" style="rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.729;entryY=0.042;entryDx=0;entryDy=0;align=left;labelBackgroundColor=default;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-160" target="T4uXMFoD5u3B1nQVuzlc-173" edge="1">
           <mxGeometry x="-0.288" y="-50" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
             <mxPoint x="770.9200000000001" y="604.02" as="targetPoint" />
@@ -473,7 +485,7 @@
             <mxGeometry x="1397" y="-352.5" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T4uXMFoD5u3B1nQVuzlc-193" value="&lt;div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=left;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-194" edge="1" target="T4uXMFoD5u3B1nQVuzlc-160">
+        <mxCell id="T4uXMFoD5u3B1nQVuzlc-193" value="&lt;div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=left;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="T4uXMFoD5u3B1nQVuzlc-194" target="T4uXMFoD5u3B1nQVuzlc-160" edge="1">
           <mxGeometry x="-0.384" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="230" y="490" as="targetPoint" />
@@ -507,7 +519,7 @@
         <mxCell id="dgDgLwtVGSBD31zoPSUn-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;VEHICLE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="905" y="465" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="G4T6Q4uRVPxt6Tj0Fxk_-269">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dgDgLwtVGSBD31zoPSUn-39" target="G4T6Q4uRVPxt6Tj0Fxk_-269" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="-810" />
@@ -516,7 +528,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-274" value="/planning/scenario_planning/max_velocity_candidates&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="G4T6Q4uRVPxt6Tj0Fxk_-273">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-274" value="/planning/scenario_planning/max_velocity_candidates&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="G4T6Q4uRVPxt6Tj0Fxk_-273" vertex="1" connectable="0">
           <mxGeometry x="0.7069" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -797,7 +809,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhnyhUWuh0wzEa-d3fqf-32" value="" style="endArrow=classic;html=1;rounded=0;jumpStyle=arc;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="PhnyhUWuh0wzEa-d3fqf-29">
+        <mxCell id="PhnyhUWuh0wzEa-d3fqf-32" value="" style="endArrow=classic;html=1;rounded=0;jumpStyle=arc;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PhnyhUWuh0wzEa-d3fqf-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-990" y="-698.4399999999996" as="sourcePoint" />
             <mxPoint x="-990" y="-241.5599999999999" as="targetPoint" />
@@ -951,7 +963,7 @@
             <mxGeometry x="-1400" y="-504.25" width="160" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="PhnyhUWuh0wzEa-d3fqf-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.824;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PhnyhUWuh0wzEa-d3fqf-43" edge="1" target="PhnyhUWuh0wzEa-d3fqf-29">
+        <mxCell id="PhnyhUWuh0wzEa-d3fqf-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.824;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PhnyhUWuh0wzEa-d3fqf-43" target="PhnyhUWuh0wzEa-d3fqf-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-882" y="-702" as="targetPoint" />
           </mxGeometry>
@@ -962,71 +974,71 @@
           </mxGeometry>
         </mxCell>
         <object label="&lt;b&gt;Lidar VLP32&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="G4T6Q4uRVPxt6Tj0Fxk_-28">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-1580" y="-504.25" width="160" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" vertex="1" parent="1">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-1842" y="-1060" width="270" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;MAP&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;MAP&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-1657" y="-1050" width="80" height="30" as="geometry" />
         </mxCell>
         <object label="&lt;b&gt;Map projection Loader&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="G4T6Q4uRVPxt6Tj0Fxk_-31">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-1792" y="-1010" width="120" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Lanelet Map Loader&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="G4T6Q4uRVPxt6Tj0Fxk_-32">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-1792" y="-920" width="120" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Pointcloud Map Loadser&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="G4T6Q4uRVPxt6Tj0Fxk_-33">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="-1792" y="-830" width="120" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-220" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;comic=0;" vertex="1" parent="1">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-220" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-555" y="-590" width="260" height="686" as="geometry" />
         </mxCell>
         <UserObject label="behavior_velocity_planner" tooltip="交通ルールをもとに、経路上の最大速度を決定します。各モジュールは、自身の計算した最大速度と上段の結果を比較し、小さい速度を経路上に書き込みます。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/behavior_velocity_planner" id="G4T6Q4uRVPxt6Tj0Fxk_-221">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;sketch=0;shadow=0;arcSize=9;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;sketch=0;shadow=0;arcSize=9;" parent="1" vertex="1">
             <mxGeometry x="-555" y="-239" width="250" height="300" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-222" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;/planning/scenario_planning/trajectory [Trajectory]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-222" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;/planning/scenario_planning/trajectory [Trajectory]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-387.57142857142844" y="751.1428571428573" as="geometry" />
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-223" value="motion_planning/obstacle_avoidance_planner/trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-224" target="G4T6Q4uRVPxt6Tj0Fxk_-226">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-223" value="motion_planning/obstacle_avoidance_planner/trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-224" target="G4T6Q4uRVPxt6Tj0Fxk_-226" edge="1">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="obstacle_&lt;br&gt;avoidance_planner" tooltip="車両形状や走行可能領域を考慮して、経路の平滑化を行う。障害物も避けるが、long historyで最近は回避機能はoffになっています。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/obstacle_avoidance_planner" id="G4T6Q4uRVPxt6Tj0Fxk_-224">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="251" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-225" value="motion_planning/obstacle_velocity_limiter/trajectory [Trajectory]" style="edgeStyle=none;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-226" target="G4T6Q4uRVPxt6Tj0Fxk_-227">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-225" value="motion_planning/obstacle_velocity_limiter/trajectory [Trajectory]" style="edgeStyle=none;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-226" target="G4T6Q4uRVPxt6Tj0Fxk_-227" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="obstacle_velocity_limiter" tooltip="自車が停止しているときに、周囲の障害物を確認し、近くに障害物がいる場合は車両を発進させない。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/obstacle_velocity_limiter" id="G4T6Q4uRVPxt6Tj0Fxk_-226">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-500" y="341" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="G4T6Q4uRVPxt6Tj0Fxk_-269">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="G4T6Q4uRVPxt6Tj0Fxk_-269" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="obstacle_stop_&lt;br&gt;planner" tooltip="障害物停止・前車追従・近傍障害物減速の複数の機能を持ち、機能に応じて経路上に速度を埋め込む。&#xa;目標経路上に障害物点がある場合は停止、経路近くに障害物点群がある場合は減速、前方に車両が居る場合は前車追従。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/obstacle_stop_planner" id="G4T6Q4uRVPxt6Tj0Fxk_-227">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="436" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-228" value="lane_driving/trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="G4T6Q4uRVPxt6Tj0Fxk_-230">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-228" value="lane_driving/trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="G4T6Q4uRVPxt6Tj0Fxk_-230" edge="1">
           <mxGeometry x="-0.1154" y="-25" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-430" y="521" />
@@ -1034,77 +1046,77 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-229" value="trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-230" target="G4T6Q4uRVPxt6Tj0Fxk_-232">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-229" value="trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-230" target="G4T6Q4uRVPxt6Tj0Fxk_-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="scenario_selector" tooltip="いまのrouteおよび地図情報から、LaneDriving / Parkingのシナリオを判断し、どちらの経路を使うかを切り替える。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/scenario_selector" id="G4T6Q4uRVPxt6Tj0Fxk_-230">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-447.5" y="521" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-231" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;/planning/scenario_planning/motion_velocity_smoother/trajectory [Trajectory]&lt;/span&gt;" style="edgeStyle=none;html=1;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-232" target="G4T6Q4uRVPxt6Tj0Fxk_-243">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-231" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;/planning/scenario_planning/motion_velocity_smoother/trajectory [Trajectory]&lt;/span&gt;" style="edgeStyle=none;html=1;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-232" target="G4T6Q4uRVPxt6Tj0Fxk_-243" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="motion_velocity_&lt;br&gt;smoother" tooltip="経路に埋め込まれた最大速度を超過しないように、うまい具合で速度を平滑化する。カーブでの減速もここで行う。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/motion_velocity_smoother" id="G4T6Q4uRVPxt6Tj0Fxk_-232">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-447.5" y="611" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-233" value="&lt;b&gt;&amp;lt;Lane Driving&amp;gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" vertex="1" parent="1">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-233" value="&lt;b&gt;&amp;lt;Lane Driving&amp;gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-590.0030303030303" width="90" height="20.303030303030305" as="geometry" />
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-234" value="behavior_planning/path_with_lane_id" style="edgeStyle=none;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-237" target="G4T6Q4uRVPxt6Tj0Fxk_-221">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-234" value="behavior_planning/path_with_lane_id" style="edgeStyle=none;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-237" target="G4T6Q4uRVPxt6Tj0Fxk_-221" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-446.5" y="-276" as="sourcePoint" />
             <mxPoint x="-446.5" y="-226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-221" target="G4T6Q4uRVPxt6Tj0Fxk_-246">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-221" target="G4T6Q4uRVPxt6Tj0Fxk_-246" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-430" y="161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-236" value="behavior_planning/path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4T6Q4uRVPxt6Tj0Fxk_-235">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-236" value="behavior_planning/path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G4T6Q4uRVPxt6Tj0Fxk_-235" vertex="1" connectable="0">
           <mxGeometry x="0.206" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="behavior_path_planner" tooltip="交通ルールをもとに、経路上の最大速度を決定します。各モジュールは、自身の計算した最大速度と上段の結果を比較し、小さい速度を経路上に書き込みます。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/behavior_path_planner" id="G4T6Q4uRVPxt6Tj0Fxk_-237">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-530" y="-559" width="200" height="241" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="side_shift" tooltip="遠隔からの司令をもとに幅寄せを行います。" id="G4T6Q4uRVPxt6Tj0Fxk_-238">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="-361" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="pull_over/out" tooltip="ルート情報をもとに路肩への幅寄せ、路肩からの発進を行います。" id="G4T6Q4uRVPxt6Tj0Fxk_-239">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="-401" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="obstacle_avoidance" tooltip="ルート情報や障害物情報をもとに、障害物回避を実行します。" id="G4T6Q4uRVPxt6Tj0Fxk_-240">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="-441" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="lane_change" tooltip="ルート情報や障害物情報をもとに、レーンチェンジを実行します。" id="G4T6Q4uRVPxt6Tj0Fxk_-241">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="-483" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="lane_following" tooltip="ルート情報をもとに走行経路を作成します。" id="G4T6Q4uRVPxt6Tj0Fxk_-242">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="-521" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-243" target="T4uXMFoD5u3B1nQVuzlc-159">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-243" target="T4uXMFoD5u3B1nQVuzlc-159" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-387" y="930" />
-              <mxPoint x="180" y="930" />
-              <mxPoint x="180" y="-620" />
+              <mxPoint x="140" y="930" />
+              <mxPoint x="140" y="-620" />
               <mxPoint x="580" y="-620" />
               <mxPoint x="580" y="-450" />
               <mxPoint x="720" y="-450" />
@@ -1112,134 +1124,144 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="planning_validator" tooltip="Check the trajectory and stop publishing it if it is unsafe." link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/planning_validator" id="G4T6Q4uRVPxt6Tj0Fxk_-243">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-447.5" y="691" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-246" target="G4T6Q4uRVPxt6Tj0Fxk_-224">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-246" target="G4T6Q4uRVPxt6Tj0Fxk_-224" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-245" value="path_smoother/path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4T6Q4uRVPxt6Tj0Fxk_-244">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-245" value="path_smoother/path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G4T6Q4uRVPxt6Tj0Fxk_-244" vertex="1" connectable="0">
           <mxGeometry x="-0.3175" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="path_smoother" tooltip="車両形状や走行可能領域を考慮して、経路の平滑化を行う。障害物も避けるが、long historyで最近は回避機能はoffになっています。" link="https://autowarefoundation.github.io/autoware.universe/main/planning/path_smoother/" id="G4T6Q4uRVPxt6Tj0Fxk_-246">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="161" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-247" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-247" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-424" y="-204" width="110" height="25" as="geometry" />
         </mxCell>
         <UserObject label="no_stopping_area" tooltip="停止禁止区域内で停止しないように、区域手前での進行・停止判断を行います。" id="G4T6Q4uRVPxt6Tj0Fxk_-248">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry y="93" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="intersection" tooltip="地図情報および動物体情報から、交差点での停止/発進の判定を行います。" id="G4T6Q4uRVPxt6Tj0Fxk_-249">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry y="62" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="traffic_light" tooltip="信号の色に応じて停止/発進の指示をします" id="G4T6Q4uRVPxt6Tj0Fxk_-250">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry y="31" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="blind_spot" tooltip="右左折時に車両後方の巻き込み確認を行い、衝突の危険がある場合は停止します。" id="G4T6Q4uRVPxt6Tj0Fxk_-251">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="no_drivable_lane" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-252">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry y="155" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="run_out" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-253">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry y="124" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="merge_from_private" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-254">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="G4T6Q4uRVPxt6Tj0Fxk_-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="G4T6Q4uRVPxt6Tj0Fxk_-247" vertex="1">
             <mxGeometry y="186.46341463414635" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="occlusion_spot" tooltip="地図情報および動物体情報から、死角手前での減速を行います。" id="G4T6Q4uRVPxt6Tj0Fxk_-255">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-110" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="cross_walk" tooltip="横断歩道に人が居る、もしくは侵入しようとしてきている場合に、横断歩道手前で停止します。近くに人が居る場合は徐行します。" id="G4T6Q4uRVPxt6Tj0Fxk_-256">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-171" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="detection_area" tooltip="規定エリア内の障害物点群がある場合に、対応する位置で停止します" id="G4T6Q4uRVPxt6Tj0Fxk_-257">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-202" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="stop_line" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-258">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-79" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="virtual_traffic_light" tooltip="信号の色に応じて停止/発進の指示をします" id="G4T6Q4uRVPxt6Tj0Fxk_-259">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-141" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="speed_bump" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-260">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-48" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;walkway&lt;/div&gt;" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-261">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="13.064777327935218" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;out_of_lane&lt;/div&gt;" tooltip="規定された停止線で一時停止を行います" id="G4T6Q4uRVPxt6Tj0Fxk_-262">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;flipV=0;flipH=1;" parent="1" vertex="1">
             <mxGeometry x="-543" y="-18" width="110" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-269" target="G4T6Q4uRVPxt6Tj0Fxk_-232">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-269" target="G4T6Q4uRVPxt6Tj0Fxk_-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="external_velocity_&lt;br&gt;limit_selector" tooltip="apiとautoware.iv内部から送られてくる制約付き減速指示を受け取り、整合性をとる" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/external_velocity_limit_selector" id="G4T6Q4uRVPxt6Tj0Fxk_-269">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-137" y="610" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="surround_obstacle_checker" tooltip="自車が停止しているときに、周囲の障害物を確認し、近くに障害物がいる場合は車両を発進させない。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/surround_obstacle_checker" id="G4T6Q4uRVPxt6Tj0Fxk_-270">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-157" y="381" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-270" target="G4T6Q4uRVPxt6Tj0Fxk_-269">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-270" target="G4T6Q4uRVPxt6Tj0Fxk_-269" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-276" value="/planning/scenario_planning/max_velocity_candidates&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4T6Q4uRVPxt6Tj0Fxk_-271">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-276" value="/planning/scenario_planning/max_velocity_candidates&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[tier4_planning_msgs/msg/VelocityLimit]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G4T6Q4uRVPxt6Tj0Fxk_-271" vertex="1" connectable="0">
           <mxGeometry x="-0.0389" y="3" relative="1" as="geometry">
             <mxPoint x="14" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-243" target="T4uXMFoD5u3B1nQVuzlc-158">
+        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-243" target="T4uXMFoD5u3B1nQVuzlc-158" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-387" y="930" />
-              <mxPoint x="180" y="930" />
-              <mxPoint x="180" y="-620" />
+              <mxPoint x="140" y="930" />
+              <mxPoint x="140" y="-620" />
               <mxPoint x="580" y="-620" />
               <mxPoint x="580" y="-450" />
               <mxPoint x="440" y="-450" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-L_I0hgm7C_JRg4E0hAt-1" value="/diagnostics" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=11;endArrow=classic;endFill=1;startSize=14;endSize=6;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.07;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-L_I0hgm7C_JRg4E0hAt-2" target="T4uXMFoD5u3B1nQVuzlc-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242" y="-297.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="lane_departure_&lt;br&gt;checker" link="https://github.com/autowarefoundation/autoware.universe/tree/main/control/lane_departure_checker" tooltip="MPCの出す予測経路と、laneletのレーン情報を用いて、車両がレーン外に出ようとしているかどうかを判定する。diag出力をerror_monitorに送り、逸脱判断字は停止する（option）" id="-L_I0hgm7C_JRg4E0hAt-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;glass=0;shadow=0;" vertex="1" parent="1">
+            <mxGeometry x="170" y="-341.25" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
