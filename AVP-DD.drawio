@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T05:55:04.522Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DFwg-6pQtpi7g-_DmFAh" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T10:30:28.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JLeysDn4LF1yIGnr_htf" version="24.2.8" type="github">
   <diagram id="D92_dH6H-56m5Iklp3J5" name="Page-1">
-    <mxGraphModel dx="3809" dy="2898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3984" dy="2946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4uXMFoD5u3B1nQVuzlc-195" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="-590" y="-610" width="660" height="1411" as="geometry" />
+          <mxGeometry x="-590" y="-610" width="660" height="1460" as="geometry" />
         </mxCell>
         <mxCell id="PhnyhUWuh0wzEa-d3fqf-36" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;comic=0;" parent="1" vertex="1">
           <mxGeometry x="-2093" y="-590" width="873" height="280" as="geometry" />
@@ -532,7 +532,7 @@
             <Array as="points">
               <mxPoint x="720" y="-810" />
               <mxPoint x="120" y="-810" />
-              <mxPoint x="120" y="630" />
+              <mxPoint x="120" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -703,7 +703,7 @@
               <mxPoint x="-179" y="-822" />
               <mxPoint x="-179" y="-750" />
               <mxPoint x="-620" y="-750" />
-              <mxPoint x="-620" y="541" />
+              <mxPoint x="-620" y="627" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1070,7 +1070,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-222" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;/planning/scenario_planning/trajectory [Trajectory]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-387.57142857142844" y="751.1428571428573" as="geometry" />
+          <mxGeometry x="-385.50142857142845" y="916.0028571428574" as="geometry" />
         </mxCell>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-223" value="motion_planning/obstacle_avoidance_planner/trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-224" target="G4T6Q4uRVPxt6Tj0Fxk_-226" edge="1">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
@@ -1095,33 +1095,35 @@
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="G4T6Q4uRVPxt6Tj0Fxk_-269" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VUZAAnJuFbZnqw6yJbmF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="VUZAAnJuFbZnqw6yJbmF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUZAAnJuFbZnqw6yJbmF-4" value="lane_driving/trajectory [Trajectory]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUZAAnJuFbZnqw6yJbmF-3">
+          <mxGeometry x="-0.1373" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;b&gt;obstacle_stop_&lt;br&gt;planner&lt;/b&gt;" tooltip="障害物停止・前車追従・近傍障害物減速の複数の機能を持ち、機能に応じて経路上に速度を埋め込む。&#xa;目標経路上に障害物点がある場合は停止、経路近くに障害物点群がある場合は減速、前方に車両が居る場合は前車追従。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/obstacle_stop_planner" id="G4T6Q4uRVPxt6Tj0Fxk_-227">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-490" y="436" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-228" value="lane_driving/trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-227" target="G4T6Q4uRVPxt6Tj0Fxk_-230" edge="1">
-          <mxGeometry x="-0.1154" y="-25" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-430" y="521" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-229" value="trajectory [Trajectory]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-230" target="G4T6Q4uRVPxt6Tj0Fxk_-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;scenario_selector&lt;/b&gt;" tooltip="いまのrouteおよび地図情報から、LaneDriving / Parkingのシナリオを判断し、どちらの経路を使うかを切り替える。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/scenario_selector" id="G4T6Q4uRVPxt6Tj0Fxk_-230">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-447.5" y="521" width="120" height="40" as="geometry" />
+            <mxGeometry x="-445.5" y="607" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-231" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;/planning/scenario_planning/motion_velocity_smoother/trajectory [Trajectory]&lt;/span&gt;" style="edgeStyle=none;html=1;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-232" target="G4T6Q4uRVPxt6Tj0Fxk_-243" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <UserObject label="&lt;b&gt;motion_velocity_&lt;br&gt;smoother&lt;/b&gt;" tooltip="経路に埋め込まれた最大速度を超過しないように、うまい具合で速度を平滑化する。カーブでの減速もここで行う。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/motion_velocity_smoother" id="G4T6Q4uRVPxt6Tj0Fxk_-232">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-447.5" y="611" width="120" height="40" as="geometry" />
+            <mxGeometry x="-445.5" y="697" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-233" value="&lt;b&gt;&amp;lt;Lane Driving&amp;gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=0;" parent="1" vertex="1">
@@ -1187,7 +1189,7 @@
         </mxCell>
         <UserObject label="&lt;b&gt;planning_validator&lt;/b&gt;" tooltip="Check the trajectory and stop publishing it if it is unsafe." link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/planning_validator" id="G4T6Q4uRVPxt6Tj0Fxk_-243">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-447.5" y="691" width="120" height="40" as="geometry" />
+            <mxGeometry x="-445.5" y="777" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-246" target="G4T6Q4uRVPxt6Tj0Fxk_-224" edge="1">
@@ -1282,11 +1284,15 @@
           </mxCell>
         </UserObject>
         <mxCell id="G4T6Q4uRVPxt6Tj0Fxk_-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G4T6Q4uRVPxt6Tj0Fxk_-269" target="G4T6Q4uRVPxt6Tj0Fxk_-232" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-385" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="&lt;b&gt;external_velocity_&lt;br&gt;limit_selector&lt;/b&gt;" tooltip="apiとautoware.iv内部から送られてくる制約付き減速指示を受け取り、整合性をとる" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/external_velocity_limit_selector" id="G4T6Q4uRVPxt6Tj0Fxk_-269">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-137" y="610" width="120" height="40" as="geometry" />
+            <mxGeometry x="-137" y="650" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;surround_obstacle_checker&lt;/b&gt;" tooltip="自車が停止しているときに、周囲の障害物を確認し、近くに障害物がいる場合は車両を発進させない。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/surround_obstacle_checker" id="G4T6Q4uRVPxt6Tj0Fxk_-270">
@@ -1338,6 +1344,32 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VUZAAnJuFbZnqw6yJbmF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VUZAAnJuFbZnqw6yJbmF-1" target="G4T6Q4uRVPxt6Tj0Fxk_-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUZAAnJuFbZnqw6yJbmF-6" value="avp_planning/trajectory [Trajectory]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUZAAnJuFbZnqw6yJbmF-5">
+          <mxGeometry x="-0.0492" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUZAAnJuFbZnqw6yJbmF-7" value="/" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="VUZAAnJuFbZnqw6yJbmF-1" target="PhnyhUWuh0wzEa-d3fqf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="540" />
+              <mxPoint x="-630" y="-1003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUZAAnJuFbZnqw6yJbmF-8" value="/api/rountng/set_route_points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUZAAnJuFbZnqw6yJbmF-7">
+          <mxGeometry x="0.7386" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b&gt;avp_planner&lt;/b&gt;" tooltip="障害物停止・前車追従・近傍障害物減速の複数の機能を持ち、機能に応じて経路上に速度を埋め込む。&#xa;目標経路上に障害物点がある場合は停止、経路近くに障害物点群がある場合は減速、前方に車両が居る場合は前車追従。" link="https://github.com/autowarefoundation/autoware.universe/tree/main/planning/obstacle_stop_planner" id="VUZAAnJuFbZnqw6yJbmF-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;shadow=0;" vertex="1" parent="1">
+            <mxGeometry x="-490" y="520" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
