@@ -51,7 +51,7 @@
         <mxCell id="toGZ8ETKJfE2OcWhgWiJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="toGZ8ETKJfE2OcWhgWiJ-5" target="aAM6zOO8ckU4A9BCb9Pb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toGZ8ETKJfE2OcWhgWiJ-5" value="&lt;b&gt;Vision perception node&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="toGZ8ETKJfE2OcWhgWiJ-5" value="&lt;b&gt;Vision perception node&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toGZ8ETKJfE2OcWhgWiJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="toGZ8ETKJfE2OcWhgWiJ-8" target="toGZ8ETKJfE2OcWhgWiJ-9" edge="1">
@@ -77,7 +77,7 @@
             <mxPoint x="1043" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toGZ8ETKJfE2OcWhgWiJ-17" value="ObjectInLane" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="toGZ8ETKJfE2OcWhgWiJ-16" vertex="1" connectable="0">
+        <mxCell id="toGZ8ETKJfE2OcWhgWiJ-17" value="ObjectsInLane" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="toGZ8ETKJfE2OcWhgWiJ-16" vertex="1" connectable="0">
           <mxGeometry x="0.0643" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
