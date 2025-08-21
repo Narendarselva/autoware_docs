@@ -1434,6 +1434,11 @@
             <mxPoint y="49" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3QsfZB5c9P9I_ioL6Mik-262" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;/perception/object-recognition/objects&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="3QsfZB5c9P9I_ioL6Mik-260">
+          <mxGeometry x="0.675" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object label="&lt;b&gt;SV-FC Perception&lt;/b&gt;" desc="MGRS座標系への変換" tooltip="gnssのdriverです" id="3QsfZB5c9P9I_ioL6Mik-252">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#BD7000;fillColor=#f0a30a;sketch=0;fontColor=#000000;" vertex="1" parent="1">
             <mxGeometry x="1253" y="1678.5" width="240" height="117.5" as="geometry" />
